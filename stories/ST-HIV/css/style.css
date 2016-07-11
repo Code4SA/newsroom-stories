@@ -87,23 +87,6 @@ a:focus, a:hover {
     background-color: #999!important;
 }
 
-/*READ MORE*/
-.more {
-  clear:both;
-}
-.morecontent span {
-    display: none;
-    padding-top:15px;
-    padding-bottom: 15px;
-}
-.morelink {
-    display: block;
-    color: #333;
-    text-decoration: none;
-    border-bottom: 1px solid #333;
-    padding-top:30px;
-}
-
 /*SLIDESHOW --- REMEMBER TO SET ON FOR DESKTOP/TABLET VIEW IT MUST BE FULLWIDTH IN MOBI*/
 
 .sy-slides-wrap {
