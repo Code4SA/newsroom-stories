@@ -1,0 +1,111 @@
+  @import 'https://fonts.googleapis.com/css?family=Amiri|Catamaran|Gudea|Lato|Open+Sans|Ovo|Rosario|Scheherazade|Suranna';
+  @import 'https://fonts.googleapis.com/css?family=Andika|Archivo+Black|Bevan|Halant|Secular+One';
+
+  body {
+      position: relative;
+      font-family: 'Gudea', sans-serif;
+      font-size:14px;
+  }
+  p {
+  	text-align:justify;
+  }
+  h1 {
+    font-family:'Archivo Black', sans-serif;
+  }
+  #section1 {
+  	padding-top:50px;
+  	color: #333;
+  }
+  #section2 {
+  	padding-top:50px;
+  	color: #333; 
+  }
+  #section3 {
+  	padding-top:50px;
+  	color: #333; 
+  }
+  #section4 {
+  	padding-top:50px;
+  	color: #333; 
+  }
+ #credit {
+    margin-top:30px;
+    color: #333;
+    padding:30px 0px;
+    background-color: #efefef;
+  }
+  .creditName {
+  color:#000;
+  font-weight:600;
+  text-transform: uppercase;
+  font-size:12px;
+}
+.navbar-inverse .navbar-nav>.active>a {
+	color: #333!important;
+  background-color: #eee!important;
+}
+.navbar-inverse {
+    background-color: #eee!important;
+    border-color: #ddd!important;
+}
+.uppercase {
+  font-family:'Archivo Black', sans-serif;
+	text-transform: uppercase;
+}
+.leadImg img {
+  width:100%;
+}
+.container-fluid {
+  padding-left:0px!important;
+  padding-right:0px!important;
+}
+.infoContext {
+	margin-top:25px;
+  background-color:#efefef;
+  padding:20px;
+}
+.byline {
+	font-size:18px;
+}
+a:focus, a:hover {
+    color: #23527c;
+    text-decoration: none!important;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #999!important;
+}
+.navbar-inverse .navbar-brand {
+    color: #333!important;
+}
+.navbar-brand {
+  padding: 15px 25px!important;
+}
+.navbar-toggle {
+  margin-right: 25px!important;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #999!important;
+}
+
+/*READ MORE*/
+.more {
+  clear:both;
+}
+.morecontent span {
+    display: none;
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+.morelink {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px solid #333;
+    padding-top:30px;
+}
+
+/*SLIDESHOW --- REMEMBER TO SET ON FOR DESKTOP/TABLET VIEW IT MUST BE FULLWIDTH IN MOBI*/
+
+.sy-slides-wrap {
+  margin-left: auto!important;margin-right:auto!important;width:80%!important;
+}
