@@ -1,2 +1,2 @@
-# newsroom-stories
+# NEWSROOM STORIES
 Newsroom template and stories repository
