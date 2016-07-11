@@ -7,26 +7,14 @@
       font-size:14px;
   }
   p {
-  	text-align:justify;
+  	text-align:left;
   }
   h1 {
     font-family:'Archivo Black', sans-serif;
   }
-  #section1 {
+  #section1, #section2, #section3, #section4, #section5, #section6 {
   	padding-top:50px;
   	color: #333;
-  }
-  #section2 {
-  	padding-top:50px;
-  	color: #333; 
-  }
-  #section3 {
-  	padding-top:50px;
-  	color: #333; 
-  }
-  #section4 {
-  	padding-top:50px;
-  	color: #333; 
   }
  #credit {
     margin-top:30px;
@@ -39,6 +27,11 @@
   font-weight:600;
   text-transform: uppercase;
   font-size:12px;
+}
+figcaption {
+  font-family:'Lato', sans-serif;
+  background-color: #fbfbfb;
+  padding:15px;
 }
 .navbar-inverse .navbar-nav>.active>a {
 	color: #333!important;
@@ -86,9 +79,20 @@ a:focus, a:hover {
 .navbar-inverse .navbar-toggle .icon-bar {
     background-color: #999!important;
 }
-
-/*SLIDESHOW --- REMEMBER TO SET ON FOR DESKTOP/TABLET VIEW IT MUST BE FULLWIDTH IN MOBI*/
-
-.sy-slides-wrap {
-  margin-left: auto!important;margin-right:auto!important;width:80%!important;
+.btn-primary {
+    color: #333!important;
+    background-color: #fff!important;
+    border-color: #fff!important;
+    border-bottom: 1px solid #333!important;
+}
+.btn {
+  margin-bottom: 15px!important;
+  border-radius:0px!important;
+}
+.well {
+  padding:0px!important;
+  background-color:transparent!important;
+  border:none!important;
+  box-shadow: none!important;
+  border-radius: none!important;
 }
