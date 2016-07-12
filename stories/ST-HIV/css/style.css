@@ -53,9 +53,11 @@ figcaption {
   padding-right:0px!important;
 }
 .infoContext {
+  color:#eee;
 	margin-top:25px;
-  background-color:#eee;
+  background-color:#333;
   padding:20px;
+  font-size:16px;
 }
 .byline {
 	font-size:18px;
