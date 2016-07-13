@@ -1,5 +1,6 @@
   @import 'https://fonts.googleapis.com/css?family=Amiri|Catamaran|Gudea|Lato|Open+Sans|Ovo|Rosario|Scheherazade|Suranna';
   @import 'https://fonts.googleapis.com/css?family=Andika|Archivo+Black|Bevan|Halant|Secular+One';
+  @import 'https://fonts.googleapis.com/css?family=Allerta|Averia+Sans+Libre|Hammersmith+One|Montserrat';
 
   body {
       position: relative;
@@ -30,7 +31,8 @@
 }
 figcaption {
   font-family:'Lato', sans-serif;
-  background-color: #eee;
+  /*background-color: #eee;*/
+  border: 1px solid #ccc;
   padding:15px;
 }
 .navbar-inverse .navbar-nav>.active>a {
@@ -46,7 +48,7 @@ figcaption {
     font-size: 12px;
 }
 .uppercase {
-  font-family:'Archivo Black', sans-serif;
+  font-family:'Secular One', sans-serif;
 	text-transform: uppercase;
 }
 .leadImg img {
@@ -57,9 +59,10 @@ figcaption {
   padding-right:0px!important;
 }
 .infoContext {
-  color:#eee;
-	margin-top:25px;
-  background-color:#333;
+  color:#333;
+	margin-top:30px;
+  margin-bottom:30px;
+  border:#777 solid 1px;
   padding:20px;
   font-size:16px;
 }
