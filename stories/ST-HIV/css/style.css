@@ -35,11 +35,15 @@ figcaption {
 }
 .navbar-inverse .navbar-nav>.active>a {
 	color: #333!important;
-  background-color: #eee!important;
+  background-color: #fff!important;
 }
 .navbar-inverse {
-    background-color: #eee!important;
-    border-color: #ddd!important;
+    background-color: #fff!important;
+    border-color: #eee!important;
+    text-transform: uppercase;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 12px;
 }
 .uppercase {
   font-family:'Archivo Black', sans-serif;
