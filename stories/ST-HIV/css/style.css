@@ -109,3 +109,11 @@ a:focus, a:hover {
   box-shadow: none!important;
   border-radius: none!important;
 }
+
+.vizDesktop {text-align: center;}
+.vizMobi {display: none;}
+
+@media screen and (max-width: 679px) {
+  .vizDesktop {display:none;}
+  .vizMobi {display: inline;width:100%;text-align: center;}
+  }
