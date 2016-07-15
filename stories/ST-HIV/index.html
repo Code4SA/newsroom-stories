@@ -6,14 +6,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'>
+  <link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="css/style.css">
-
+  <link rel="stylesheet" href="css/swipebox.css">
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="https://use.fontawesome.com/d140189d2b.js"></script>
   <script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
-          
+  <script src="js/jquery.swipebox.js"></script>
+
+
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -61,6 +63,8 @@
   <h1 class="uppercase" style="text-align:center;">Those who lived, those who died<br> and those who were left behind</h1>
 
   <p class="infoContext">On the eve of the International Aids conference in Durban and 12 years after the first private ARV pilot programme was launched in 2001, Raymond Joseph looks back at South Africa's rocky road to HIV-freedom, and revisits some of the families destroyed by Mbeki's Aids denialism</p>
+
+  <a class="swipebox-video" rel="vimeo" href="http://vimeo.com/29193046">My Videos</a>
 
 
     <!-- Fullwidth img -->
@@ -298,6 +302,23 @@
 
   <div id="credit" class="col-xs-12"><div class="copy col-xs-12 col-md-8 col-md-offset-2">
   <p><a href="http://academy.code4sa.org/about-the-academy" target="_blank"><img src="img/assets/branding.png" alt="Code for South Africa Data Journalism Academy" title="Code for South Africa Data Journalism Academy" /></a></p><p>produced by Code for South Africa Data Journalism Academy for Sunday Times</p><p><span class="creditName">Raymond Joseph</span> (words, Code for South Africa)</p><p><span class="creditName"> Daniela Q Lepiz</span> (data analysis and visualisation, City Press)</p><p><span class="creditName">Fanie Jason</span> (photography)</p><p><span class="creditName">Roxanne Joseph</span> (video and visualisation, City Press)</p><p><span class="creditName">Lailah Ryklief</span> (newsroom developer, Code for South Africa)</p></div></div>
+
+  <script src="js/pym.js"></script>
+    <script>
+      var pymChild = new pym.Child({ id: 'code4sa-aids-index',
+      polling: 1000
+      });
+  </script>
+
+
+  <script type="text/javascript">
+  $( document ).ready(function() {
+      
+      /* Video */
+      $( '.swipebox-video' ).swipebox();
+
+      });
+  </script>
 
 </body>
 </html>

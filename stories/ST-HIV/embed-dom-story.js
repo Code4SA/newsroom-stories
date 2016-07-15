@@ -523,3 +523,17 @@ if (typeof(window.pym) === 'undefined') {
 });
 
 }
+
+if (document.location.hostname == "localhost") {
+  var baseurl = "";
+} else {
+  var baseurl = "https://static.code4sa.org/newsroom-stories/stories/ST-HIV";
+}
+
+var container = document.getElementById('code4sa-aids-index');
+
+var pymParentScript = document.createElement( 'script' );
+pymParentScript.type = 'text/javascript';
+pymParentScript.text = "var pymParent = new pym.Parent('code4sa-aids-index', '"
+  + baseurl + "index.html', {});";
+container.appendChild(pymParentScript);
