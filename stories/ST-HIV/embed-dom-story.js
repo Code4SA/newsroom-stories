@@ -527,7 +527,7 @@ if (typeof(window.pym) === 'undefined') {
 if (document.location.hostname == "localhost") {
   var baseurl = "";
 } else {
-  var baseurl = "https://static.code4sa.org/newsroom-stories/stories/ST-HIV";
+  var baseurl = "https://static.code4sa.org/newsroom-stories/stories/ST-HIV/";
 }
 
 var container = document.getElementById('code4sa-aids-index');
