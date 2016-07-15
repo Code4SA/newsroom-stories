@@ -20,6 +20,10 @@
   img.tabViz {
     width:100%!important;
   }
+  .disclaimer {
+    font-family: courier, sans-serif;
+    font-size:12px;
+  }
   #section1, #section2, #section3, #section4, #section5, #section6, #section7 {
   	padding-top:50px;
   	color: #333;
