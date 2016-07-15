@@ -527,13 +527,13 @@ if (typeof(window.pym) === 'undefined') {
 if (document.location.hostname == "localhost") {
   var baseurl = "";
 } else {
-  var baseurl = "https://static.code4sa.org/newsroom-stories/stories/ST-HIV/";
+  var baseurl = "https://static.code4sa.org/newsroom-stories/stories/CP-CHILD-MORTALITY/";
 }
 
-var container = document.getElementById('code4sa-aids-index');
+var container = document.getElementById('code4sa-schools-index');
 
 var pymParentScript = document.createElement( 'script' );
 pymParentScript.type = 'text/javascript';
-pymParentScript.text = "var pymParent = new pym.Parent('code4sa-aids-index', '"
+pymParentScript.text = "var pymParent = new pym.Parent('code4sa-schools-index', '"
   + baseurl + "index.html', {});";
 container.appendChild(pymParentScript);
