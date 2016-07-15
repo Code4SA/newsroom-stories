@@ -11,9 +11,13 @@
   	text-align:left;
   }
   h1 {
+    font-size:45px;
     font-family:'Archivo Black', sans-serif;
   }
-  #section1, #section2, #section3, #section4, #section5, #section6, #section7 {
+  h2 {
+    font-size: 24px;
+  }
+  #section1, #section2, #section3, #section4, #section5, #section6, #section7, #section8 {
   	padding-top:50px;
   	color: #333;
   }
@@ -47,8 +51,7 @@ figcaption {
     font-size: 12px;
 }
 .uppercase {
-  font-family:'Secular One', sans-serif;
-	text-transform: uppercase;
+  font-family:'Archivo Black', sans-serif;
 }
 .leadImg img {
   width:100%;
