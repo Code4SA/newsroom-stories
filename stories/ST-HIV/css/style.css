@@ -2,35 +2,38 @@
   @import 'https://fonts.googleapis.com/css?family=Andika|Archivo+Black|Bevan|Halant|Secular+One';
   @import 'https://fonts.googleapis.com/css?family=Allerta|Averia+Sans+Libre|Hammersmith+One|Montserrat';
 
-  body {
-      position: relative;
-      font-family: 'Gudea', sans-serif;
-      font-size:14px;
-  }
-  p {
-  	text-align:left;
-  }
-  h1 {
-    font-size:45px;
-    font-family:'Archivo Black', sans-serif;
-  }
-  h2 {
-    font-size: 24px;
-  }
-  img.tabViz {
-    width:100%!important;
-  }
-  #section1, #section2, #section3, #section4, #section5, #section6, #section7 {
-  	padding-top:50px;
-  	color: #333;
-  }
- #credit {
-    margin-top:30px;
-    color: #333;
-    padding:30px 0px;
-    background-color: #efefef;
-  }
-  .creditName {
+body {
+  position: relative;
+  font-family: 'Gudea', sans-serif;
+  font-size:14px;
+}
+p {
+  text-align:left;
+}
+h1 {
+  font-size:45px;
+  font-family:'Archivo Black', sans-serif;
+}
+h2 {
+  font-size: 24px;
+}
+img.tabViz {
+  width:100%!important;
+}
+#section1, #section2, #section3, #section4, #section5, #section6, #section7 {
+  padding-top:50px;
+  color: #333;
+}
+.navbar-nav {
+font-size: 10px!important;
+}
+#credit {
+  margin-top:30px;
+  color: #333;
+  padding:30px 0px;
+  background-color: #efefef;
+}
+.creditName {
   color:#000;
   font-weight:600;
   text-transform: uppercase;
@@ -46,12 +49,12 @@ figcaption {
   background-color: #fff!important;
 }
 .navbar-inverse {
-    background-color: #fff!important;
-    border-color: #eee!important;
-    text-transform: uppercase;
-    font-family: 'Lato';
-    font-weight: 600;
-    font-size: 12px;
+  background-color: #fff!important;
+  border-color: #eee!important;
+  text-transform: uppercase;
+  font-family: 'Lato';
+  font-weight: 600;
+  font-size: 12px;
 }
 .uppercase {
   font-family:'Archivo Black', sans-serif;
@@ -80,14 +83,14 @@ figure {
  margin-bottom:30px; 
 }
 a:focus, a:hover {
-    color: #23527c;
-    text-decoration: none!important;
+  color: #23527c;
+  text-decoration: none!important;
 }
 .navbar-inverse .navbar-toggle {
-    border-color: #999!important;
+  border-color: #999!important;
 }
 .navbar-inverse .navbar-brand {
-    color: #333!important;
+  color: #333!important;
 }
 .navbar-brand {
   padding: 15px 25px!important;
@@ -96,13 +99,13 @@ a:focus, a:hover {
   margin-right: 25px!important;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #999!important;
+  background-color: #999!important;
 }
 .btn-primary {
-    color: #333!important;
-    background-color: #fff!important;
-    border-color: #fff!important;
-    border-bottom: 1px solid #333!important;
+  color: #333!important;
+  background-color: #fff!important;
+  border-color: #fff!important;
+  border-bottom: 1px solid #333!important;
 }
 .btn {
   margin-bottom: 15px!important;
@@ -122,4 +125,4 @@ a:focus, a:hover {
 @media screen and (max-width: 679px) {
   .vizDesktop {display:none;}
   .vizMobi {display: inline;width:100%;text-align: center;}
-  }
+}
