@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Catamaran|Gudea|Lato|Open+Sans|Ovo|Rosario|Lora|Scheherazade|Suranna|Andika|Archivo+Black|Bevan|Halant|Secular+One|Playfair+Display';
+@import 'https://fonts.googleapis.com/css?family=Iceland|Kaushan+Script|Kenia|Rozha+One|Sorts+Mill+Goudy|Catamaran|Gudea|Lato|Open+Sans|Ovo|Rosario|Lora|Scheherazade|Suranna|Andika|Archivo+Black|Bevan|Halant|Secular+One|Playfair+Display';
 
 html, body {
   font-family: 'Gudea', sans-serif;
@@ -97,12 +97,17 @@ aside figure {
 aside figure figcaption {	
 }
 blockquote {
-	width:130%;
-	margin-left:-15%;
-	border-left: none;
-	font-family: 'Playfair Display', sans-serif;
-	font-size:35px;
-	text-align:center;
+	width: 70%;
+    border-left: none;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+blockquote strong {
+	font-family: 'Lato', sans-serif;
+	font-size: 55px;
 }
 
 
