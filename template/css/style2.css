@@ -30,6 +30,7 @@ h3 {
 h3 img {
 	width:170px;
 	margin-left:0px;
+	border: none;
 }
 section a {
 	font-weight: 700;
@@ -38,6 +39,7 @@ section a {
 img {
 	width: 130%;
 	margin-left:-15%;
+	border: 1px solid #333;
 }
 figure {
 	margin: 25px 0px;
@@ -48,13 +50,18 @@ figcaption {
 	margin-top: 15px;
 	padding-top: 15px;
 }
-
 section figure img {
-	width:60%;
-	margin-left:auto;
-	margin-right:auto;
+	width:80%;
+	margin-left:10%;
+	border: solid 1px #333;
 }
-nav ul {margin-left:0px;}
+section figure figcaption {
+	width: 80%;
+	margin-left:10%;
+}
+nav ul {
+	margin-left:0px;
+}
 nav ul li {
 	text-align:center;
 	display:inline;
@@ -110,14 +117,14 @@ blockquote strong {
 	font-size: 55px;
 }
 
-
 @media screen and (max-width: 991px) {
   h3 {width:100%;margin-left:0px;}
   blockquote {width:100%;margin-left:0px;}
-  img {width:100%;margin-left:0px;}
-
+  img {width:111%;margin-left:-5.5%;}
+  section figure img {width:111%;margin-left:-5.5%;}
+  section figure figcaption {width: 100%;margin-left:0%;}
 }
 
-@media screen and (max-width: 480px) {
+/*@media screen and (max-width: 480px) {
 
-}
+}*/
