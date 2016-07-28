@@ -2,7 +2,7 @@
 
 html, body {
   font-family: 'Gudea', sans-serif;
-  font-size:15px;
+  font-size:18px;
 }
 p {
 	line-height:1.5em;
@@ -124,6 +124,10 @@ blockquote strong {
   section figure img {width:111%;margin-left:-5.5%;}
   section figure figcaption {width: 100%;margin-left:0%;}
 }
+
+/*@media screen and (max-width: 768px) {
+  
+}*/
 
 /*@media screen and (max-width: 480px) {
 
