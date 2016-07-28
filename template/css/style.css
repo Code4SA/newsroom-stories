@@ -76,12 +76,40 @@ section h2 {
 	font-size: 2em;
 	font-family: 'Lato', sans-serif;
 }
+blockquote {
+	width: 70%;
+    border-left: none;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+blockquote strong {
+	font-family: 'Lato', sans-serif;
+	font-size: 55px;
+}
+div {
+	margin-bottom: 10px;
+}
 footer header h1 {
 	border-top: 1px solid #676767;
 	padding-top:15px;
 	margin-top:25px;
 }
-aside blockquote {
+footer p {
+	text-align: center;
+	font-size: 14px;
+}
+footer h3 {
+	border-bottom: none;
+	margin-left:0;
+	text-align: center;
+	width:100%;
+}
+
+
+/*aside blockquote {
 	width:40%;
 	border-left:1px solid #676767;
 	float: left;
@@ -102,20 +130,8 @@ aside figure {
 	margin-left:10px;
 }
 aside figure figcaption {	
-}
-blockquote {
-	width: 70%;
-    border-left: none;
-    font-family: 'Playfair Display', sans-serif;
-    font-size: 30px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-blockquote strong {
-	font-family: 'Lato', sans-serif;
-	font-size: 55px;
-}
+}*/
+
 
 @media screen and (max-width: 991px) {
   h3 {width:100%;margin-left:0px;}
