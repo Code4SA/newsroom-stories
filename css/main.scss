@@ -1,0 +1,125 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import 'https://fonts.googleapis.com/css?family=Iceland|Kaushan+Script|Kenia|Rozha+One|Sorts+Mill+Goudy|Catamaran|Gudea|Lato|Open+Sans|Ovo|Rosario|Lora|Scheherazade|Suranna|Andika|Archivo+Black|Bevan|Halant|Secular+One|Playfair+Display';
+
+html, body {
+  font-family: 'Gudea', sans-serif;
+  font-size:18px;
+}
+p {
+	line-height:1.5em;
+}
+h1 {
+	font-family: 'Playfair Display', sans-serif;
+	font-weight: 700;
+	font-size: 3.5em;
+	text-align: center;
+}
+h2 {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+h3 {
+	font-family: 'Lato';
+	text-align:left;
+	font-size: 0.8em;
+	width: 90%;
+    margin-left: 5%;
+	border-bottom:1px solid #676767;
+	color: #333;
+	padding-bottom:10px;
+}
+h3 img {
+	width:170px;
+	margin-left:0px;
+	border: none;
+}
+section a {
+	font-weight: 700;
+	color: #1a45ad;
+}
+img {
+	width: 130%;
+	margin-left:-15%;
+	border: 1px solid #333;
+}
+figure {
+	margin: 25px 0px;
+}
+figcaption {
+	color: #676767;
+	border-top: 1px solid #676767;
+	margin-top: 15px;
+	padding-top: 15px;
+}
+section figure img {
+	width:80%;
+	margin-left:10%;
+	border: solid 1px #333;
+}
+section figure figcaption {
+	width: 80%;
+	margin-left:10%;
+}
+nav ul {
+	margin-left:0px;
+}
+nav ul li {
+	text-align:center;
+	display:inline;
+}
+
+section header h1, footer header h1 {
+	text-align: left;
+	font-size: 2.7em;
+}
+section h2 {
+	text-align: left;
+	font-size: 2em;
+	font-family: 'Lato', sans-serif;
+}
+blockquote {
+	width: 70%;
+    border-left: none;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+blockquote strong {
+	font-family: 'Lato', sans-serif;
+	font-size: 55px;
+}
+div {
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+footer {
+	clear:both;
+	padding-top:15px;
+	margin-top:25px;
+}
+footer p {
+	text-align: center;
+	font-size: 14px;
+}
+footer h3 {
+	border-bottom: none;
+	margin-left:0;
+	text-align: center;
+	width:100%;
+}
+
+
+@media screen and (max-width: 991px) {
+  h3 {width:100%;margin-left:0px;}
+  blockquote {width:100%;margin-left:0px;}
+  img {width:111%;margin-left:-5.5%;}
+  section figure img {width:111%;margin-left:-5.5%;}
+  section figure figcaption {width: 100%;margin-left:0%;}
+}
+
