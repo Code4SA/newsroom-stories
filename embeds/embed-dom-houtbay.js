@@ -527,7 +527,7 @@ if (typeof(window.pym) === 'undefined') {
 if (document.location.hostname == "localhost") {
   var baseurl = "";
 } else {
-  var baseurl = "http://code4sa.org/newsroom-stories/" + "/2016/08/04/houtbay";
+  var baseurl = "http://code4sa.org/newsroom-stories" + "/2016/08/04/houtbay";
 }
 
 var container = document.getElementById('/2016/08/04/houtbay');
