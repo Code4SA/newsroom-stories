@@ -527,13 +527,13 @@ if (typeof(window.pym) === 'undefined') {
 if (document.location.hostname == "localhost") {
   var baseurl = "";
 } else {
-  var baseurl = "http://code4sa.org/newsroom-stories/" + "{{page.id}}";
+  var baseurl = "http://code4sa.org/newsroom-stories/" + "/2016/08/04/houtbay";
 }
 
-var container = document.getElementById('{{page.id}}');
+var container = document.getElementById('/2016/08/04/houtbay');
 
 var pymParentScript = document.createElement( 'script' );
 pymParentScript.type = 'text/javascript';
-pymParentScript.text = "var pymParent = new pym.Parent('{{page.id'}}, '"
+pymParentScript.text = "var pymParent = new pym.Parent('/2016/08/04/houtbay', '"
   + baseurl + "index.html', {});";
 container.appendChild(pymParentScript);
