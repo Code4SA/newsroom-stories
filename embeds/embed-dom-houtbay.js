@@ -527,13 +527,13 @@ if (typeof(window.pym) === 'undefined') {
 if (document.location.hostname == "localhost") {
   var baseurl = "";
 } else {
-  var baseurl = "http://code4sa.org/2016/08/04/ballerina.html";
+  var baseurl = "http://code4sa.org/newsroom-stories";
 }
 
-var container = document.getElementById('/2016/08/04/ballerina');
+var container = document.getElementById('/2016/08/04/houtbay');
 
 var pymParentScript = document.createElement( 'script' );
 pymParentScript.type = 'text/javascript';
-pymParentScript.text = "var pymParent = new pym.Parent('/2016/08/04/ballerina', '"
-  + baseurl + "index.html', {});";
+pymParentScript.text = "var pymParent = new pym.Parent('/2016/08/04/houtbay', '"
+  + baseurl + "/2016/08/04/houtbay.html', {});";
 container.appendChild(pymParentScript);

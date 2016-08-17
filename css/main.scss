@@ -37,6 +37,9 @@ h3 img {
 	margin-left:0px;
 	border: none;
 }
+time {
+	font-size: 0.7em;
+}
 section a {
 	font-weight: 700;
 	color: #1a45ad;
@@ -54,6 +57,8 @@ figcaption {
 	border-top: 1px solid #676767;
 	margin-top: 15px;
 	padding-top: 15px;
+	font-size: 13px;
+    font-family: 'Open Sans';
 }
 section figure img {
 	width:80%;
