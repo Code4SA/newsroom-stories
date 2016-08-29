@@ -118,7 +118,14 @@ footer h3 {
 	text-align: center;
 	width:100%;
 }
-
+p.post-meta {
+	text-align:center;
+}
+.share_btn {
+	margin-bottom: -20px;
+    margin-top: 25px;
+    text-align: center;
+ }
 
 @media screen and (max-width: 991px) {
   h3 {width:100%;margin-left:0px;}
