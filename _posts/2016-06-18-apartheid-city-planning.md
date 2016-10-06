@@ -1,21 +1,21 @@
 ---
 layout: post
 title: Long commute to freedom
-subtitle: The legacy of Apartheid's spatial planning
-wordsby: "Daniela Q Lepiz, Sipho Masondo, Kim Harrisberg, Avantika Seeth"
-databy: "Daniela Q Lepiz"
-photographer: ""
+subtitle: The legacy of Apartheid spatial planning
+wordsby: "Daniela Lepiz, Sipho Masondo, Kim Harrisberg, Avantika Seeth"
+databy: "Daniela Lepiz"
+photographer: "Tebogo Letsie"
 devby:	"Lailah Ryklief"
-author: Daniela Q Lepiz
+author: Daniela Lepiz
 excerpt: |
     Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities.
 ---
 
-Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities.
+Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities. DANIELA LÉPIZ and SIPHO MASONDO report
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="UNEQUAL SCENES: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, Unequal Scenes. Photo: Johnny Miller" title="UNEQUAL SCENES" />
-	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, <a href="http://unequalscenes.com/hout-bay-imizamo-yethu" target="_blank">Unequal Scenes</a> <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="PICTURE PERFECT?: Some say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub. Photo: TEBOGO LETSIE" title="PICTURE PERFECT?" />
+	<figcaption><strong>PICTURE PERFECT?</strong>: Some say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
 </figure>
 
 Black people in particular bear the brunt of a decade-long focus on building houses instead of cities “at whatever cost”.
@@ -41,7 +41,7 @@ Discussing Cape Town’s Transport Development Index, councillor Brett Herron, m
 
 > add visualisation here
 
-**Workers also sacrifice valuable time**
+## Workers also sacrifice valuable time
 
 In the eight cities analysed for this investigation, including Johannesburg, Pretoria, Durban, Cape Town and Port Elizabeth, African and coloured people have the least access to public transport – measured by time spent walking to transport – and are forced to take longer journeys to work. For black residents of these cities, the average daily one-way commute lasts up to two and a half times that of white residents.
 
@@ -67,7 +67,9 @@ However, the city’s plan to build new routes for its bus rapid transit (BRT) s
 
 The National Household Travel Survey is conducted for the purposes of getting an “in-depth understanding of how and why people travel”
 
-**Getting to work 'is a great risk'**
+## Getting to work 'is a great risk'
+
+by KIM HARRISBERG
 
 Pelican Park in Strandfontein, Cape Town, feels like a ghost town at 7am. Identical low-cost government houses sit alongside one another like matchboxes. The occasional dog barks in the distance. The quiet streets are badly lit and darkness hangs like a heavy cloak over them.
 
@@ -120,7 +122,9 @@ The 23km journey to the social development building (also known as the Standard 
 
 Monthly travel costs for herself and her children are R1 860 – 53% of her monthly salary. She wishes she could travel some other way but, as the breadwinner for her five children, Adams has no other option.
 
-**A long journey for my darling**
+## A long journey for my darling
+
+by AVANTIKA SEETH and DANIELA LÉPIZ
 
 Every weekday, Rebotile Busang (33), a registry clerk from Soshanguve, travels to work in Silverton, Pretoria, on a Putco bus.
 
@@ -169,7 +173,9 @@ As her daughter eats, Busang busies herself with the evening tasks, seeing to he
 
 To get back to the bus stop in Silverton, City Press tries Uber. But there aren’t available cars in Soshanguve. By chance, an Uber driver from the township is on his way to a shift in Pretoria and picks us up, surprised to see our request on his phone. “If you logged the call five minutes later, I would have been gone and you would have to take taxis back to Silverton,” he says.
 
-**The joy of having time for family**
+## The joy of having time for family
+
+by AVANTIKA SEETH
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="Edward Sadiki and his son, Rofhiwa (4), PHOTO: TEBOGO LETSIE" title="Edward Sadiki and his son, Rofhiwa (4)" />
