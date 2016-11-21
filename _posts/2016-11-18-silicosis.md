@@ -16,7 +16,7 @@ From the air there is a certain beauty and symmetry in the juxtaposition of Tier
 But while the physical distance between these homes is only a few hundred metres, residents’ lives and living conditions are worlds apart. 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="UNEQUAL SCENES: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, Unequal Scenes. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<img src="/newsroom-stories/img/stories/20161118/dust.jpg" alt="UNEQUAL SCENES: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, Unequal Scenes. Photo: Johnny Miller" title="UNEQUAL SCENES" />
 	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, <a href="http://unequalscenes.com/hout-bay-imizamo-yethu" target="_blank">Unequal Scenes</a> <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
 </figure>
 
@@ -75,8 +75,8 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 
-Chapter 2
----------
+II
+---
 
 Hidden lies
 -----------
