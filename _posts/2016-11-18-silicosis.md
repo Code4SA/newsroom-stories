@@ -1,0 +1,130 @@
+---
+layout: post
+title: A shared (but different) view
+subtitle: The lived realities of Hout Bay's divide
+wordsby: "Roxanne Joseph"
+databy: "Daniela Q Lepiz"
+photographer: "Fanie Jason"
+devby:	"Lailah Ryklief"
+author: Roxanne Joseph
+excerpt: |
+    Test post for functionality of md and template with headings, video and img
+---
+
+From the air there is a certain beauty and symmetry in the juxtaposition of Tierboskloof, a luxury gated estate and Imizamo Yethu Bay, the township on the side of a mountain. Both areas are situated right beside one another in the small fishing town of Hout Bay, about 20 minutes outside Cape Town.
+
+But while the physical distance between these homes is only a few hundred metres, residents’ lives and living conditions are worlds apart. 
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="UNEQUAL SCENES: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, Unequal Scenes. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, <a href="http://unequalscenes.com/hout-bay-imizamo-yethu" target="_blank">Unequal Scenes</a> <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
+</figure>
+
+WHEN Brian Rolfe looks out of a top floor window of his two storey luxury home in the Valley, his view is the sea of formal and informal homes that make up Imizamo Yethu. Literally a stone’s throw away from homes like his are the shacks of the township, built with little more than an outstretched arm apart. Boyce Elcot Dyantyi, who has built his own basic, brick house within that sea of shacks, is a long-time resident of Imizamo Yethu. 
+
+“Sitting up here, it does make me feel very guilty,” admits Rolfe. “How do you deserve to be here and not on that side? It’s just crazy.” 
+
+“It’s a shack with a view,” declares Dyantyi, gesturing to the mountains, forests and sea that surround his home. “And one day, we’ll be just like them, beautiful houses and all.”
+
+Imizamo Yethu is situated right in the middle of the picturesque greater Hout Bay Valley, where the living is easy and homes change hands for millions of rands apiece. Residents who have chosen the area for its village and beach lifestyle only half jokingly refer to it as “The Independent Republic of Hout Bay”.
+
+Some refer to it as Mandela Park, but with a blossoming tourist enterprise, Imizamo Yethu, as it is now known, came into being as a formal township in the early 90s after a series of land invasions by people demanding their own place in the sun in Hout Bay. Until then, the domestic workers, gardeners and manual labourers who worked in Hout Bay either slept under plastic bags in bushes in the area, or were forced to make long and expensive daily commutes from their homes in the townships on the opposite ends of Cape Town.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160816/sea_of_shacks.jpg" alt="A SEA OF SHACKS: Imizamo Yethu is divided into two parts. In Imizamo Yethu1, there are close to 1, 300 informal structures and in Dontse Yakhe (Imizamo Yethu2), there are nearly 500. Photo: Fanie Jason" title="A SEA OF SHACKS" />
+	<figcaption><strong>A SEA OF SHACKS</strong>: Imizamo Yethu is divided into two parts. In Imizamo Yethu1, there are close to 1, 300 informal structures and in Dontse Yakhe (Imizamo Yethu2), there are nearly 500 <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+It was one of the first big land invasions in which landless people demanded a permanent place to live close to where they worked. Hundreds of people took over the dunes in front of Hout Bay’s main beach and built rough shelters, where many flew ANC flags high. At first, the authorities arrested them and tried to kick them out, but the invasion was so big that eventually, they had no choice but to intervene and make an area of land available to black people in Hout Bay. 
+
+Now, in 2016, Imizamo Yethu is a continued product of apartheid spatial planning – as can be seen in the no-man’s land between areas like Tierboskloof and the township.
+
+On the one side are beautiful homes with big gardens and swimming pools, and on the other there is little to no infrastructure for sustainable living, and conditions faced by the residents can be life-threatening. The township is surrounded by the wealthier suburbs of Tierboskloof, Berg-En-Dal and the greater Valley. Boxed in by these suburbs on either side, with a cemetery and a road in front, the township has developed upwards on the sides of the mountain that towers above Imizamo Yethu. The result is that many people are living above the fire line – and are constantly in danger.
+
+**A stark divide**
+
+The divide between the township and the areas around it varies in different parts, but mostly consists of fencing and forest.
+
+Nowhere is the divide starker than in videos and photographs by <a href="http://unequalscenes.com/hout-bay-imizamo-yethu" target="_blank">drone photographer Johnny Miller</a>, who captured the divide from the air, focusing on a particularly shack-heavy part of Imizamo Yethu and its neighbour to the north, the upmarket Tierboskloof Estate.
+
+>  There is no infrastructure here, the houses are tiny, made of leftover scraps, and are ‘built’ on top of each other
+
+A patch of untended forest, with towering weeds, scraps of unused metal and piles of rubbish are lined, in parts, with razor-wired fence. It is branded by the private security company, ADT and its purpose is to shield and maintain privacy, and to ensure that residents feel more secure. Here, the houses are mostly more than one storey high, the roads are well-maintained and ADT patrols the streets, day and night.
+
+Across the way, you’ll see an ocean of silver. There is no infrastructure here, the houses are tiny, made of leftover scraps, and are ‘built’ on top of each other, creating a deadly danger when fires rage through the township.
+
+The smell of sewage is strong and if you look closely, you’ll see some of it lying beneath the trees in the forest.
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CZfCHy7ng9E"></iframe>
+</div>
+<figure>
+	<figcaption>Photographer Johnny Miller flew a drone over Imizamo Yethu and its neighbour, the upmarket Tierboskloof Estate. His video and images are the clearest visual contrast between the two areas <strong>VIDEO: JOHNNY MILLER</strong></figcaption>
+</figure>
+
+**What the data says**
+
+On the surface, Ward 74 - the ward that consists of both areas and their surrounds - service delivery is high and living conditions are good, such as access to water (87%), electricity (91%) and toilet facilities (83%), according to Census 2011 data. The average annual household income is nearly R60, 000 and more than half of the area’s children have completed matric. But when you interrogate the data more closely and break it down by suburbs, you’ll find that with almost the same population sizes (15, 538 vs 17, 329), the whole Hout Bay valley consists of nearly 3, 000 hectares of land, whereas the residents of Imizamo Yethu are shoehorned into 60 hectares.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160816/tableau-viz1.jpg" alt="The contrast in the lack of access to service delivery between the greater Hout Bay, Tierboskloof and Imizamo Yethu is stark. Nearly 2, 000 households in the township have no access to any toilet facilities whatsoever and approximately 1, 400 have no access to electricity for heating or cooking. Almost the same number use paraffin, which is often what leads to fires that spread throughout the township Visualisation by Roxanne Joseph" title="CONTRASTING SERVICES" />
+	<figcaption>The contrast in the lack of access to service delivery between the greater Hout Bay, Tierboskloof and Imizamo Yethu is stark. Nearly 2, 000 households in the township have no access to any toilet facilities whatsoever and approximately 1, 400 have no access to electricity for heating or cooking. Almost the same number use paraffin, which is often what leads to fires that spread throughout the township <strong>VISUALISATION: ROXANNE JOSEPH</strong></figcaption>
+</figure>
+
+The reality is that there are thousands of people without access to water and proper sanitation. Roughly 37% of households in Ward 74 are shacks, which is more than double the rate across South Africa. Although 83% of the population have access to flush or chemical toilets, 13% of people have no access to toilets whatsoever, with 2% using bucket toilets. Many of the households without access to proper sanitation and sewerage facilities are on the outskirts of the township, the parts that border the wealthier suburbs, such as Tierboskloof.
+In a province littered with pockets of expansive wealth and widespread, but heavily overpopulated townships, the clear, visible divide between Tierboskloof Estate and Imizamo Yethu is one of the most pronounced.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160816/tableau-viz2.jpg" alt="The difference in annual household income also shows how, despite so little physical distance between the wealthier suburbs of Hout Bay and the townships, residents lead very different lives. Most households in Tierboskloof receive an annual income of between R300, 000 and R600, 000, whereas nearly the same number of households in Imizamo Yethu rely on as little as between R20, 000 and R38, 000 each year Visualisation by Roxanne Joseph" title="CONTRASTING SERVICES" />
+	<figcaption>The difference in annual household income also shows how, despite so little physical distance between the wealthier suburbs of Hout Bay and the townships, residents lead very different lives. Most households in Tierboskloof receive an annual income of between R300, 000 and R600, 000, whereas nearly the same number of households in Imizamo Yethu rely on as little as between R20, 000 and R38, 000 each year <strong>VISUALISATION: ROXANNE JOSEPH</strong></figcaption>
+</figure>
+
+**A shared view**
+
+A resident of the area since 1978, Dyantyi has had a taste of what it’s like to live on either side of the dividing line. After leaving behind a career in truck driving and farming in rural Eastern Cape, he arrived in Hout Bay, only to find himself squatting along the Disa River, which runs through the area. All he had were scraps of plastic to sleep on at night. He would wrap these up and store them under some branches during the day, to “protect his belongings”.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160816/boyce_dyantyi_view.jpg" alt="A SHACK WITH A VIEW: Boyce Elcot Dyantyi built the first brick house in Imizamo Yethu in the late 1990s. Photo: Fanie Jason" title="A SHACK WITH A VIEW" />
+	<figcaption><strong>A SHACK WITH A VIEW</strong>: Boyce Elcot Dyantyi built the first brick house in Imizamo Yethu in the late 1990s <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+For about five years in the mid-1990s, he and a few others from the area worked for a wealthy German man, Otto Egger, who taught them how to do construction work. They lived on his farm in a big Wendy house and for many years Egger and a man named David Pearson, looked after the men, “and treated us like family”. In 1996, Pearson gave Dyantyi the money to start building his own house, which was the first brick house in the township. Today, he has two double storey houses in Imizamo Yethu. They have running water - “but not always” - and a sewage system of sorts - but, “not always”. Dyantyi’s houses are two of nearly 1, 000 in Imizamo Yethu.
+
+Rolfe and his wife decided to move to Hout Bay because of their two-year-old daughter, Gracie, whom they adopted. “We decided to adopt across the racial lines and we wanted her to have interactions with the kids from Imizamo Yethu,” he explains. “We feel like it’s a very safe area, a good area to raise a kid.”
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160816/brian_rolfe_view.jpg" alt="SAFE IN THE SUBURBS: Brian Rolfe and his wife decided to move to Hout Bay because of their two-year-old adopted daughter, Gracie. They wanted her to be able to easily interact with the children in Imizamo Yethu. Photo: Fanie Jason" title="SAFE IN THE SUBURBS" />
+	<figcaption><strong>SAFE IN THE SUBURBS</strong>: Brian Rolfe and his wife decided to move to Hout Bay because of their two-year-old adopted daughter, Gracie. They wanted her to be able to easily interact with the children in Imizamo Yethu <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+Rolfe is a visual artist, interested in how people interact and engage with the spaces around them. In many ways, he is similar to Dyanti: they merely want a safe place in which to raise their children. From where they sit, in township and secure estate, both men have a beautiful view of sea, mountains and the area’s iconic harbour. But their shared view goes beyond what they simply see when they wake up each morning. Both are determined to work with the wider Hout Bay community, whom they both refer to as the “other side”.
+
+**A world apart**
+
+Several thousand households in Imizamo Yethu use paraffin for heating, cooking and lighting. This, the web of illegally placed electrical wires throughout the township and the lack of maintenance of the few electrical services that do exist in the area often lead to fires. With at least one every year, hundreds are left homeless at a time.
+
+Given the close proximity of the shacks and how quickly the township has begun to extend beyond the fire line, even the smallest of fires cause mass devastation each time. Just after Christmas last year, nearly 1, 000 people were left homeless, with all of their belongings destroyed, after a fire broke out in the early hours of Boxing Day morning. Fire engines and ambulances always struggle to fit through the winding, run-down roads within Imizamo Yethu, which often means there is little to be done when a fire breaks out.
+
+> The initiative also includes training into firefighting and the installation of fire hydrants on every street in Imizamo Yethu.
+
+The sound of burning metal and people screaming as everything they own is destroyed before their eyes are what encouraged Rolfe to initiate a project that will “benefit both sides”. His idea has both an artistic and a practical element, with the first involving turning the township into a piece of art, “a mural of colourful shacks and homes”. People will be paid for having their homes used as part of the artwork. The initiative also includes training into firefighting and the installation of fire hydrants on every street in Imizamo Yethu.
+
+Dyantyi, meanwhile, is working towards addressing issues of safety and security. “We have a neighbourhood watch, and by 10pm each night, try to make sure that all of Imizamo Yethu’s shebeens are closed.” This, he believes, has already helped to lower crime rates and stop the mostly young residents from leaving the township and “committing crime” in the surrounding estates. According to Dyantyi, the local newspaper, The Sentinel, has reported on more than one occasion that crime in the area has decreased. He does, however, recognise that gang violence remains a problem. There are two main gangs in the area, the Bad Boys Company and the amaXaba, who residents say are often responsible for crime throughout the area, but especially in the townships. “But we work with the white people and with the cops, and if we can get rid of the gang violence, then it will be fine.”
+
+But while these initiatives, spearheaded by the community, could improve the lives of the Imizamo Yethu residents, pictures like Miller’s are a continued reminder of the truth: the divide between rich and poor stubbornly remains.
+
+**Dyantyi and Rolfe offer two very different perspectives on what life in Hout Bay is like.**
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9ir8gDXl5Jc"></iframe>
+</div>
+<figure>
+	<figcaption>Longtime Imizamo Yethu resident, Boyce Elcot Dyantyi, recalls how difficult it was being a poor, black man during apartheid. In 2016, he has two brick houses in Imizamo Yethu and is a part of the township community who is trying to make the area safe for all <strong>VIDEO: ROXANNE JOSEPH</strong></figcaption>
+</figure>
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6fPuFKVh1Bc"></iframe>
+</div>
+<figure>
+	<figcaption>Brian Rolfe, a local artist, has plans to turn Imizamo Yethu into a mass art project, with an added firefighting initiative. After witnessing two fires since moving to Hout Bay last year, he is determined to find a solution to fire engines being unable to reach and extinguish burning shacks when fires break out <strong>VIDEO: ROXANNE JOSEPH</strong></figcaption>
+</figure>

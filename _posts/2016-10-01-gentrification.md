@@ -37,7 +37,7 @@ This project will lead you through my process of discovery and exploration. Its 
 
 I came to the conclusion that Salt River is worthy of investigation for its potential to be gentrified. From discovery to exploration, our journey starts here.
 
-##On Gentrification: Economic Change Begets Social Change
+## On Gentrification: Economic Change Begets Social Change
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="MOVE ALONG: Cart horses hold up traffic on a busy Albert Road. PHOTO: JUSTIN SHOLK" />
@@ -60,7 +60,7 @@ Whether this change is good or bad for the existing community could define gentr
 
 However, the drawbacks could far outweigh the advantages of change. If not managed properly, urban development can lead to a dramatic increase in rent and property tax, forced eviction, displacement, and social discohesion that will see residents unable to afford access to these benefits, which will result in a gradual out-migration to more affordable neighbourhoods. This results in the benefiting of the gentrifiers at the expense of the gentrified.
 
-##The Gentrification Equation
+## The Gentrification Equation
 
 The question “what is gentrification?” will not find answers easily. Gentrification is a hazy, ambiguous concept that lacks a true definition. And something that is hard to define, is often hard to measure.
 
@@ -75,7 +75,7 @@ Many studies have replicated this method, and have included additional variables
 
 The ‘Gentrification Equation’ posits two indicators, namely coffee shops and property values. The equation hypothesizes that gentrifying neighbourhoods will have both high coffee shop density as well as high property value increases over time.
 
-##The Emergence of a New Service Economy
+## The Emergence of a New Service Economy
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="AT YOUR SERVICE: Gentrified neighbourhoods spawn many a coffee shop, antique furniture store, and ‘Goods Market’, catering to an influx of wealthier customers. PHOTO: JUSTIN SHOLK" />
@@ -126,7 +126,7 @@ Salt River, despite having neither a high density of coffee shops or high proper
 
 I find the idea of gentrification creeping down Albert Road from Woodstock into Salt River to be very curious. For this project, I will focus my attention on these two areas, and offer a comparative account of change. One neighbourhood has already felt the storm, while the other sits in wait. I imagine a walk down Albert Road to be one of many contrasts, with many interesting people along the way.
 
-##Woodstock: Living Through Change
+## Woodstock: Living Through Change
 
 Woodstock on a weekday is very different to a Saturday morning at the Biscuit Mill. It is the calm before the storm, and the calm is a place of relative quiet. The honking and whirring of cars and taxis passing by are the only audible sounds. Everything else is fairly laid back. Store managers sit outside their shops hoping to entice potential customers, waiters are huddled in conversation inside empty coffee shops, and students mind their own business as they make their way to the nearby Cape Town Creative Academy. Business as usual.
 
@@ -149,7 +149,7 @@ Lorna and her husband Eddie have first-hand experiences of neighbourhood change 
 
 Lorna, and others like her, see the opening of the Biscuit Mill as the focal point of all the change in the neighbourhood. But are all changes bad? Have there been any positive sides to gentrification? I enquired about four things: business, property, culture, and crime. Business has not yielded any positive stories. The influx of new people have not done much to help her sustain her business. But what about the rest?
 
-##Driven Up, Driven Out: The Property Curse
+## Driven Up, Driven Out: The Property Curse
 
 It’s easy to mistake gentrification as an opportunity for the locals to cash in on their assets. As an example, a house bought in 2005 with the value of R500, 000 that grows to R2 million in 2015, has seen an increase in value of R1.5 million over 10 years. Owners of the house, in theory, could see quite the profit from selling it.
 
@@ -197,7 +197,7 @@ There is also another kind of community that Carmen says has been behind the dec
 
 On the question of Woodstock’s cultural crisis, Carmen expresses her sympathies with the affected families. “I feel really sorry for the families who are renting and can’t afford to be here anymore, and who end up in places like Blikkiesdorp. They really have to petition local government to introduce better laws to protect them.” Carmen is referring to recent criticism of the City of Cape Town for failing to introduce rent control legislation that would place a cap on rent increases in places such as Woodstock, which would protect its long-time residents. “But development here is inevitable, it’s always been like this", she goes on. "You have to look at both sides though. People like to focus on the negatives, but there has been many positives to gentrification” 
 
-##Salt River: A Ticking Time Bomb
+## Salt River: A Ticking Time Bomb
 
 Albert Road turns into Malta Road as I stroll onwards into Salt River. As I make my way down the street, changes become apparent. The energy is different. Bustling crowds thin out into streams of ordinary people. Some are window shopping, some are waiting for a taxi, some are delivery men restocking the fridges of grocery stores, and some are shop owners stepping outside for a smoke. The buzz of the weekend shoppers, trendy hipsters and wide-eyed tourists fade into the background. This is Salt River. A few years ago, my walk into the neighbouring suburb would have been a seamless transition. But as the locals keep reminding me, this place isn’t what it used to be.
 
@@ -223,7 +223,7 @@ When you look at Salt River’s property growth, Achmad’s fears are justified.
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="RESERVED: Dedicated cycling lanes run through both neighbourhoods. PHOTO: JUSTIN SHOLK" />
-	<figcaption><strong>RESERVED<strong>: Dedicated cycling lanes run through both neighbourhoods <strong>PHOTO: ZAID GAMIELDIEN</strong></figcaption>
+	<figcaption><strong>RESERVED</strong>: Dedicated cycling lanes run through both neighbourhoods <strong>PHOTO: ZAID GAMIELDIEN</strong></figcaption>
 </figure>
 
 “And it creates so much havoc”, he laments. “These white people drive past on their bikes and swear at people who park here. They’re very rude like that. Then what happens is they drive in the roads and cause accidents. I’ve had so many ugly confrontations here in front of my store, because someone hit a biker with his car. It’s just awful.”
@@ -242,7 +242,7 @@ But the greater loss, says Achmat, is the loss of culture, and the social change
 
 And on that sober note, I thank Achmat for his time, and make my departure.
 
-##Out of the Frying Pan, into the Fire
+## Out of the Frying Pan, into the Fire
 
 When businesses can’t afford to pay rent, as is in the case of Woodstock, they are forced to relocate to an area with lower property values. But when the place you are relocating to is on the brink of its own transformation, moving there becomes a case of ‘out of the frying pan, and into the fire’.
 
@@ -283,7 +283,7 @@ For Budget Alarms, the move to Salt River makes financial sense. Businesses like
 
 If I had a rand for every time someone said those words, I still probably couldn't afford to live in Woodstock.
 
-##Liberators and Invaders: An Afterthought
+## Liberators and Invaders: An Afterthought
 
 I approached this exploration with the purpose of identifying new areas of gentrification worth exploring. This lead to a comparison of Woodstock and Salt River, confirming that the threat of gentrification is very real for Salt River residents, as they have seen what has happened to their neighbours down the road.
 
@@ -297,10 +297,10 @@ Exclusivity is at the heart gentrification. It has the potential to benefit the 
 
 Woodstock can be seen as a microcosm for South Africa’s vast inequality. In South Africa, class and race have a deterministic relationship. Because our history of inequality is drawn along racial lines, race determines class, to a large extent. Naturally, when wealthier people replace poorer people, it is situated in a familiar context of race and inequality that can quickly get heated. So when I talk to people about gentrification, I am likely to hear words and phrases like “these whites”, “outsiders”, and “foreigners”. They represent what is perceived as a perpetuation of land-grabbing and forced evictions of the past, where the ‘white man’ is coming to steal their land. Through this lense, gentrification cannot be viewed positively. Call it urbanisation, redevelopment, or restoration. To the locals, gentrification will always be met with pessimism and fear. And these fears are justified.
 
+## Special thanks
 
-##Special thanks
+This project was produced as part of a Masters thesis at the University of Cape Town in conjunction with <a href="http://code4sa.org/" target="_blank">Code for South Africa</a>.
 
-This project was produced as part of a Masters thesis at the University of Cape Town in conjunction with <a href="http://code4sa.org/" target="_blank">Code for South Africa</a>. 
 Special thanks is owing to <a href="http://lightstoneproperty.co.za/" target="_blank">Lightstone Property</a> for providing access to property inflation data which helped make this project possible.
 
 Data can be found <a href="https://docs.google.com/spreadsheets/d/1j-CtJ2VyX87XO-lAH2T-dGP9JSGoohY0YeLx9KnyCKs/edit?usp=sharing" target="_blank">here</a>
