@@ -73,7 +73,7 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-education.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-dust.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
 	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
 </figure>
 
@@ -130,6 +130,12 @@ That was the case for many mineworkers throughout the past century. If, during t
 According to him, at almost every level, the odds were overwhelmingly stacked against ever obtaining a proper diagnosis as a black miner. 
 
 
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-education.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
+</figure>
+
+
 III
 ----
 
@@ -184,6 +190,10 @@ No one has been able to put a firm count on the number of miners who are believe
 
 Although there are claims against over 90 mining companies, the majority point  to Vaal Reefs Gold Mine Shaft (3479 claims); Harmony Gold Mine (3222); Driefontein Gold Mine (2439); President Steyn Mine (2329) Kloof Gold Mine (2215) and President Brand Mine (1826).
 
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-id.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
+</figure>
 
 IV
 ---
