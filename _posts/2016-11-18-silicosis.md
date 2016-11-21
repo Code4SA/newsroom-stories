@@ -11,13 +11,11 @@ excerpt: |
     This will be a description of the silicosis story.
 ---
 
-From the air there is a certain beauty and symmetry in the juxtaposition of Tierboskloof, a luxury gated estate and Imizamo Yethu Bay, the township on the side of a mountain. Both areas are situated right beside one another in the small fishing town of Hout Bay, about 20 minutes outside Cape Town.
-
-But while the physical distance between these homes is only a few hundred metres, residents’ lives and living conditions are worlds apart. 
+<span class="small-author">by Johanna Chisholm & Daniela Lepiz</span>
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/dust.jpg" alt="UNEQUAL SCENES: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, Unequal Scenes. Photo: Johnny Miller" title="UNEQUAL SCENES" />
-	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone, photographer Johnny Miller flew over the area and took aerial shots showing the clear divide between the wealthier estates and the poor, densely populated Imizamo Yethu township. This photograph forms part of a larger project, <a href="http://unequalscenes.com/hout-bay-imizamo-yethu" target="_blank">Unequal Scenes</a> <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-dust.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
 </figure>
 
 
@@ -73,6 +71,11 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 “This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor. 
 
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-education.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
+</figure>
 
 
 II
