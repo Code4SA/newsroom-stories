@@ -168,8 +168,7 @@ According to him, at almost every level, the odds were overwhelmingly stacked ag
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-education.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
-	<!--<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>-->
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-education.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
 </figure>
 
 
@@ -281,7 +280,10 @@ The lawyers, the researchers, campaign organizers and the miners all agree that 
 
 “I think in the case of South Africa, the lifeline of the mines was cheap black labour,” says McCulloch, reflecting on his years of research. “And so in a way, that's the hinge in which this whole story revolves. And that's the centerpiece. It was just that the industry wasn't paying its own way. It wasn't paying for the cost of production.”
 
-[PHOTO: room of seated ex-miners/widows with Alfred Sitoe]
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-alfred-sitoe.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
+	<figcaption><strong>WIDOW</strong>: The wife of Albert Mvuka holds up her deceased husband's identity document <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+</figure>
 
 On an August day in 2016 in Welkom, a blurry-eyed ex-mine worker named Alfred Sitoe gave his account of his years underground. He began working on the mines in 1946, and became one of the first claimants to join the silicosis class action.
 
