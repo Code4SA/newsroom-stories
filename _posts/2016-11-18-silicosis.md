@@ -15,7 +15,6 @@ excerpt: |
 
 <figure>
 	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
-	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
 </figure>
 
 
@@ -99,7 +98,7 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
 	<!-- <figcaption><strong>HIDDEN LIES</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption> -->
 </figure>
 
