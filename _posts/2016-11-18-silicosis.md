@@ -99,8 +99,8 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-dust.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
-	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
+	<!-- <figcaption><strong>HIDDEN LIES</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption> -->
 </figure>
 
 
@@ -149,7 +149,10 @@ Another complication regarding compensation disbursement is that, in many cases,
 
 Such was the case for Albert Mvuka, whose death certificate reads “natural causes.” But when he died his widow described how his body was riddled with the effects of TB and silicosis. She describes him as “pitch black and extremely thin”, with a significantly impacted ability to breathe.
 
-[PHOTO OF ALBERT MVUKA ID OR WIFE WITH DOCS]
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-widow.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
+	<figcaption><strong>WIDOW</strong>: The wife of Albert Mvuka holds up her deceased husband's identity document <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+</figure>
  
 Certified in 1996, Mvuka worked underground for Harmony Gold mining company for 17 years, and only managed to stay alive for a third of that time once he left.
 
