@@ -14,7 +14,7 @@ excerpt: |
 <span class="small-author">by Johanna Chisholm & Daniela Lepiz</span>
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
 </figure>
 
 
@@ -99,7 +99,6 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 <figure>
 	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
-	<!-- <figcaption><strong>HIDDEN LIES</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption> -->
 </figure>
 
 
@@ -169,7 +168,7 @@ According to him, at almost every level, the odds were overwhelmingly stacked ag
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
+	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
 </figure>
 
 
@@ -232,8 +231,7 @@ No one has been able to put a firm count on the number of miners who are believe
 Although there are claims against over 90 mining companies, the majority point  to Vaal Reefs Gold Mine Shaft (3479 claims); Harmony Gold Mine (3222); Driefontein Gold Mine (2439); President Steyn Mine (2329) Kloof Gold Mine (2215) and President Brand Mine (1826).
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-id.jpg" alt="" title="" />
-	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
 </figure>
 
 
