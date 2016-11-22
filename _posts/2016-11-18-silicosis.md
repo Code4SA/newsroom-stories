@@ -14,7 +14,7 @@ excerpt: |
 <span class="small-author">by Johanna Chisholm & Daniela Lepiz</span>
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-dust.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
+	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="UNEQUAL SCENES: Using a drone. Photo: Johnny Miller" title="UNEQUAL SCENES" />
 	<figcaption><strong>UNEQUAL SCENES</strong>: Using a drone <strong>PHOTO: JOHNNY MILLER</strong></figcaption>
 </figure>
 
@@ -115,6 +115,8 @@ Until 1994, the South African mining industry was considered one of the safest i
 In 1916, the disease rate of silicosis among black miners was documented as being at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust. 
 
 But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent, even though the methods for diagnosing silicosis and tuberculosis did not substantially change between 1916 and 1994.
+
+> “The statistics show that the whole story is a joke, the system does not work,” said Spoor
 	 	 	
 “Rather than any recent dramatic increase in silicosis and tuberculosis, the discrepancy between the past and current data is due to a systematic under-reporting of cases, which stretches back almost a century,” said McCulloch. 
 
@@ -212,7 +214,9 @@ It was difficult for them to support their three children, she said, especially 
 
 Muriel Mafoyane Masupa is a community organizer in Welkom who has been working with Charles Abrahams’ law firm for the past few years. She helps reach out to potential new clients, while also supporting the established ones by telling them which certificates and documents they require in order to be included in the class action. 
 
-“The people here, they are still very confused,” said Masupa. 
+“The people here, they are still very confused,” said Masupa.
+
+> No one has been able to put a firm count on the number of miners who are believed to have been robbed of their dues, but even the conservative estimate puts it at nearly half a million.
 
 She is a petite, proud woman who speaks passionately about the men she represents. She meets with them, and a small group of other volunteers, at the local rec center in Virginia every third Sunday of the month, where she frequently registers new claimants. 
 
@@ -250,6 +254,11 @@ The issue of transferability, that is, having compensation for illness transferr
 
 “This thing can easily be dragged out to a series of appeals for another year to 18 months. I don't think that would be difficult at all,” said Spoor, who has already been working on the certification issue since 2012.
 
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-alfred-sitoe.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
+	<figcaption><strong>WIDOW</strong>: The wife of Albert Mvuka holds up her deceased husband's identity document <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+</figure>
+
 The mining firms could find reasons as to why they are seeking to appeal until the cows come home, he said, as it would likely work out cheaper for them to be in court for the next 15 years than it would be to compensate all of the claimants.
 
 One estimate cited by Reuters says that the total claim, erring on the conservative side, would be close to $3.25 billion rand.
@@ -265,6 +274,8 @@ Delaying by appealing is considered a very effective negotiating strategy.
 “We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying,” Spoor said. “We are not afraid to make compromises, but as you can imagine these are difficult negotiations.”
 
 In response to a request for comment on its knowledge from previous decades of the potential harm of gold mining on miners, the Chamber of Mines responded in an email that “the leaders of the mining industry today acknowledge their industry’s negative legacies, including in respect of occupational health.”
+
+> “Did they know? The only answer to that is, if they didn't know they were absolutely stupid,” said McCulloch
 
 When pressed further about the current appeals, the Chamber responded by quoting a press release from the Chamber’s president, Mike Teke, during his Annual General Meeting address earlier in the year:
 
