@@ -2,11 +2,11 @@
 layout: post
 title: When the Dust Settles
 subtitle: 
-wordsby: "Roxanne Joseph"
+wordsby: "Johanna Chisholm, Daniela Q Lepiz, edited by Diana Neille"
 databy: "Daniela Q Lepiz"
-photographer: "Fanie Jason"
+photographer: "Johanna Chisholm"
 devby:	"Lailah Ryklief"
-author: Roxanne Joseph
+author: Johanna Chisholm and Daniela Q Lepiz
 excerpt: |
     This will be a description of the silicosis story.
 ---
@@ -16,7 +16,6 @@ excerpt: |
 <figure>
 	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
 </figure>
-
 
 <div class="sili-chapter">
 		<h2 class="sili-titles">I</h2>
@@ -94,7 +93,7 @@ This informal policy of not compensating black miners properly continued unabate
 
 Despite both this overwhelming evidence and the sheer number of affected miners, lawyers representing the 32 gold mine companies have appealed the certification of the two cases since the April 2016 class action ruling. While neither Spoor nor Abrahams was surprised by these appeals, they say they are no less frustrated by the delays. 
 
-“This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor. 
+“This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
 
 
 <figure>
@@ -231,7 +230,7 @@ No one has been able to put a firm count on the number of miners who are believe
 Although there are claims against over 90 mining companies, the majority point  to Vaal Reefs Gold Mine Shaft (3479 claims); Harmony Gold Mine (3222); Driefontein Gold Mine (2439); President Steyn Mine (2329) Kloof Gold Mine (2215) and President Brand Mine (1826).
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
+	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
 </figure>
 
 
