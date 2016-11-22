@@ -98,7 +98,7 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
+	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
 	<!-- <figcaption><strong>HIDDEN LIES</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption> -->
 </figure>
 
@@ -169,7 +169,7 @@ According to him, at almost every level, the odds were overwhelmingly stacked ag
 
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-education.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
 </figure>
 
 
