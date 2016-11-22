@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post-silicosis
 title: When the Dust Settles
 subtitle: 
-wordsby: "Johanna Chisholm, Daniela Q Lepiz, edited by Diana Neille"
+wordsby: "Johanna Chisholm, Daniela Q Lepiz"
 databy: "Daniela Q Lepiz"
 photographer: "Johanna Chisholm"
 devby:	"Lailah Ryklief"
