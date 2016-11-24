@@ -1,5 +1,5 @@
 ---
-layout: post-silicosis
+layout: post-chronicle
 title: When the Dust Settles
 subtitle: 
 wordsby: "Johanna Chisholm, Daniela Q Lepiz"
@@ -11,15 +11,15 @@ excerpt: |
     This will be a description of the silicosis story.
 ---
 
-<span class="small-author">by Johanna Chisholm & Daniela Lepiz</span>
+<span class="chronicle-author">by Johanna Chisholm & Daniela Lepiz</span>
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
 </figure>
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">I</h2>
-		<h2 class="sili-titles">Sent home to die</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">I</h2>
+		<h2 class="chronicle-titles">Sent home to die</h2>
 </div>
 
 The dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
@@ -97,13 +97,13 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
 </figure>
 
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">II</h2>
-		<h2 class="sili-titles">Hidden lies</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">II</h2>
+		<h2 class="chronicle-titles">Hidden lies</h2>
 </div>
 
 
@@ -169,13 +169,13 @@ According to him, at almost every level, the odds were overwhelmingly stacked ag
 
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
 </figure>
 
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">III</h2>
-		<h2 class="sili-titles">A need for education</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">III</h2>
+		<h2 class="chronicle-titles">A need for education</h2>
 </div>
 
 
@@ -235,13 +235,13 @@ No one has been able to put a firm count on the number of miners who are believe
 Although there are claims against over 90 mining companies, the majority point  to Vaal Reefs Gold Mine Shaft (3479 claims); Harmony Gold Mine (3222); Driefontein Gold Mine (2439); President Steyn Mine (2329) Kloof Gold Mine (2215) and President Brand Mine (1826).
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
 </figure>
 
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">IV</h2>
-		<h2 class="sili-titles">Suffocation by red tape</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">IV</h2>
+		<h2 class="chronicle-titles">Suffocation by red tape</h2>
 </div>
 
 

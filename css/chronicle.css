@@ -1,0 +1,38 @@
+/* silicosis */
+
+.chronicle-author {
+	font-size: 16px;
+	font-weight: 100;
+}
+
+.chronicle-chapter {
+	padding: 30px;
+	margin-bottom: 25px;
+}
+
+.chronicle-titles {
+	font-family: 'Playfair Display', sans-serif;
+	font-size: 36px;
+	line-height: 24px;
+}
+
+.chapter-break {
+	background-color: #efefef;
+	padding: 60px;
+}
+
+.chronicle-img-band {
+	width: 160%;
+    margin-left: -30%;
+    border:none;
+}
+
+.footer-boder-remove {
+	border: none;	
+}
+
+@media screen and (max-width: 991px) {
+  /*silicosis*/
+  /*.img-band { width: 110%; margin-left: -5%; }*/
+
+}
