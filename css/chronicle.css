@@ -88,11 +88,6 @@ blockquote {
 	border: none;	
 }
 
-iframe {
-	margin-left: auto;
-    margin-right: auto;
-}
-
 figcaption {
 	font-family: 'Roboto Slab', 'Libre Baskerville', serif;
 	text-align: center;
