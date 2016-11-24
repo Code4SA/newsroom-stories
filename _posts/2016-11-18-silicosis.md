@@ -32,7 +32,7 @@ By then, trains traveled regularly through the area to the country’s burgeonin
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-virginia.jpg" alt="VIRGINIA: ... Photo: Johanna Chisholm" title="VIRGINIA" />
-	<figcaption><strong>VIRGINIA</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+	<figcaption>VIRGINIA: ... . Credit: Johanna Chisholm</figcaption>
 </figure>
 
 60 years later, the town of Virginia hasn’t substantially changed. It’s a Sunday -- the third Sunday of the month. On the way to a town meeting for gold miners diagnosed with lung diseases, community volunteer Mpai Nompi reflects on how necessary these gatherings are for educating those miners still living and working in Virginia about what their forebears didn’t know, as they lay in those trains destined for Booysens Station. 
@@ -49,7 +49,7 @@ In a decision handed down earlier this year, the Supreme Court ruled that the ap
 
 <figure>
 	<iframe width="99%" height="480" src="https://line.do/embed/1ich/vertical" frameborder="1" style="border: 1px solid #000000 " allowfullscreen></iframe>
-	<figcaption><strong>TIMELINE</strong>: Scroll down to explore the steps leading to the silicosis class action  <strong>VISUALISATION: DANIELA Q LEPIZ</strong></figcaption>
+	<figcaption>TIMELINE: Scroll down to explore the steps leading to the silicosis class action. Credit: Daniela Q Lepiz</figcaption>
 </figure>
 
 
@@ -84,7 +84,7 @@ It was while he was conducting this research, poring over archival medical recor
 		<noscript>
 		 <a href="https://dc.sourceafrica.net/public/search/projectid%3A%20394-a-trail-of-dust-silicosis-compensation-system-in-south-africa%20">View/search document collection</a>
 		</noscript>
-		<figcaption><strong>BROWSE DOCUMENTS</strong>: An insight in the Mine-Companies world before democracy took place in South Africa. So far, what we know about complaints in the procedures, lack of information and recognized compensation for tuberculosis, silicosis and silico-tuberculosis. Documents provided by professor Jock Mcculloch.</figcaption>
+		<figcaption>BROWSE DOCUMENTS: An insight in the Mine-Companies world before democracy took place in South Africa. So far, what we know about complaints in the procedures, lack of information and recognized compensation for tuberculosis, silicosis and silico-tuberculosis. Documents provided by professor Jock Mcculloch.</figcaption>
 </figure>
 
 He described how, when black miners became noticeably ill, they would either be shipped out or repatriated, before another migrant laborer was subbed in. 
@@ -133,7 +133,7 @@ An analysis of the official data provided by StatsSA reveals that only 274 peopl
 
 <figure>
 	<iframe width="100%" height="520" frameborder="0" src="https://dqlepizcode4sa.carto.com/viz/409610be-acb6-11e6-a79d-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-	<figcaption><strong>A FAIL IN THE SYSTEM</strong>: During the last 17 years only 274 deaths have been reported as silicosis. This maps shows some of the districts where the deaths have been reported <strong>VISUALISATION: DANIELA Q LEPIZ</strong></figcaption>
+	<figcaption>A FAIL IN THE SYSTEM: During the last 17 years only 274 deaths have been reported as silicosis. This maps shows some of the districts where the deaths have been reported. Credit: Daniela Q Lepiz</figcaption>
 </figure>
 
 These numbers are at odds with research done by the National Health Laboratory System (NHLS), which states that, in 2013 alone, the overall rate of silicosis contracted by gold miners was at 23%, with a much higher figure for black miners, at 37%. 
@@ -160,7 +160,7 @@ Such was the case for Albert Mvuka, whose death certificate reads “natural cau
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-widow.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
-	<figcaption><strong>WIDOW</strong>: The wife of Albert Mvuka holds up her deceased husband's identity document <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+	<figcaption>WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Credit: Johanna Chisholm</figcaption>
 </figure>
  
 Certified in 1996, Mvuka worked underground for Harmony Gold mining company for 17 years, and only managed to stay alive for a third of that time once he left.
@@ -219,7 +219,7 @@ His wife Patricia often steps in to fill the gaps in his account. Patrick says t
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-patrick.jpg" alt="MR PATRICK: ... Photo: Johanna Chisholm" title="MR PATRICK" />
-	<figcaption><strong>MR PATRICK</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+	<figcaption>MR PATRICK: ... . Credit: Johanna Chisholm</figcaption>
 </figure>
 
 It was difficult for them to support their three children, she said, especially after she was forced to quit her job as a domestic worker so that she could take care of her husband.
@@ -305,7 +305,7 @@ The lawyers, the researchers, campaign organizers and the miners all agree that 
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-alfred-sitoe.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
-	<figcaption><strong>WIDOW</strong>: The wife of Albert Mvuka holds up her deceased husband's identity document <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+	<figcaption>WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Credit: Johanna Chisholm</figcaption>
 </figure>
 
 On an August day in 2016 in Welkom, a blurry-eyed ex-mine worker named Alfred Sitoe gave his account of his years underground. He began working on the mines in 1946, and became one of the first claimants to join the silicosis class action.
@@ -316,3 +316,10 @@ Born in 1918, he’s 98-years-old this year. He walks with difficulty. He needs 
 
 So far, that monthly 200-metre struggle has got him nowhere -- and it’s unlikely he’ll see the end of this journey to justice before he is laid down at home to die.
 
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9ir8gDXl5Jc"></iframe>
+</div>
+<figure>
+	<figcaption>description of video. Credit: Daniela Q Lepiz</figcaption>
+</figure>

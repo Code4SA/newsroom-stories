@@ -93,6 +93,12 @@ iframe {
     margin-right: auto;
 }
 
+figcaption {
+	font-family: 'Roboto Slab', 'Libre Baskerville', serif;
+	text-align: center;
+	font-weight: 600;
+}
+
 @media screen and (max-width: 991px) {
   /*silicosis*/
   /*.img-band { width: 110%; margin-left: -5%; }*/
