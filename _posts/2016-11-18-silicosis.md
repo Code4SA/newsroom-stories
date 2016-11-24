@@ -206,7 +206,10 @@ His wife Patricia often steps in to fill the gaps in his account. Patrick says t
 
 “After he left the mine the only money that he received after retrenchment was R19 000. But within a year it was finished,” said Patricia.
 
-[PHOTO OF PATRICK]
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-patrick.jpg" alt="MR PATRICK: ... Photo: Johanna Chisholm" title="MR PATRICK" />
+	<figcaption><strong>MR PATRICK</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+</figure>
 
 It was difficult for them to support their three children, she said, especially after she was forced to quit her job as a domestic worker so that she could take care of her husband.
 
