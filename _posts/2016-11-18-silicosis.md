@@ -1,5 +1,5 @@
 ---
-layout: post-silicosis
+layout: post-chronicle
 title: When the Dust Settles
 subtitle: 
 wordsby: "Johanna Chisholm, Daniela Q Lepiz"
@@ -11,18 +11,20 @@ excerpt: |
     This will be a description of the silicosis story.
 ---
 
-<span class="small-author">by Johanna Chisholm & Daniela Lepiz</span>
+<span class="chronicle-author">by Johanna Chisholm & Daniela Lepiz</span>
+
+<span class="chronicle-lead"></span>
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
 </figure>
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">I</h2>
-		<h2 class="sili-titles">Sent home to die</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">- I -</h2>
+		<h2 class="chronicle-titles">Sent home to die</h2>
 </div>
 
-The dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
+<span class="chronicle-dropcap">T</span> he dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
 
 In just 60 years Virginia went from being a boulder with the home state of two American railway surveyors etched into its side to a bustling, prospecting settlement spreading out to the banks of the Sand River, when gold was discovered there in 1949. 
 
@@ -97,17 +99,17 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
 </figure>
 
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">II</h2>
-		<h2 class="sili-titles">Hidden lies</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">- II -</h2>
+		<h2 class="chronicle-titles">Hidden lies</h2>
 </div>
 
 
-Until 1994, the South African mining industry was considered one of the safest in terms of disease prevention. But according to McCulloch, there’s a strong link between the transition to democracy under the ANC in 1994 and the high increase in incidents of silicosis among black workers being reported. 
+<span class="chronicle-dropcap">U</span> ntil 1994, the South African mining industry was considered one of the safest in terms of disease prevention. But according to McCulloch, there’s a strong link between the transition to democracy under the ANC in 1994 and the high increase in incidents of silicosis among black workers being reported. 
 	 	 	
 In 1916, the disease rate of silicosis among black miners was documented as being at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust. 
 
@@ -136,7 +138,9 @@ Dr Gill Nelson of the Division of Epidemiology at the University of the Witwater
 
 Nelson highlighted the possibility of an underestimation of the proportion of black miners with silicosis, due in part to the fact that they were not all aware of their right to an autopsy.
 
-<div class='tableauPlaceholder' id='viz1479748194826' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Rateofsilicosis&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1479748194826');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='354px';vizElement.style.height='629px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1479748194826' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Rateofsilicosis&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
+
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1479748194826');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='354px';vizElement.style.height='629px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 What further muddies the waters when diagnosing miners and getting the appropriate certification is the literal definition of silicosis within the compensation legislation. Spoor, who has been challenging this very definition, said that to be diagnosed with a compensable disease from silicosis a miner must have a lung function impediment of more than 10 percent.
 
@@ -167,17 +171,17 @@ According to him, at almost every level, the odds were overwhelmingly stacked ag
 
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
 </figure>
 
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">III</h2>
-		<h2 class="sili-titles">A need for education</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">- III -</h2>
+		<h2 class="chronicle-titles">A need for education</h2>
 </div>
 
 
-While the rate of accurate diagnoses of both black and white miners has improved in the past decade, the education of black miners -- about the implications of silicosis -- is still an issue. 
+<span class="chronicle-dropcap">W</span> hile the rate of accurate diagnoses of both black and white miners has improved in the past decade, the education of black miners -- about the implications of silicosis -- is still an issue. 
 
 For a long time, South Africa was hailed as having the first occupational compensation system for mine workers. What wasn’t commonly talked about, however, was how this system was designed by white unions, and largely reserved for white mine workers alone. Even to this day, the concept of being compensated for any contracted occupational illnesses is one that is heavily entrenched in white culture. It is not the same for black workers.
 
@@ -187,7 +191,10 @@ The diagnosis is determined by the National Health Laboratory Services and the r
 
 For 2014, the silicosis rate among black gold miners was 297 out of 1000. Autopsies done since 2010 reveal that the majority of miners who exercised this particular right worked for Harmony, Vaal Reef and Beatrix Gold.
 
-<div class='tableauPlaceholder' id='viz1479796329949' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Nationality-AGe&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1479796329949');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='424px';vizElement.style.maxWidth='654px';vizElement.style.width='100%';vizElement.style.minHeight='629px';vizElement.style.maxHeight='929px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<div class='tableauPlaceholder' id='viz1479796329949' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Nationality-AGe&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1479796329949');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='424px';vizElement.style.maxWidth='654px';vizElement.style.width='100%';vizElement.style.minHeight='629px';vizElement.style.maxHeight='929px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
 
 Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at the clinic for ex-miners at  Groote Schuur hospital in Cape Town were often unclear about what they were being treated for -- and how this fit into government’s failure to make compensation and autopsy services more readily available to black miners. 
 
@@ -201,7 +208,10 @@ His wife Patricia often steps in to fill the gaps in his account. Patrick says t
 
 “After he left the mine the only money that he received after retrenchment was R19 000. But within a year it was finished,” said Patricia.
 
-[PHOTO OF PATRICK]
+<figure>
+	<img src="/newsroom-stories/img/stories/20161118/silicosis-patrick.jpg" alt="MR PATRICK: ... Photo: Johanna Chisholm" title="MR PATRICK" />
+	<figcaption><strong>MR PATRICK</strong>: ... <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
+</figure>
 
 It was difficult for them to support their three children, she said, especially after she was forced to quit her job as a domestic worker so that she could take care of her husband.
 
@@ -230,17 +240,17 @@ No one has been able to put a firm count on the number of miners who are believe
 Although there are claims against over 90 mining companies, the majority point  to Vaal Reefs Gold Mine Shaft (3479 claims); Harmony Gold Mine (3222); Driefontein Gold Mine (2439); President Steyn Mine (2329) Kloof Gold Mine (2215) and President Brand Mine (1826).
 
 <figure>
-	<img class="img-band" src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
+	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-id-band.jpg" alt="WIDOW" title="WIDOW" />
 </figure>
 
 
-<div class="sili-chapter">
-		<h2 class="sili-titles">IV</h2>
-		<h2 class="sili-titles">Suffocation by red tape</h2>
+<div class="chronicle-chapter">
+		<h2 class="chronicle-titles">- IV -</h2>
+		<h2 class="chronicle-titles">Suffocation by red tape</h2>
 </div>
 
 
-Ma’Lerato Beatrice’s husband was diagnosed with both silicosis and tuberculosis decades ago. Mathi Paulos continued working on the dusty mines of Virginia after diagnosis, and eventually died there in 2003.
+<span class="chronicle-dropcap">M</span> a’Lerato Beatrice’s husband was diagnosed with both silicosis and tuberculosis decades ago. Mathi Paulos continued working on the dusty mines of Virginia after diagnosis, and eventually died there in 2003.
 
 “He was [supposed to be] compensated for silicosis. And after being compensated, he died,” said Beatrice. Today, she has a granddaughter wrapped snugly onto her back. But when her husband died her three children were all very young.
 
