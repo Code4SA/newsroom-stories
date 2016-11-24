@@ -101,7 +101,7 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 “This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
 
-> In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died
+> "In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died"
 
 
 <figure>
@@ -228,7 +228,7 @@ It was difficult for them to support their three children, she said, especially 
 
 “He never got any [more] compensation from them. Even today, he's still waiting for that money he never received,” she said.
 
-> He’s still waiting for that money he never received
+> "He’s still waiting for that money he never received"
 
 Muriel Mafoyane Masupa is a community organizer in Welkom who has been working with Charles Abrahams’ law firm for the past few years. She helps reach out to potential new clients, while also supporting the established ones by telling them which certificates and documents they require in order to be included in the class action. 
 
@@ -269,20 +269,15 @@ The issue of transferability, that is, having compensation for illness transferr
 
 “This thing can easily be dragged out to a series of appeals for another year to 18 months. I don't think that would be difficult at all,” said Spoor, who has already been working on the certification issue since 2012.
 
-<figure>
-	<img src="/newsroom-stories/img/stories/20161118/silicosis-alfred-sitoe.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
-	<figcaption><strong>WIDOW</strong>: The wife of Albert Mvuka holds up her deceased husband's identity document <strong>PHOTO: JOHANNA CHISHOLM</strong></figcaption>
-</figure>
-
 The mining firms could find reasons as to why they are seeking to appeal until the cows come home, he said, as it would likely work out cheaper for them to be in court for the next 15 years than it would be to compensate all of the claimants.
+
+> "We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying"
 
 One estimate cited by Reuters says that the total claim, erring on the conservative side, would be close to $3.25 billion rand.
 
 Another reason for delaying related to the issue of his clients’ age, Spoor said.
 
 “Our clients are mainly elderly people who are sick and dying -- and the longer the matter delays, the less claims there are and the more difficult it becomes to prove your damages,” said Spoor, adding that an estimated four percent of their clients are dying each year.
-
-> We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying
 
 “This litigation has been going now for ten years and in that time, perhaps as many as a half of former gold mine workers with silicosis have probably died.”
 
