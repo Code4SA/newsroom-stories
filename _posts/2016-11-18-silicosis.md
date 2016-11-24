@@ -39,6 +39,8 @@ By then, trains traveled regularly through the area to the country’s burgeonin
 
 That knowledge has formed the basis of a landmark class action lawsuit, brought by miner Bongani Nkala and 55 others against 32 of the world’s largest gold mining companies, including Harmony Gold, Anglo American, AngloGold Ashanti, Gold Fields, Sibanye Gold and African Rainbow Minerals. They are seeking compensation for up to half a million miners who are believed to have contracted silicosis and tuberculosis by inhaling dust while working underground.
 
+> Half a million miners are believed to have contracted silicosis & tuberculosis while working underground
+
 “Most [miners] didn’t know they were even being exposed to bad dust,” said Nompi. She’s been working with Charles Abrahams, one of the law firms representing  tuberculosis sufferers in the class action suit, since 2011. 
 
 “They just want what is their due.”
@@ -89,13 +91,17 @@ He described how, when black miners became noticeably ill, they would either be 
 
 This informal policy of not compensating black miners properly continued unabated and unquestioned for years. Any evidence of it was also quietly buried. 
 
-“The migrant labor system was made up of men coming from rural areas of the Eastern Cape, Botswana, Lesotho and Mozambique,” said McCulloch. 
+“The migrant labor system was made up of men coming from rural areas of the Eastern Cape, Botswana, Lesotho and Mozambique,” said McCulloch.
+
+> Men coming back from the mines are coming back with lung disease, but they're not being compensated
 
 “The men were considerably cheaper to employ than white workers, in part because of the apartheid laws.”
 
 Despite both this overwhelming evidence and the sheer number of affected miners, lawyers representing the 32 gold mine companies have appealed the certification of the two cases since the April 2016 class action ruling. While neither Spoor nor Abrahams was surprised by these appeals, they say they are no less frustrated by the delays. 
 
 “This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
+
+> In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died
 
 
 <figure>
@@ -114,12 +120,12 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 In 1916, the disease rate of silicosis among black miners was documented as being at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust. 
 
 But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent, even though the methods for diagnosing silicosis and tuberculosis did not substantially change between 1916 and 1994.
-
-> “The statistics show that the whole story is a joke, the system does not work,” said Spoor
 	 	 	
 “Rather than any recent dramatic increase in silicosis and tuberculosis, the discrepancy between the past and current data is due to a systematic under-reporting of cases, which stretches back almost a century,” said McCulloch. 
 
 Though the migrant labor system wasn’t a creation of the mining companies themselves, it became the perfect means for exploiting cheap and dangerous labour, and hiding the consequences.
+
+> The migrant labour system became the perfect means for exploiting cheap and dangerous labour & hiding the consequences
 
 Up until now, the difficulty of detection of silicosis has allowed the misrepresentation of tens of thousands of deaths -- which is what makes the class action so challenging. The diagnosis requires advanced medical skills in occupational diseases and the use of special medical equipment. So plenty of mineworkers were certified with other causes of death, or even as a result of natural causes. 
 
@@ -169,6 +175,7 @@ That was the case for many mineworkers throughout the past century. If, during t
 
 According to him, at almost every level, the odds were overwhelmingly stacked against ever obtaining a proper diagnosis as a black miner. 
 
+> If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low
 
 <figure>
 	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
@@ -200,6 +207,8 @@ Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at 
 
 Unlike white miners, Ehrlich said black miners usually weren’t able to distinguish between silicosis and tuberculosis, nor were they educated about the compensation system and what they were due if they got sick on the mines.
 
+> Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines
+
 “[Black workers] were never really inducted into understanding the system. They knew there was some payout if you got tuberculosis,” he explained. “But a distinction was never made between silicosis and TB. “It’s a failure of education, but also acculturation and the roots go back quite deeply to the migrant labour system, the dependence on these jobs.”
 
 Patrick began working on the mines in 1979 and was retrenched after 16 years of service. Now, he struggles to tell his story without being interrupted by fits of coughing.
@@ -217,13 +226,13 @@ It was difficult for them to support their three children, she said, especially 
 
 “I have to borrow the wheelbarrow and ‘drive’ him to the clinic so that they can see that he is still alive,” Patricia said. He was treated at a government-sponsored hospital, so the tuberculosis treatment was covered, but Patricia was forced to travel long distances to get her husband’s medication. 
 
-“He never got any [more] compensation from them. Even today, he's still waiting for that money he never received,” she said. 
+“He never got any [more] compensation from them. Even today, he's still waiting for that money he never received,” she said.
+
+> He’s still waiting for that money he never received
 
 Muriel Mafoyane Masupa is a community organizer in Welkom who has been working with Charles Abrahams’ law firm for the past few years. She helps reach out to potential new clients, while also supporting the established ones by telling them which certificates and documents they require in order to be included in the class action. 
 
 “The people here, they are still very confused,” said Masupa.
-
-> No one has been able to put a firm count on the number of miners who are believed to have been robbed of their dues, but even the conservative estimate puts it at nearly half a million.
 
 She is a petite, proud woman who speaks passionately about the men she represents. She meets with them, and a small group of other volunteers, at the local rec center in Virginia every third Sunday of the month, where she frequently registers new claimants. 
 
@@ -278,6 +287,8 @@ Another reason for delaying related to the issue of his clients’ age, Spoor sa
 Delaying by appealing is considered a very effective negotiating strategy.
 
 “We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying,” Spoor said. “We are not afraid to make compromises, but as you can imagine these are difficult negotiations.”
+
+> We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying
 
 In response to a request for comment on its knowledge from previous decades of the potential harm of gold mining on miners, the Chamber of Mines responded in an email that “the leaders of the mining industry today acknowledge their industry’s negative legacies, including in respect of occupational health.”
 

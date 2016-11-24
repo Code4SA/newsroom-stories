@@ -1,9 +1,22 @@
 /* silicosis */
 
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora|Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Libre+Baskerville|Lora|Roboto+Slab');
 
+
+.logo-join {
+	padding-top: 15px;
+	display: block;
+	text-align:center;
+}
 
 .chronicle-logo {
+	border: none;
+	display: inline;
+	padding-right: 0px;
+}
+
+.c4sa-logo {
+	display: inline;
 	border: none;
 }
 
@@ -26,6 +39,19 @@ body {
 h1 {
 	font-family: 'Libre Baskerville', 'Playfair Display' serif;
 	font-weight: 600;
+}
+
+h2 {
+
+}
+
+blockquote {
+	font-family: 'Fjalla One', 'Libre Baskerville', serif;
+	font-size: 26px;
+	background-color: #fff;
+	border-left:none;
+	display: block;
+	text-align: center;
 }
 
 .chronicle-author {
