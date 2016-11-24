@@ -282,21 +282,21 @@ Another reason for delaying related to the issue of his clients’ age, Spoor sa
 
 “Our clients are mainly elderly people who are sick and dying -- and the longer the matter delays, the less claims there are and the more difficult it becomes to prove your damages,” said Spoor, adding that an estimated four percent of their clients are dying each year.
 
+> We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying
+
 “This litigation has been going now for ten years and in that time, perhaps as many as a half of former gold mine workers with silicosis have probably died.”
 
 Delaying by appealing is considered a very effective negotiating strategy.
 
 “We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying,” Spoor said. “We are not afraid to make compromises, but as you can imagine these are difficult negotiations.”
 
-> We are under a lot of pressure to conclude a settlement in the interest of our clients because they are dying
-
 In response to a request for comment on its knowledge from previous decades of the potential harm of gold mining on miners, the Chamber of Mines responded in an email that “the leaders of the mining industry today acknowledge their industry’s negative legacies, including in respect of occupational health.”
-
-> “Did they know? The only answer to that is, if they didn't know they were absolutely stupid,” said McCulloch
 
 When pressed further about the current appeals, the Chamber responded by quoting a press release from the Chamber’s president, Mike Teke, during his Annual General Meeting address earlier in the year:
 
 “…Our gold companies are seeking to find fair and sustainable solutions to the challenges of silicosis. And the Chamber’s health team is doing excellent work to address the excessive incidences of TB on the mines and in mining towns. What we are doing, though, is working towards achieving what should always have been the norm.”
+
+> “Did they know? The only answer to that is, if they didn't know they were absolutely stupid,” said McCulloch
 
 Both Spoor and McCulloch, who have dedicated years of their lives to uncovering the scope and extent of the silicosis scourge, agree that there is not a doubt in their minds that the Chamber knew exactly what risks they were subjecting miners to.
 
