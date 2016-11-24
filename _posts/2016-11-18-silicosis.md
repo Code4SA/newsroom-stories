@@ -13,16 +13,18 @@ excerpt: |
 
 <span class="chronicle-author">by Johanna Chisholm & Daniela Lepiz</span>
 
+<span class="chronicle-lead"></span>
+
 <figure>
 	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg" alt="When the dust settles. Photo by Johanna Chisholm" title="When the dust settles" />
 </figure>
 
 <div class="chronicle-chapter">
-		<h2 class="chronicle-titles">I</h2>
+		<h2 class="chronicle-titles">- I -</h2>
 		<h2 class="chronicle-titles">Sent home to die</h2>
 </div>
 
-The dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
+<span class="chronicle-dropcap">T</span> he dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
 
 In just 60 years Virginia went from being a boulder with the home state of two American railway surveyors etched into its side to a bustling, prospecting settlement spreading out to the banks of the Sand River, when gold was discovered there in 1949. 
 
@@ -102,12 +104,12 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 
 <div class="chronicle-chapter">
-		<h2 class="chronicle-titles">II</h2>
+		<h2 class="chronicle-titles">- II -</h2>
 		<h2 class="chronicle-titles">Hidden lies</h2>
 </div>
 
 
-Until 1994, the South African mining industry was considered one of the safest in terms of disease prevention. But according to McCulloch, there’s a strong link between the transition to democracy under the ANC in 1994 and the high increase in incidents of silicosis among black workers being reported. 
+<span class="chronicle-dropcap">U</span> ntil 1994, the South African mining industry was considered one of the safest in terms of disease prevention. But according to McCulloch, there’s a strong link between the transition to democracy under the ANC in 1994 and the high increase in incidents of silicosis among black workers being reported. 
 	 	 	
 In 1916, the disease rate of silicosis among black miners was documented as being at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust. 
 
@@ -174,12 +176,12 @@ According to him, at almost every level, the odds were overwhelmingly stacked ag
 
 
 <div class="chronicle-chapter">
-		<h2 class="chronicle-titles">III</h2>
+		<h2 class="chronicle-titles">- III -</h2>
 		<h2 class="chronicle-titles">A need for education</h2>
 </div>
 
 
-While the rate of accurate diagnoses of both black and white miners has improved in the past decade, the education of black miners -- about the implications of silicosis -- is still an issue. 
+<span class="chronicle-dropcap">W</span> hile the rate of accurate diagnoses of both black and white miners has improved in the past decade, the education of black miners -- about the implications of silicosis -- is still an issue. 
 
 For a long time, South Africa was hailed as having the first occupational compensation system for mine workers. What wasn’t commonly talked about, however, was how this system was designed by white unions, and largely reserved for white mine workers alone. Even to this day, the concept of being compensated for any contracted occupational illnesses is one that is heavily entrenched in white culture. It is not the same for black workers.
 
@@ -243,12 +245,12 @@ Although there are claims against over 90 mining companies, the majority point  
 
 
 <div class="chronicle-chapter">
-		<h2 class="chronicle-titles">IV</h2>
+		<h2 class="chronicle-titles">- IV -</h2>
 		<h2 class="chronicle-titles">Suffocation by red tape</h2>
 </div>
 
 
-Ma’Lerato Beatrice’s husband was diagnosed with both silicosis and tuberculosis decades ago. Mathi Paulos continued working on the dusty mines of Virginia after diagnosis, and eventually died there in 2003.
+<span class="chronicle-dropcap">M</span> a’Lerato Beatrice’s husband was diagnosed with both silicosis and tuberculosis decades ago. Mathi Paulos continued working on the dusty mines of Virginia after diagnosis, and eventually died there in 2003.
 
 “He was [supposed to be] compensated for silicosis. And after being compensated, he died,” said Beatrice. Today, she has a granddaughter wrapped snugly onto her back. But when her husband died her three children were all very young.
 

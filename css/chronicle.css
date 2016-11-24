@@ -1,8 +1,38 @@
 /* silicosis */
 
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora|Roboto+Slab');
+
+
+.chronicle-logo {
+	border: none;
+}
+
+body {
+	font-family: 'Roboto Slab', sans-serif;
+	font-weight:300!important;
+}
+
+.chronicle-dropcap {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 55px;
+	font-weight: 700;
+	float: left;
+	padding-left: 0px;
+	padding-right: 10px;
+	padding-top: 11px;
+	padding-bottom: 5px;
+}
+
+h1 {
+	font-family: 'Libre Baskerville', 'Playfair Display' serif;
+	font-weight: 600;
+}
+
 .chronicle-author {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 100;
+	display: block;
+	text-align:center;
 }
 
 .chronicle-chapter {
@@ -11,9 +41,10 @@
 }
 
 .chronicle-titles {
-	font-family: 'Playfair Display', sans-serif;
-	font-size: 36px;
+	font-family: 'Libre Baskerville', 'Playfair Display', serif;
+	font-size: 24px;
 	line-height: 24px;
+	text-transform: uppercase;
 }
 
 .chapter-break {
