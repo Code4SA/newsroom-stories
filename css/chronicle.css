@@ -13,6 +13,7 @@
 	border: none;
 	display: inline;
 	padding-right: 0px;
+	width: 80px;
 }
 
 .c4sa-logo {
@@ -23,6 +24,10 @@
 body {
 	font-family: 'Roboto Slab', sans-serif;
 	font-weight:300!important;
+}
+
+.credititalic {
+	font-style: italic;
 }
 
 .chronicle-dropcap {

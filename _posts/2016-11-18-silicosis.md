@@ -32,14 +32,14 @@ By then, trains traveled regularly through the area to the country’s burgeonin
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-virginia.jpg" alt="PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. PHOTO CREDIT: JOHANNA CHISHOLM" title="PANNING ILLEGALLY" />
-	<figcaption>PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. PHOTO CREDIT: JOHANNA CHISHOLM</figcaption>
+	<figcaption>PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
 </figure>
 
 60 years later, the town of Virginia hasn’t substantially changed. It’s a Sunday -- the third Sunday of the month. On the way to a town meeting for gold miners diagnosed with lung diseases, community volunteer Mpai Nompi reflects on how necessary these gatherings are for educating those miners still living and working in Virginia about what their forebears didn’t know, as they lay in those trains destined for Booysens Station. 
 
 That knowledge has formed the basis of a landmark class action lawsuit, brought by miner Bongani Nkala and 55 others against 32 of the world’s largest gold mining companies, including Harmony Gold, Anglo American, AngloGold Ashanti, Gold Fields, Sibanye Gold and African Rainbow Minerals. They are seeking compensation for up to half a million miners who are believed to have contracted silicosis and tuberculosis by inhaling dust while working underground.
 
-> Half a million miners are believed to have contracted silicosis & tuberculosis while working underground
+> "Half a million miners are believed to have contracted silicosis & tuberculosis while working underground."
 
 “Most [miners] didn’t know they were even being exposed to bad dust,” said Nompi. She’s been working with Charles Abrahams, one of the law firms representing  tuberculosis sufferers in the class action suit, since 2011. 
 
@@ -49,7 +49,7 @@ In a decision handed down earlier this year, the Supreme Court ruled that the ap
 
 <figure>
 	<iframe width="640" height="640" src="https://line.do/embed/1ich/vertical" frameborder="1" style="border: 1px solid #e7e7e7 " allowfullscreen></iframe>
-	<figcaption>TIMELINE: Scroll down to explore the key events leading to the recent silicosis class action against gold mining companies. CREDIT: DANIELA Q LEPIZ</figcaption>
+	<figcaption>TIMELINE: Scroll down to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
 </figure>
 
 
@@ -95,7 +95,7 @@ This informal policy of not properly compensating black miners continued unabate
 
 “The migrant labor system was made up of men coming from rural areas of the Eastern Cape, Botswana, Lesotho and Mozambique,” said McCulloch.
 
-> “In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died”
+> “In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died.”
 
 “The men were considerably cheaper to employ than white workers, in part because of the apartheid laws.”
 
@@ -103,7 +103,7 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 “This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
 
-> "In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died"
+> "In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died."
 
 
 <figure>
@@ -127,7 +127,7 @@ But on regime change, the rate among black miners shot up exponentially, from le
 
 Though the migrant labor system wasn’t a creation of the mining companies themselves, it became the perfect means for exploiting cheap and dangerous labour, and hiding the consequences.
 
-> "But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent"
+> "But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent."
 
 Up until now, the difficulty of detection of silicosis has allowed the misrepresentation of tens of thousands of deaths -- which is what makes the class action so challenging. The diagnosis requires advanced medical skills in occupational diseases and the use of special medical equipment. So plenty of mineworkers were certified with other causes of death, or even as a result of natural causes. 
 
@@ -135,7 +135,7 @@ An analysis of the official data provided by StatsSA reveals that only 274 peopl
 
 <figure>
 	<iframe width="100%" height="520" frameborder="0" src="https://dqlepizcode4sa.carto.com/viz/409610be-acb6-11e6-a79d-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-	<figcaption>FAILED SYSTEM: the last 17 years only 274 silicosis-related deaths have been reported, but this is inaccurate. This maps shows some of the districts where deaths have been reported. The higher concentrations are consistent with the location of the country's gold mines. CREDIT: DANIELA Q LEPIZ</figcaption>
+	<figcaption>FAILED SYSTEM: the last 17 years only 274 silicosis-related deaths have been reported, but this is inaccurate. This maps shows some of the districts where deaths have been reported. The higher concentrations are consistent with the location of the country's gold mines. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
 </figure>
 
 These numbers are at odds with research done by the National Health Laboratory System (NHLS), which states that, in 2013 alone, the overall rate of silicosis contracted by gold miners was at 23%, with a much higher figure for black miners, at 37%. 
@@ -150,7 +150,7 @@ Nelson highlighted the possibility of an underestimation of the proportion of bl
 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1479748194826');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='354px';vizElement.style.height='629px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <figure>
-	<figcaption>This graphic shows how the age distribution of silicosis diagnosis differs between black and white miners, according to a Pathaut autopsies report from 2014. Black miners were affected by silicosis from a younger age, likely because of the nature of their jobs underground. CREDIT: DANIELA Q LEPIZ</figcaption>
+	<figcaption>This graphic shows how the age distribution of silicosis diagnosis differs between black and white miners, according to a Pathaut autopsies report from 2014. Black miners were affected by silicosis from a younger age, likely because of the nature of their jobs underground. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
 </figure>
 
 What further muddies the waters when diagnosing miners and getting the appropriate certification is the literal definition of silicosis within the compensation legislation. Spoor, who has been challenging this definition, said that to be diagnosed with a compensable disease a miner must have a lung function impediment of more than 10 percent.
@@ -165,7 +165,7 @@ Such was the case for Albert Mvuka, whose death certificate reads “natural cau
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-widow.jpg" alt="WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. Photo: Johanna Chisholm" title="WIDOW" />
-	<figcaption>WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. CREDIT JOHANNA CHISHOLM</figcaption>
+	<figcaption>WIDOW: The wife of Albert Mvuka holds up her deceased husband's identity document. <span class="credititalic">PHOTO CREDIT JOHANNA CHISHOLM</span></figcaption>
 </figure>
  
 Certified in 1996, Mvuka worked underground for Harmony Gold mining company for 17 years, and only managed to stay alive for a third of that time once he left.
@@ -207,14 +207,14 @@ For 2014, the silicosis rate among black gold miners was 297 out of 1000. Autops
 <div class='tableauPlaceholder' id='viz1479796329949' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Nationality-AGe&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1479796329949');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='424px';vizElement.style.maxWidth='654px';vizElement.style.width='100%';vizElement.style.minHeight='629px';vizElement.style.maxHeight='929px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <figure>
-	<figcaption>RECORDED DEATHS: The database of claims made in the class action suit by the miners’ lawyers shows the effect South African mines have had on foreign workers, especially from Lesotho. This record of deaths has gone completely under the radar of South African authorities. CREDIT: DANIELA Q LEPIZ</figcaption>
+	<figcaption>RECORDED DEATHS: The database of claims made in the class action suit by the miners’ lawyers shows the effect South African mines have had on foreign workers, especially from Lesotho. This record of deaths has gone completely under the radar of South African authorities. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
 </figure>
 
 Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at the clinic for ex-miners at  Groote Schuur hospital in Cape Town were often unclear about what they were being treated for -- and how this fit into government’s failure to make compensation and autopsy services more readily available to black miners. 
 
 Unlike white miners, Ehrlich said black miners usually weren’t able to distinguish between silicosis and tuberculosis, nor were they educated about the compensation system and what they were due if they got sick on the mines.
 
-> Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines
+> "Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines."
 
 “[Black workers] were never really inducted into understanding the system. They knew there was some payout if you got tuberculosis,” he explained. “But a distinction was never made between silicosis and TB. “It’s a failure of education, but also acculturation — and the roots go back quite deeply to the migrant labour system, the dependence on these jobs.”
 
@@ -226,7 +226,7 @@ His wife Patricia often steps in to fill the gaps in his account. Mr. Vuyani Dwa
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-patrick.jpg" alt="MR. VUYANI DWADUBE: Mr. Vuyani Dwadube only received R19 000 after he was retrenched, despite 16 years of service and a tuberculosis and silicosis diagnosis. PHOTO CREDIT: JOHANNA CHISHOLM" title="Mr. Vuyani Dwadube" />
-	<figcaption>MR. VUYANI DWADUBE: Mr. Vuyani Dwadube only received R19 000 after he was retrenched, despite 16 years of service and a tuberculosis and silicosis diagnosis. PHOTO CREDIT: JOHANNA CHISHOLM</figcaption>
+	<figcaption>MR. VUYANI DWADUBE: Mr. Vuyani Dwadube only received R19 000 after he was retrenched, despite 16 years of service and a tuberculosis and silicosis diagnosis. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
 </figure>
 
 It was difficult for them to support their three children, she said, especially after she was forced to quit her job as a domestic worker so that she could take care of her husband.
@@ -235,7 +235,7 @@ It was difficult for them to support their three children, she said, especially 
 
 “He never got any [more] compensation from them. Even today, he's still waiting for that money he never received,” she said.
 
-> "He’s still waiting for that money he never received"
+> "He’s still waiting for that money he never received."
 
 Muriel Mafoyane Masupa is a community organizer in Welkom who has been working with Charles Abraham's law firm for the past few years. She helps reach out to potential new clients, while also supporting the established ones by telling them which certificates and documents they require in order to be included in the class action. 
 
@@ -278,7 +278,7 @@ The issue of transferability, that is, having compensation for illness transferr
 
 "The mining firms could find reasons as to why they are seeking to appeal until the cows come home," he said, as it would likely work out cheaper for them to be in court for the next 15 years than it would be to compensate all of the claimants.
 
-> "It would likely work out cheaper for them [THE MINING COMPANIES] to be in court for the next 15 years than it would be to compensate all of the claimants".
+> "It would likely work out cheaper for them [THE MINING COMPANIES] to be in court for the next 15 years than it would be to compensate all of the claimants."
 
 One estimate cited by Reuters says that the total claim, erring on the conservative side, would be close to $3.25 billion.
 
@@ -298,7 +298,7 @@ When pressed further about the current appeals, the Chamber responded by quoting
 
 “…Our gold companies are seeking to find fair and sustainable solutions to the challenges of silicosis. And the Chamber’s health team is doing excellent work to address the excessive incidences of TB on the mines and in mining towns. What we are doing, though, is working towards achieving what should always have been the norm.”
 
-> “Did they know? The only answer to that is, if they didn't know they were absolutely stupid,” said McCulloch
+> "'Did they know? The only answer to that is, if they didn't know they were absolutely stupid,” said McCulloch'."
 
 Both Spoor and McCulloch, who have dedicated years of their lives to uncovering the scope and extent of the silicosis scourge, agree that there is not a doubt in their minds that the Chamber knew exactly what risks they were subjecting miners to.
 
@@ -312,7 +312,7 @@ The lawyers, the researchers, campaign organizers and the miners all agree that 
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-alfred-sitoe.jpg" alt="WAITING FOR JUSTICE: The families of affected miners listen carefully to the latest update on the class action suit from Mpai Nompi. Among them was Alfred Sitoe, the oldest member of the class action. PHOTO CREDIT: JOHANNA CHISHOLM" title="WAITING FOR JUSTICE" />
-	<figcaption>WAITING FOR JUSTICE: The families of affected miners listen carefully to the latest update on the class action suit from Mpai Nompi. Among them was Alfred Sitoe, the oldest member of the class action. PHOTO CREDIT: JOHANNA CHISHOLM</figcaption>
+	<figcaption>WAITING FOR JUSTICE: The families of affected miners listen carefully to the latest update on the class action suit from Mpai Nompi. Among them was Alfred Sitoe, the oldest member of the class action. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
 </figure>
 
 On an August day in 2016 in Welkom, a blurry-eyed ex-mine worker named Alfred Sitoe gave his account of his years underground. He began working on the mines in 1946, and became one of the first claimants to join the silicosis class action.
@@ -328,5 +328,5 @@ So far, that monthly 200-metre struggle has got him nowhere -- and it’s unlike
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/STy-xaL-T_w"></iframe>
 </div>
 <figure>
-	<figcaption>360 DEGREES UNDERGROUND: Experience what it's like to go underground at Gold Fields, one of South Africa's major automated gold mines. CREDIT: DANIELA Q LEPIZ</figcaption>
+	<figcaption>360 DEGREES UNDERGROUND: Experience what it's like to go underground at Gold Fields, one of South Africa's major automated gold mines. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
 </figure>
