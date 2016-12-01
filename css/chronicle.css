@@ -97,6 +97,9 @@ figcaption {
 	font-family: 'Roboto Slab', 'Libre Baskerville', serif;
 	text-align: center;
 	font-weight: 600;
+	/*dark gold*/ /* color: #B9891E; */
+	/*dark green*/ /* color: #054907; */
+	/*dust green*/ color: #686B3C;
 }
 
 @media screen and (max-width: 991px) {
