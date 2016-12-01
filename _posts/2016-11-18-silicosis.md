@@ -61,7 +61,7 @@ Silicosis, or silico-tuberculosis, is a chronic and incurable disease that is ca
 
 “There's no alibi for silicosis, but epidemiologically there's no doubt that silicosis is a very strong risk factor for TB,” he said.
 
-<span class="dm-break">--</span>
+<span class="dm-break"> -- </span>
 
 <figure>
 		<div id="DC-search-projectid-394-silicosis-compensation-system-in-south-africa" class="DC-search-container"></div>
