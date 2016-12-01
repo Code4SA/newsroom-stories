@@ -57,6 +57,7 @@ blockquote {
 	border-left:none;
 	display: block;
 	text-align: center;
+	color: #686B3C;
 }
 
 .chronicle-author {
@@ -99,7 +100,11 @@ figcaption {
 	font-weight: 600;
 	/*dark gold*/ /* color: #B9891E; */
 	/*dark green*/ /* color: #054907; */
-	/*dust green*/ color: #686B3C;
+	/*dust green*/ /*color: #686B3C; */
+}
+
+.dm-break {
+	text-align: center;
 }
 
 @media screen and (max-width: 991px) {

@@ -2,16 +2,16 @@
 layout: post-chronicle
 title: When the Dust Settles
 subtitle: 
-wordsby: "Johanna Chisholm, Daniela Q Lepiz"
-databy: "Daniela Q Lepiz"
+wordsby: "Johanna Chisholm, Daniela Q. Lépiz"
+databy: "Daniela Q. Lépiz"
 photographer: "Johanna Chisholm"
 devby:	"Lailah Ryklief"
-author: Johanna Chisholm and Daniela Q Lepiz
+author: Johanna Chisholm and Daniela Q. Lépiz
 excerpt: |
     This will be a description of the silicosis story.
 ---
 
-<span class="chronicle-author">by Johanna Chisholm & Daniela Lepiz</span>
+<span class="chronicle-author">by Johanna Chisholm & Daniela Q. Lépiz</span>
 
 <span class="chronicle-lead"></span>
 
@@ -49,7 +49,7 @@ In a decision handed down earlier this year, the Supreme Court ruled that the ap
 
 <figure>
 	<iframe width="640" height="640" src="https://line.do/embed/1ich/vertical" frameborder="1" style="border: 1px solid #e7e7e7 " allowfullscreen></iframe>
-	<figcaption>TIMELINE: Scroll down to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
+	<figcaption>TIMELINE: Scroll down to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
 
@@ -57,7 +57,7 @@ In a decision handed down earlier this year, the Supreme Court ruled that the ap
 
 Silicosis, or silico-tuberculosis, is a chronic and incurable disease that is caused by inhaling silica particles, which are created when miners blast and drill gold from rocks. Tuberculosis, which is treatable, is different from silicosis in that it can result from other external factors. But the two diseases, specifically for gold miners, tend to piggyback on one another, explained epidemiologist Rodney Ehrlich.
 
-“They've known for a hundred years that silicosis and TB are strongly associated,” said Ehrlich. He’s retired now, but he spent the last 15 years running a clinic that screens ex-miners’ lungs out of Cape Town’s Groote Schuur Hospital.
+“They've known for a hundred years that silicosis and TB are strongly associated,” said Ehrlich. He’s retired now, but he spent the last 15 years running a clinic out of Cape Town’s Groote Schuur Hospital that screens ex-miners’ lungs.
 
 “There's no alibi for silicosis, but epidemiologically there's no doubt that silicosis is a very strong risk factor for TB,” he said.
 
@@ -103,8 +103,6 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 
 “This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
 
-> "In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died."
-
 
 <figure>
 	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-hidden-lies-band.jpg" alt="HIDDEN LIES: ... Photo: Johanna Chisholm" title="HIDDEN LIES" />
@@ -117,32 +115,32 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 </div>
 
 
-<span class="chronicle-dropcap">U</span> ntil 1994, the South African mining industry was considered one of the safest in terms of disease prevention. But according to McCulloch, there’s a strong link between the transition to democracy under the ANC in 1994 and an increase in incidents of silicosis among black workers being reported. 
+<span class="chronicle-dropcap">U</span> ntil 1994, the South African mining industry was considered one of the safest in terms of disease prevention. But according to McCulloch, there’s a strong link between the transition to democracy under the ANC in 1994 and an increase in incidents of silicosis among black workers being reported.
 	 	 	
-In 1916, the disease rate of silicosis among black miners was documented at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust. 
+In 1916, the disease rate of silicosis among black miners was documented at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust.
 
 But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent, even though the methods for diagnosing silicosis and tuberculosis did not substantially change between 1916 and 1994.
 	 	 	
-“Rather than any recent dramatic increase in silicosis and tuberculosis, the discrepancy between the past and current data is due to a systematic under-reporting of cases, which stretches back almost a century,” said McCulloch. 
+“Rather than any recent dramatic increase in silicosis and tuberculosis, the discrepancy between the past and current data is due to a systematic under-reporting of cases, which stretches back almost a century,” said McCulloch.
 
 Though the migrant labor system wasn’t a creation of the mining companies themselves, it became the perfect means for exploiting cheap and dangerous labour, and hiding the consequences.
 
 > "But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent."
 
-Up until now, the difficulty of detection of silicosis has allowed the misrepresentation of tens of thousands of deaths -- which is what makes the class action so challenging. The diagnosis requires advanced medical skills in occupational diseases and the use of special medical equipment. So plenty of mineworkers were certified with other causes of death, or even as a result of natural causes. 
+Up until now, the difficulty of detection of silicosis has allowed the misrepresentation of tens of thousands of deaths -- which is what makes the class action so challenging. The diagnosis requires advanced medical skills in occupational diseases and the use of special medical equipment. So plenty of mineworkers were certified with other causes of death, or even as a result of natural causes.
 
 An analysis of the official data provided by StatsSA reveals that only 274 people were reported to have died from silicosis between 1997 and 2015. However, the current estimation of people thought to have the disease at a single mining company today is almost equal to that. This suggests a huge inconsistency and a lack of accuracy in the recording of the causes of death of miners over a period of nearly two decades.
 
 <figure>
 	<iframe width="100%" height="520" frameborder="0" src="https://dqlepizcode4sa.carto.com/viz/409610be-acb6-11e6-a79d-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-	<figcaption>FAILED SYSTEM: the last 17 years only 274 silicosis-related deaths have been reported, but this is inaccurate. This maps shows some of the districts where deaths have been reported. The higher concentrations are consistent with the location of the country's gold mines. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
+	<figcaption>FAILED SYSTEM: the last 17 years only 274 silicosis-related deaths have been reported, but this is inaccurate. This maps shows some of the districts where deaths have been reported. The higher concentrations are consistent with the location of the country's gold mines. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
-These numbers are at odds with research done by the National Health Laboratory System (NHLS), which states that, in 2013 alone, the overall rate of silicosis contracted by gold miners was at 23%, with a much higher figure for black miners, at 37%. 
+These numbers are at odds with research done by the National Health Laboratory System (NHLS), which states that, in 2013 alone, the overall rate of silicosis contracted by gold miners was at 23%, with a much higher figure for black miners, at 37%.
 
 “The statistics show that the whole story is a joke, the system does not work,” said Spoor, adding that his team had “enormous” difficulties getting hold of the data. According to him, the Employment Bureau of Africa is not willing to provide the information they require.
 
-Dr Gill Nelson of the Division of Epidemiology at the University of the Witwatersrand, has analysed the NHLS data and said it clearly shows the difference in silicosis rates between black and white miners. While the proportion of black miners with silicosis increased from 3% in 1975 to 32% in 2007, the rate of white miners with silicosis only increased slightly, from 18% to 22%.  
+Dr Gill Nelson of the Division of Epidemiology at the University of the Witwatersrand, has analysed the NHLS data and said it clearly shows the difference in silicosis rates between black and white miners. While the proportion of black miners with silicosis increased from 3% in 1975 to 32% in 2007, the rate of white miners with silicosis only increased slightly, from 18% to 22%.
 
 Nelson highlighted the possibility of an underestimation of the proportion of black miners with silicosis, due in part to the fact that they were not all aware of their right to an autopsy.
 
@@ -150,14 +148,14 @@ Nelson highlighted the possibility of an underestimation of the proportion of bl
 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1479748194826');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='354px';vizElement.style.height='629px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <figure>
-	<figcaption>This graphic shows how the age distribution of silicosis diagnosis differs between black and white miners, according to a Pathaut autopsies report from 2014. Black miners were affected by silicosis from a younger age, likely because of the nature of their jobs underground. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
+	<figcaption>This graphic shows how the age distribution of silicosis diagnosis differs between black and white miners, according to a Pathaut autopsies report from 2014. Black miners were affected by silicosis from a younger age, likely because of the nature of their jobs underground. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
 What further muddies the waters when diagnosing miners and getting the appropriate certification is the literal definition of silicosis within the compensation legislation. Spoor, who has been challenging this definition, said that to be diagnosed with a compensable disease a miner must have a lung function impediment of more than 10 percent.
 
 “What has been happening is that people are being recognized for suffering from lung disease from silicosis, but their claims are rejected,” said Spoor. “They are not certified to be suffering from compensational disease, because they haven't met the 10 percent threshold.”
 
-Another complication regarding compensation disbursement is that, in many cases, while miners would be diagnosed with underlying silicosis, they would be incorrectly recorded as dying from tuberculosis. 
+Another complication regarding compensation disbursement is that, in many cases, while miners would be diagnosed with underlying silicosis, they would be incorrectly recorded as dying from tuberculosis.
 
 “Even if your death certificate were correctly recorded with an underlying cause, there's still a high chance that silicosis would have been missed,” said Ehrlich.
 
@@ -170,17 +168,17 @@ Such was the case for Albert Mvuka, whose death certificate reads “natural cau
  
 Certified in 1996, Mvuka worked underground for Harmony Gold mining company for 17 years, and only managed to stay alive for a third of that time once he left.
 
-Despite what his death certificate says, when he parted ways with Harmony, Mvuka was given a medical certificate that would later prove his actual cause of death - silicosis - and promised R77,000 in compensation, to be paid out in quotas. 
+Despite what his death certificate says, when he parted ways with Harmony, Mvuka was given a medical certificate that would later prove his actual cause of death - silicosis - and promised R77,000 in compensation, to be paid out in quotas.
 
-“If any person in Europe died from silicosis or cancer caused by radiation or inhalation of toxic gases, that is not considered a natural death,” said Spoor. “But in South Africa we've developed this culture where these [miners] deaths are ‘natural deaths’.” 
+“If any person in Europe died from silicosis or cancer caused by radiation or inhalation of toxic gases, that is not considered a natural death,” said Spoor. “But in South Africa we've developed this culture where these [miners] deaths are ‘natural deaths’.”
 
-That was the case for many mineworkers throughout the past century. If, during their annual medical examination they showed any signs of silicosis, they would immediately be retrenched and sent home. 
+That was the case for many mineworkers throughout the past century. If, during their annual medical examination they showed any signs of silicosis, they would immediately be retrenched and sent home.
 
-“If you were in a rural area and you were a black person, the chances of you having anything written other than natural causes on your death certificate were probably low,” said Ehrlich. 
+“If you were in a rural area and you were a black person, the chances of you having anything written other than natural causes on your death certificate were probably low,” said Ehrlich.
 
 According to him, at almost every level, the odds were overwhelmingly stacked against ever obtaining a proper diagnosis as a black miner. 
 
-> "If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low."
+> "If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low. And Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines"
 
 <figure>
 	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
@@ -207,7 +205,7 @@ For 2014, the silicosis rate among black gold miners was 297 out of 1000. Autops
 <div class='tableauPlaceholder' id='viz1479796329949' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Nationality-AGe&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;Nationality-AGe&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1479796329949');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='424px';vizElement.style.maxWidth='654px';vizElement.style.width='100%';vizElement.style.minHeight='629px';vizElement.style.maxHeight='929px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <figure>
-	<figcaption>RECORDED DEATHS: The database of claims made in the class action suit by the miners’ lawyers shows the effect South African mines have had on foreign workers, especially from Lesotho. This record of deaths has gone completely under the radar of South African authorities. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
+	<figcaption>RECORDED DEATHS: The database of claims made in the class action suit by the miners’ lawyers shows the effect South African mines have had on foreign workers, especially from Lesotho. This record of deaths has gone completely under the radar of South African authorities. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
 Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at the clinic for ex-miners at  Groote Schuur hospital in Cape Town were often unclear about what they were being treated for -- and how this fit into government’s failure to make compensation and autopsy services more readily available to black miners. 
@@ -278,7 +276,7 @@ The issue of transferability, that is, having compensation for illness transferr
 
 "The mining firms could find reasons as to why they are seeking to appeal until the cows come home," he said, as it would likely work out cheaper for them to be in court for the next 15 years than it would be to compensate all of the claimants.
 
-> "It would likely work out cheaper for them [THE MINING COMPANIES] to be in court for the next 15 years than it would be to compensate all of the claimants."
+> "It would likely work out cheaper for them [Mining Companies] to be in court for the next 15 years than it would be to compensate all of the claimants."
 
 One estimate cited by Reuters says that the total claim, erring on the conservative side, would be close to $3.25 billion.
 
@@ -308,7 +306,7 @@ Both Spoor and McCulloch, who have dedicated years of their lives to uncovering 
 
 The lawyers, the researchers, campaign organizers and the miners all agree that it’s high time the mines paid their dues.
 
-“I think in the case of South Africa, the lifeline of the mines was cheap black labour,” says McCulloch, reflecting on his years of research. “And so in a way, that's the hinge in which this whole story revolves. And that's the centerpiece. It was just that the industry wasn't paying its own way. It wasn't paying for the cost of production.”
+“I think in the case of South Africa, the lifeline of the mines was cheap black labour,” said McCulloch, reflecting on his years of research. “And so in a way, that's the hinge in which this whole story revolves. And that's the centerpiece. It was just that the industry wasn't paying its own way. It wasn't paying for the cost of production.”
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-alfred-sitoe.jpg" alt="WAITING FOR JUSTICE: The families of affected miners listen carefully to the latest update on the class action suit from Mpai Nompi. Among them was Alfred Sitoe, the oldest member of the class action. PHOTO CREDIT: JOHANNA CHISHOLM" title="WAITING FOR JUSTICE" />
@@ -328,5 +326,5 @@ So far, that monthly 200-metre struggle has got him nowhere -- and it’s unlike
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/STy-xaL-T_w"></iframe>
 </div>
 <figure>
-	<figcaption>360 DEGREES UNDERGROUND: Experience what it's like to go underground at Gold Fields, one of South Africa's major automated gold mines. <span class="credititalic">CREDIT: DANIELA Q LEPIZ</span></figcaption>
+	<figcaption>360 DEGREES UNDERGROUND: Experience what it's like to go underground at Gold Fields, one of South Africa's major automated gold mines. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
