@@ -104,6 +104,7 @@ figcaption {
 }
 
 .dm-break {
+	display: block;
 	text-align: center;
 }
 
