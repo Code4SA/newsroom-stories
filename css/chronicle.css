@@ -103,6 +103,10 @@ figcaption {
 	/*dust green*/ /*color: #686B3C; */
 }
 
+.dm-break {
+	text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   /*silicosis*/
   /*.img-band { width: 110%; margin-left: -5%; }*/
