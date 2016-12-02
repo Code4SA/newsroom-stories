@@ -1,3 +1,4 @@
+---
 layout: post-chronicle
 title: When the Dust Settles
 subtitle: 
@@ -23,9 +24,9 @@ excerpt: |
 		<h2 class="chronicle-titles">Sent home to die</h2>
 </div>
 
-<span class="chronicle-dropcap">T</span> he dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow.
+<span class="chronicle-dropcap">T</span> he dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
 
-In just 60 years Virginia went from being a boulder with the home state of two American railway surveyors etched into its side to a bustling, prospecting settlement spreading out to the banks of the Sand River, when gold was discovered there in 1949.
+In just 60 years Virginia went from being a boulder with the home state of two American railway surveyors etched into its side to a bustling, prospecting settlement spreading out to the banks of the Sand River, when gold was discovered there in 1949. 
 
 By then, trains traveled regularly through the area to the country’s burgeoning gold reef, Johannesburg. Every Tuesday, two would roll into Booysens Station carrying “lying-down cases” -- around 20 men riddled with tuberculosis and silicosis, sent home to the Cape and Ressano Garcia in Mozambique to die.
 
