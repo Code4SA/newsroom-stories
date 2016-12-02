@@ -1,4 +1,4 @@
----
+ and---
 layout: post-chronicle
 title: When the Dust Settles
 subtitle: 
@@ -32,7 +32,7 @@ By then, trains traveled regularly through the area to the country’s burgeonin
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-virginia.jpg" alt="PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. PHOTO CREDIT: JOHANNA CHISHOLM" title="PANNING ILLEGALLY" />
-	<figcaption>PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
+	<figcaption>PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men and women engage in the illegal mining trade and pan for gold in local water sources. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
 </figure>
 
 60 years later, the town of Virginia hasn’t substantially changed. It’s a Sunday -- the third Sunday of the month. On the way to a town meeting for gold miners diagnosed with lung diseases, community volunteer Mpai Nompi reflects on how necessary these gatherings are for educating those miners still living and working in Virginia about what their forebears didn’t know, as they lay in those trains destined for Booysens Station. 
