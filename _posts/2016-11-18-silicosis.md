@@ -49,7 +49,7 @@ In a decision handed down earlier this year, the Supreme Court ruled that the ap
 
 <figure>
 	<iframe class="viz-center" width="100%" height="640" src="https://line.do/embed/1ich/vertical" frameborder="1" style="border: 1px solid #e7e7e7 " allowfullscreen></iframe>
-	<figcaption>TIMELINE: Scroll down to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
+	<figcaption>TIMELINE: Scroll down inside the box to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
 
