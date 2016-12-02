@@ -39,7 +39,7 @@ By then, trains traveled regularly through the area to the country’s burgeonin
 
 That knowledge has formed the basis of a landmark class action lawsuit, brought by miner Bongani Nkala and 55 others against 32 of the world’s largest gold mining companies, including Harmony Gold, Anglo American, AngloGold Ashanti, Gold Fields, Sibanye Gold and African Rainbow Minerals. They are seeking compensation for up to half a million miners who are believed to have contracted silicosis and tuberculosis by inhaling dust while working underground.
 
-> "Half a million miners are believed to have contracted silicosis & tuberculosis while working underground"
+> "Half a million miners are believed to have contracted silicosis & tuberculosis while working underground."
 
 “Most [miners] didn’t know they were even being exposed to bad dust,” said Nompi. She’s been working with Charles Abrahams, one of the law firms representing  tuberculosis sufferers in the class action suit, since 2011. 
 
@@ -125,7 +125,7 @@ But on regime change, the rate among black miners shot up exponentially, from le
 
 Though the migrant labor system wasn’t a creation of the mining companies themselves, it became the perfect means for exploiting cheap and dangerous labour, and hiding the consequences.
 
-> "But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent"
+> "But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent."
 
 Up until now, the difficulty of detection of silicosis has allowed the misrepresentation of tens of thousands of deaths -- which is what makes the class action so challenging. The diagnosis requires advanced medical skills in occupational diseases and the use of special medical equipment. So plenty of mineworkers were certified with other causes of death, or even as a result of natural causes.
 
@@ -145,7 +145,7 @@ Dr Gill Nelson of the Division of Epidemiology at the University of the Witwater
 Nelson highlighted the possibility of an underestimation of the proportion of black miners with silicosis, due in part to the fact that they were not all aware of their right to an autopsy.
 
 <figure class="tableau_centre">
-<div class='tableauPlaceholder' id='viz1479748194826' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Rateofsilicosis&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1479748194826' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display: block;margin-left:auto;margin-right:auto;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Rateofsilicosis&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;Rateofsilicosis&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>
 
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1479748194826');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='354px';vizElement.style.height='629px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 </figure>
@@ -180,7 +180,7 @@ That was the case for many mineworkers throughout the past century. If, during t
 
 According to him, at almost every level, the odds were overwhelmingly stacked against ever obtaining a proper diagnosis as a black miner. 
 
-> "If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low. And Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines."
+> "If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low."
 
 <figure>
 	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
@@ -215,7 +215,7 @@ Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at 
 
 Unlike white miners, Ehrlich said black miners usually weren’t able to distinguish between silicosis and tuberculosis, nor were they educated about the compensation system and what they were due if they got sick on the mines.
 
-> "Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines"
+> "Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines."
 
 “[Black workers] were never really inducted into understanding the system. They knew there was some payout if you got tuberculosis,” he explained. “But a distinction was never made between silicosis and TB. “It’s a failure of education, but also acculturation — and the roots go back quite deeply to the migrant labour system, the dependence on these jobs.”
 
@@ -236,7 +236,7 @@ It was difficult for them to support their three children, she said, especially 
 
 “He never got any [more] compensation from them. Even today, he's still waiting for that money he never received,” she said.
 
-> "He’s still waiting for that money he never received"
+> "He’s still waiting for that money he never received."
 
 Muriel Mafoyane Masupa is a community organizer in Welkom who has been working with Charles Abraham's law firm for the past few years. She helps reach out to potential new clients, while also supporting the established ones by telling them which certificates and documents they require in order to be included in the class action. 
 
@@ -279,7 +279,7 @@ The issue of transferability, that is, having compensation for illness transferr
 
 "The mining firms could find reasons as to why they are seeking to appeal until the cows come home," he said, as it would likely work out cheaper for them to be in court for the next 15 years than it would be to compensate all of the claimants.
 
-> "It would likely work out cheaper for them [Mining Companies] to be in court for the next 15 years than it would be to compensate all of the claimants"
+> "It would likely work out cheaper for them [mining companies] to be in court for the next 15 years than it would be to compensate all of the claimants."
 
 One estimate cited by Reuters says that the total claim, erring on the conservative side, would be close to $3.25 billion.
 
