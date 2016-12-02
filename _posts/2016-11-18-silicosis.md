@@ -1,14 +1,13 @@
----
 layout: post-chronicle
 title: When the Dust Settles
 subtitle: 
-wordsby: "Johanna Chisholm, Daniela Q. Lépiz"
+wordsby: "Johanna Chisholm, Daniela Q. Lépiz, edited by Diana Neille"
 databy: "Daniela Q. Lépiz"
 photographer: "Johanna Chisholm"
 devby:	"Lailah Ryklief"
 author: Johanna Chisholm and Daniela Q. Lépiz
 excerpt: |
-    This will be a description of the silicosis story.
+    The dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow.
 ---
 
 <span class="chronicle-author">by Johanna Chisholm & Daniela Q. Lépiz</span>
@@ -24,22 +23,22 @@ excerpt: |
 		<h2 class="chronicle-titles">Sent home to die</h2>
 </div>
 
-<span class="chronicle-dropcap">T</span> he dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow. 
+<span class="chronicle-dropcap">T</span> he dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow.
 
-In just 60 years Virginia went from being a boulder with the home state of two American railway surveyors etched into its side to a bustling, prospecting settlement spreading out to the banks of the Sand River, when gold was discovered there in 1949. 
+In just 60 years Virginia went from being a boulder with the home state of two American railway surveyors etched into its side to a bustling, prospecting settlement spreading out to the banks of the Sand River, when gold was discovered there in 1949.
 
 By then, trains traveled regularly through the area to the country’s burgeoning gold reef, Johannesburg. Every Tuesday, two would roll into Booysens Station carrying “lying-down cases” -- around 20 men riddled with tuberculosis and silicosis, sent home to the Cape and Ressano Garcia in Mozambique to die.
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-virginia.jpg" alt="PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. PHOTO CREDIT: JOHANNA CHISHOLM" title="PANNING ILLEGALLY" />
-	<figcaption>PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men engage in the illegal mining trade and pan for gold in local water sources. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
+	<figcaption>PANNING ILLEGALLY: Outside the mines, job opportunities are scarce in Virginia. Many young unemployed men and women engage in the illegal mining trade and pan for gold in local water sources. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
 </figure>
 
-60 years later, the town of Virginia hasn’t substantially changed. It’s a Sunday -- the third Sunday of the month. On the way to a town meeting for gold miners diagnosed with lung diseases, community volunteer Mpai Nompi reflects on how necessary these gatherings are for educating those miners still living and working in Virginia about what their forebears didn’t know, as they lay in those trains destined for Booysens Station. 
+Sixty years later, the town of Virginia hasn’t substantially changed. It’s a Sunday -- the third Sunday of the month. On the way to a town meeting for gold miners diagnosed with lung diseases, community volunteer Mpai Nompi reflects on how necessary these gatherings are for educating those miners still living and working in Virginia about what their forebears didn’t know, as they lay in those trains destined for Booysens Station. 
 
 That knowledge has formed the basis of a landmark class action lawsuit, brought by miner Bongani Nkala and 55 others against 32 of the world’s largest gold mining companies, including Harmony Gold, Anglo American, AngloGold Ashanti, Gold Fields, Sibanye Gold and African Rainbow Minerals. They are seeking compensation for up to half a million miners who are believed to have contracted silicosis and tuberculosis by inhaling dust while working underground.
 
-> "Half a million miners are believed to have contracted silicosis & tuberculosis while working underground."
+> Half a million miners have contracted silicosis & tuberculosis working underground
 
 “Most [miners] didn’t know they were even being exposed to bad dust,” said Nompi. She’s been working with Charles Abrahams, one of the law firms representing  tuberculosis sufferers in the class action suit, since 2011. 
 
@@ -49,7 +48,7 @@ In a decision handed down earlier this year, the Supreme Court ruled that the ap
 
 <figure>
 	<iframe class="viz-center" width="100%" height="640" src="https://line.do/embed/1ich/vertical" frameborder="1" style="border: 1px solid #e7e7e7 " allowfullscreen></iframe>
-	<figcaption>TIMELINE: Scroll down to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
+	<figcaption>TIMELINE: Scroll down inside the box to explore the key events leading to the recent silicosis class action against gold mining companies. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
 
@@ -95,13 +94,13 @@ This informal policy of not properly compensating black miners continued unabate
 
 “The migrant labor system was made up of men coming from rural areas of the Eastern Cape, Botswana, Lesotho and Mozambique,” said McCulloch.
 
-> “In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died.”
+> “In that time, perhaps as many as half of the former gold mine workers with silicosis have probably died”
 
 “The men were considerably cheaper to employ than white workers, in part because of the apartheid laws.”
 
 Despite both this overwhelming evidence and the sheer number of affected miners, lawyers representing the 32 gold mine companies have appealed the certification of the two cases since the April 2016 class action ruling. While neither Spoor nor Abrahams was surprised by these appeals, they say they are no less frustrated by the delays. 
 
-“This litigation has been going on now for ten years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
+“This litigation has been going on now for 10 years and, in that time, perhaps as many as half of the former gold mine workers with silicosis have probably died,” said Spoor.
 
 
 <figure>
@@ -119,13 +118,13 @@ Despite both this overwhelming evidence and the sheer number of affected miners,
 	 	 	
 In 1916, the disease rate of silicosis among black miners was documented at 0.129 percent. It reflected much higher for white miners, at 2.195 percent. The mine’s explanation for this discrepancy was that, since the black migrant miners were working on a contract basis, they had less overall exposure to the dust.
 
-But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent, even though the methods for diagnosing silicosis and tuberculosis did not substantially change between 1916 and 1994.
+But in the post 1994 new democracy in South Africa, the rate among black miners shot up exponentially, from less than one percent to 25 percent, even though the methods for diagnosing silicosis and tuberculosis did not substantially change between 1916 and 1994.
 	 	 	
 “Rather than any recent dramatic increase in silicosis and tuberculosis, the discrepancy between the past and current data is due to a systematic under-reporting of cases, which stretches back almost a century,” said McCulloch.
 
 Though the migrant labor system wasn’t a creation of the mining companies themselves, it became the perfect means for exploiting cheap and dangerous labour, and hiding the consequences.
 
-> "But on regime change, the rate among black miners shot up exponentially, from less than 1 percent to 25 percent."
+> But in the post 1994 new democracy in South Africa, the rate among black miners shot up exponentially, from less than one percent to 25 percent
 
 Up until now, the difficulty of detection of silicosis has allowed the misrepresentation of tens of thousands of deaths -- which is what makes the class action so challenging. The diagnosis requires advanced medical skills in occupational diseases and the use of special medical equipment. So plenty of mineworkers were certified with other causes of death, or even as a result of natural causes.
 
@@ -180,7 +179,7 @@ That was the case for many mineworkers throughout the past century. If, during t
 
 According to him, at almost every level, the odds were overwhelmingly stacked against ever obtaining a proper diagnosis as a black miner. 
 
-> "If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low."
+> If you were a black miner, the chances of having anything written other than ‘natural causes’ on your death certificate were probably low
 
 <figure>
 	<img class="chronicle-img-band" src="/newsroom-stories/img/stories/20161118/silicosis-education-band.jpg" alt="A NEED FOR EDUCATION, Photo by Johanna Chisholm" title="A NEED FOR EDUCATION" />
@@ -211,11 +210,11 @@ For 2014, the silicosis rate among black gold miners was 297 out of 1000. Autops
 	<figcaption>RECORDED DEATHS: The database of claims made in the class action suit by the miners’ lawyers shows the effect South African mines have had on foreign workers, especially from Lesotho. This record of deaths has gone completely under the radar of South African authorities. <span class="credititalic">CREDIT: DANIELA Q. LEPIZ</span></figcaption>
 </figure>
 
-Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at the clinic for ex-miners at  Groote Schuur hospital in Cape Town were often unclear about what they were being treated for -- and how this fit into government’s failure to make compensation and autopsy services more readily available to black miners. 
+Rodney Ehrlich, the epidemiologist from UCT, recalled how his black patients at the clinic for ex-miners at  Groote Schuur hospital in Cape Town were often unclear about what they were being treated for -- and how this fitted into government’s failure to make compensation and autopsy services more readily available to black miners. 
 
 Unlike white miners, Ehrlich said black miners usually weren’t able to distinguish between silicosis and tuberculosis, nor were they educated about the compensation system and what they were due if they got sick on the mines.
 
-> "Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines."
+> Black miners weren’t educated about the compensation system or what they were due if they got sick on the mines
 
 “[Black workers] were never really inducted into understanding the system. They knew there was some payout if you got tuberculosis,” he explained. “But a distinction was never made between silicosis and TB. “It’s a failure of education, but also acculturation — and the roots go back quite deeply to the migrant labour system, the dependence on these jobs.”
 
@@ -223,11 +222,11 @@ Mr. Vuyani Dwadube began working on the mines in 1979 and was retrenched after 1
 
 His wife Patricia often steps in to fill the gaps in his account. Mr. Vuyani Dwadube says that he was first diagnosed with silicosis in 1993, but Patricia quickly corrects him, saying that he was in fact diagnosed with tuberculosis on three separate occasions. 
 
-“After he left the mine the only money that he received after retrenchment was R19 000. But within a year it was finished,” said Patricia.
+“After he left the mine the only money that he received after retrenchment was R19,000. But within a year it was finished,” said Patricia.
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20161118/silicosis-patrick.jpg" alt="MR. VUYANI DWADUBE: Mr. Vuyani Dwadube only received R19 000 after he was retrenched, despite 16 years of service and a tuberculosis and silicosis diagnosis. PHOTO CREDIT: JOHANNA CHISHOLM" title="Mr. Vuyani Dwadube" />
-	<figcaption>MR. VUYANI DWADUBE: Mr. Vuyani Dwadube only received R19 000 after he was retrenched, despite 16 years of service and a tuberculosis and silicosis diagnosis. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
+	<figcaption>MR. VUYANI DWADUBE: Mr. Vuyani Dwadube only received R19,000 after he was retrenched, despite 16 years of service and a tuberculosis and silicosis diagnosis. <span class="credititalic">PHOTO CREDIT: JOHANNA CHISHOLM</span></figcaption>
 </figure>
 
 It was difficult for them to support their three children, she said, especially after she was forced to quit her job as a domestic worker so that she could take care of her husband.
@@ -236,7 +235,7 @@ It was difficult for them to support their three children, she said, especially 
 
 “He never got any [more] compensation from them. Even today, he's still waiting for that money he never received,” she said.
 
-> "He’s still waiting for that money he never received."
+> "He’s still waiting for that money he never received"
 
 Muriel Mafoyane Masupa is a community organizer in Welkom who has been working with Charles Abraham's law firm for the past few years. She helps reach out to potential new clients, while also supporting the established ones by telling them which certificates and documents they require in order to be included in the class action. 
 
@@ -252,7 +251,7 @@ On that particular Sunday, Masupa and the group of community volunteers signed u
 
 No one has been able to put a firm count on the number of miners who are believed to have been robbed of their dues, but even the conservative estimate puts it at nearly half a million.
 
-“We do have a database of about 40 000 people, but that is not a representative database -- that is just the people who have registered claims,” said Spoor, adding that a lot of sick miners simply haven’t been properly documented at all. 
+“We do have a database of about 40,000 people, but that is not a representative database -- that is just the people who have registered claims,” said Spoor, adding that a lot of sick miners simply haven’t been properly documented at all. 
 
 Although there are claims against over 90 mining companies, the majority point  to Vaal Reefs Gold Mine Shaft (3479 claims); Harmony Gold Mine (3222); Driefontein Gold Mine (2439); President Steyn Mine (2329) Kloof Gold Mine (2215) and President Brand Mine (1826).
 
@@ -279,7 +278,7 @@ The issue of transferability, that is, having compensation for illness transferr
 
 "The mining firms could find reasons as to why they are seeking to appeal until the cows come home," he said, as it would likely work out cheaper for them to be in court for the next 15 years than it would be to compensate all of the claimants.
 
-> "It would likely work out cheaper for them [mining companies] to be in court for the next 15 years than it would be to compensate all of the claimants."
+> "It would likely work out cheaper for them [mining companies] to be in court for the next 15 years than it would be to compensate all of the claimants"
 
 One estimate cited by Reuters says that the total claim, erring on the conservative side, would be close to $3.25 billion.
 
@@ -287,7 +286,7 @@ Another reason for delaying is related to the issue of his clients’ age, Spoor
 
 “Our clients are mainly elderly people who are sick and dying -- and the longer the matter delays, the fewer claims there are and the more difficult it becomes to prove your damages,” said Spoor, adding that an estimated four percent of their clients are dying each year.
 
-“This litigation has been going now for ten years and in that time, perhaps as many as a half of former gold mine workers with silicosis have probably died.”
+“This litigation has been going now for 10 years and in that time, perhaps as many as a half of former gold mine workers with silicosis have probably died.”
 
 Delaying by appealing is considered a very effective negotiating strategy.
 
