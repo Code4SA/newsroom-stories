@@ -12,7 +12,7 @@ excerpt: |
     Gentrification is best understood as a process of change. It is both the physical and cultural transition of a neighbourhood from one that has the characteristics of high crime rates, low property values, and low household incomes, to one that has low crime rates, high property values, high incomes, and burgeoning economic activity.
 ---
 
-<em><span style="font-size: 14px;text-transform: uppercase;">Words by Muhammad Zaid Gamieldien, edited by Sarah Evans and Raymond Joseph. Photos and Visualisations by Muhammad Zaid Gamieldien</span></em>
+<em><span style="font-size: 14px;text-transform: uppercase;">Words by Muhammad Zaid Gamieldien, edited by Sarah Evans. Photos and Visualisations by Muhammad Zaid Gamieldien</span></em>
 
 <br>
 
