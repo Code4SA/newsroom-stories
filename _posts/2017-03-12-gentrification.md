@@ -208,7 +208,7 @@ When you look at Salt River’s property growth, Achmad’s fears are justified.
 “Customers don’t want to park where they can’t see their cars. Cars get broken into every day. Now they have to find parking somewhere else, and you know how busy it can get here. So I see less customers.”
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/img-4774.jpg" alt="RESERVED: Dedicated cycling lanes run through both neighbourhoods. PHOTO: ZAID GAMIELDIEN" />
+	<img src="/newsroom-stories/img/stories/20170312/img-4774.jpg" alt="RESERVED: Dedicated cycling lanes run through both neighbourhoods. PHOTO: ZAID GAMIELDIEN" />
 	<figcaption><strong>RESERVED</strong>: Dedicated cycling lanes run through both neighbourhoods. PHOTO: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ This is the case with my next stop, which is at a little store not too far away 
 Budget Alarms opened its first store in 1981, diagonally opposite the Biscuit Mill in the heart of  Albert Road. Of course, in 1981, the Biscuit Mill had not yet been built, and Woodstock was home to many a family business. Today, Budget Alarms hides directly behind a MyCiti bus stop on the corner of a run-down Spencer Road, on the outskirts of Salt River, far out of the limelight. Indeed, much has changed.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/img-4772.jpg" alt="Budget Alarms sits awkwardly behind a MyCiti bus stop, in a Salt River back alley. PHOTO: ZAID GAMIELDIEN" />
+	<img src="/newsroom-stories/img/stories/20170312/img-4772.jpg" alt="Budget Alarms sits awkwardly behind a MyCiti bus stop, in a Salt River back alley. PHOTO: ZAID GAMIELDIEN" />
 	<figcaption>Budget Alarms sits awkwardly behind a MyCiti bus stop, in a Salt River back alley. PHOTO: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ Abu Bakr Albertyn is the store manager. His nephew, the company owner, is not in
 “We started this company in 1981”, he says. “We were based here in Woodstock all these years, right down the road here.” He gestures towards the Old Biscuit Mill, which is right down the same road we are standing on, separating Woodstock and Salt River. “We opened our first store opposite the Biscuit Mill. That was 1981, long before the Biscuit Mill was there. From 1981 to 2015, until we sold the place and moved here.”
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/budget.png" alt="Budget Alarms’ relocation 1km down the road. MAP: MUHAMMAD ZAID GAMIELDIEN" />
+	<img src="/newsroom-stories/img/stories/20170312/budget.png" alt="Budget Alarms’ relocation 1km down the road. MAP: MUHAMMAD ZAID GAMIELDIEN" />
 	<figcaption>Budget Alarms’ relocation 1km down the road. MAP: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -263,7 +263,7 @@ Like most businesses that move out of Woodstock, Budget Alarms cites increasing 
 It certainly should be cheaper. Despite being direct neighbours, Salt River would appear to be much more affordable to live or work in. As the data shows, Woodstock has outpaced Salt River in terms of average property growth and should reach similar levels of inflation, according to its trajectory.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/image (46).png" alt="" />
+	<img src="/newsroom-stories/img/stories/20170312/image (46).png" alt="" />
 	<figcaption>Salt River’s property inflation is on course to reach Woodstock heights. GRAPH: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
