@@ -5,14 +5,16 @@ subtitle: How Woodstock’s Gentrification Spells Doom for Salt River
 wordsby: "Muhammad Zaid Gamieldien"
 editors: "Sarah Evans and Raymond Joseph"
 databy: "Muhammad Zaid Gamieldien"
-photographer: "Justin Sholk and Muhammad Zaid Gamieldien"
+photographer: "Muhammad Zaid Gamieldien"
 devby: "Lailah Ryklief"
 author: "Muhammad Zaid Gamieldien"
 excerpt: |
-    Test post for functionality of md and template with headings, video and img
+    Gentrification is best understood as a process of change. It is both the physical and cultural transition of a neighbourhood from one that has the characteristics of high crime rates, low property values, and low household incomes, to one that has low crime rates, high property values, high incomes, and burgeoning economic activity.
 ---
 
-By Muhammad Zaid Gamieldien, Photos and Visualisations by Muhammad Zaid Gamieldien
+<em><span style="font-size: 14px;text-transform: uppercase;">Words by Muhammad Zaid Gamieldien, edited by Sarah Evans. Photos and Visualisations by Muhammad Zaid Gamieldien</span></em>
+
+<br>
 
 “Look at the road you’re standing in”, says 27-year-old Yusuf Toefy. “You see barber shops, you see fish and chips eateries, you see clothing stores. Now remember how this place looks and come back in a few years’ time. This road is not going to look the same”.
 
@@ -31,7 +33,7 @@ Salt River, lying right next to its neighbour Woodstock, is in a seemingly preca
 ## On Gentrification: Economic Change Begets Social Change
 
 
- ‘Urban renewal’ is a term that inspires positive associations; a rebirth, an upliftment. Urban renewal tells a story of progress. It tells the story of the street once littered with bergies and drug dealers, which now bustles with tourists and swathes of trendy youths; the brothels, corner shops and informal businesses that have been replaced with world-renowned restaurants, coffee shops, antique shops, and art galleries; the decrepit house with cracked walls and peeling skin, that now stands proudly as a modern double-story. This is the story urban renewal tells.
+‘Urban renewal’ is a term that inspires positive associations; a rebirth, an upliftment. Urban renewal tells a story of progress. It tells the story of the street once littered with bergies and drug dealers, which now bustles with tourists and swathes of trendy youths; the brothels, corner shops and informal businesses that have been replaced with world-renowned restaurants, coffee shops, antique shops, and art galleries; the decrepit house with cracked walls and peeling skin, that now stands proudly as a modern double-story. This is the story urban renewal tells.
 
 For the most part, this story is true. Urban renewal - or gentrification, as it is commonly known - refers to a renewal from the vantage point of commerce and industry. But it also refers to a ‘racial renewal’; one where non-white, low-income communities are gradually replaced by a wealthier, usually whiter one. Here, economic change begets social change, and as homes and businesses experience this transition, so too does community and culture.
 
@@ -79,7 +81,7 @@ When trying to identify gentrifying areas, it becomes a useful measure to count 
 
 <figure>
 	<iframe src="https://zaidgam.carto.com/viz/f21252a6-3733-11e6-8d8f-0e8c56e2ffdb/embed_map" frameborder="0" width="100%" height="520"></iframe>
-	<figcaption>The heatmap shows high density zones of coffee shops around Cape Town. VISUALISATION: MUHAMMAD ZAID GAMIELDIEN</figcaption>
+	<figcaption>The heatmap shows high density zones of coffee shops around Cape Town. MAP: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
 There are seven neighbourhoods showing a high density of coffee shops: Cape Town CBD, Gardens, Fresnaye, Green Point, Sea Point, Woodstock, and Observatory. While these may all be hot spots for coffee goers, they certainly are not all gentrifying.
@@ -87,7 +89,7 @@ There are seven neighbourhoods showing a high density of coffee shops: Cape Town
 Gardens, Fresnaye, Green Point, Sea Point, and Cape Town Centre, are established high-income areas, ruling them out as potentially gentrifying. Woodstock and Observatory can be argued to be potentially gentrifying, with Salt River having little to no coffee culture.
 
 <figure>
-	
+	<img src="/newsroom-stories/img/stories/20170312/download2.jpg" alt="RESERVED: Dedicated cycling lanes run through both neighbourhoods. PHOTO: ZAID GAMIELDIEN" />
 	<figcaption>Woodstock and Observatory flank Salt River as high-density coffee shop zones. VISUALISATION: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -152,7 +154,7 @@ Considering the fact that Lorna lives right next door to two coffee shops, the p
 “I’ve seen it happen to so many people over the years”, she adds. “These new people just come here and buy properties. When the families move out, you see a new restaurant, or coffee shop. But what can you do. If you need the money, you have to sell. Right now we have no pressure to move out, but things might change.”
 
 <figure>
-	
+	<img src="/newsroom-stories/img/stories/20170312/image (42).png" alt="Woodstock’s ever-increasing property values. GRAPH: MUHAMMAD ZAID GAMIELDIEN" />
 	<figcaption>Woodstock’s ever-increasing property values. GRAPH: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -195,7 +197,7 @@ This is essentially why I wanted to explore Salt River. It seems like gentrifica
 When you look at Salt River’s property growth, Achmad’s fears are justified. While growth between 2010 and 2014 is only at 23%, compared to Woodstock’s 36%, Salt River is definitely on an upwards trajectory.
 
 <figure>
-	
+	<img src="/newsroom-stories/img/stories/20170312/image (47).png" alt="Property values are on the incline over the last five years. GRAPH: MUHAMMAD ZAID GAMIELDIEN" />
 	<figcaption>Property values are on the incline over the last five years. GRAPH: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -206,7 +208,7 @@ When you look at Salt River’s property growth, Achmad’s fears are justified.
 “Customers don’t want to park where they can’t see their cars. Cars get broken into every day. Now they have to find parking somewhere else, and you know how busy it can get here. So I see less customers.”
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/none" alt="RESERVED: Dedicated cycling lanes run through both neighbourhoods. PHOTO: ZAID GAMIELDIEN" />
+	<img src="/newsroom-stories/img/stories/20160816/img-4774.jpg" alt="RESERVED: Dedicated cycling lanes run through both neighbourhoods. PHOTO: ZAID GAMIELDIEN" />
 	<figcaption><strong>RESERVED</strong>: Dedicated cycling lanes run through both neighbourhoods. PHOTO: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -243,7 +245,7 @@ This is the case with my next stop, which is at a little store not too far away 
 Budget Alarms opened its first store in 1981, diagonally opposite the Biscuit Mill in the heart of  Albert Road. Of course, in 1981, the Biscuit Mill had not yet been built, and Woodstock was home to many a family business. Today, Budget Alarms hides directly behind a MyCiti bus stop on the corner of a run-down Spencer Road, on the outskirts of Salt River, far out of the limelight. Indeed, much has changed.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/none" alt="Budget Alarms sits awkwardly behind a MyCiti bus stop, in a Salt River back alley. PHOTO: ZAID GAMIELDIEN" />
+	<img src="/newsroom-stories/img/stories/20160816/img-4772.jpg" alt="Budget Alarms sits awkwardly behind a MyCiti bus stop, in a Salt River back alley. PHOTO: ZAID GAMIELDIEN" />
 	<figcaption>Budget Alarms sits awkwardly behind a MyCiti bus stop, in a Salt River back alley. PHOTO: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -252,7 +254,7 @@ Abu Bakr Albertyn is the store manager. His nephew, the company owner, is not in
 “We started this company in 1981”, he says. “We were based here in Woodstock all these years, right down the road here.” He gestures towards the Old Biscuit Mill, which is right down the same road we are standing on, separating Woodstock and Salt River. “We opened our first store opposite the Biscuit Mill. That was 1981, long before the Biscuit Mill was there. From 1981 to 2015, until we sold the place and moved here.”
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/none" alt="" />
+	<img src="/newsroom-stories/img/stories/20160816/budget.png" alt="Budget Alarms’ relocation 1km down the road. MAP: MUHAMMAD ZAID GAMIELDIEN" />
 	<figcaption>Budget Alarms’ relocation 1km down the road. MAP: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
@@ -261,7 +263,7 @@ Like most businesses that move out of Woodstock, Budget Alarms cites increasing 
 It certainly should be cheaper. Despite being direct neighbours, Salt River would appear to be much more affordable to live or work in. As the data shows, Woodstock has outpaced Salt River in terms of average property growth and should reach similar levels of inflation, according to its trajectory.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/none" alt="" />
+	<img src="/newsroom-stories/img/stories/20160816/image (46).png" alt="" />
 	<figcaption>Salt River’s property inflation is on course to reach Woodstock heights. GRAPH: MUHAMMAD ZAID GAMIELDIEN</figcaption>
 </figure>
 
