@@ -1,0 +1,22 @@
+.gentrification-byline {
+	font-size:14px;
+	font-style: italic;
+	color: #777;
+	text-align: left;
+}
+
+.gentrification-subtitle {
+	font-size: 32px;
+}
+
+h1 {
+	text-align: left;
+}
+
+p.post-meta {
+	text-align: left;
+}
+
+.share_btn {
+	display: none;
+}

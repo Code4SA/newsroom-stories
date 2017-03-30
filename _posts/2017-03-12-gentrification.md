@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Gentrification Equation
-subtitle: How Woodstock’s Gentrification Spells Doom for Salt River
+title: A Ticking Time Bomb
+subtitle: 
 wordsby: "Muhammad Zaid Gamieldien"
 editors: "Sarah Evans and Raymond Joseph"
 databy: "Muhammad Zaid Gamieldien"
@@ -12,7 +12,13 @@ excerpt: |
     Gentrification is best understood as a process of change. It is both the physical and cultural transition of a neighbourhood from one that has the characteristics of high crime rates, low property values, and low household incomes, to one that has low crime rates, high property values, high incomes, and burgeoning economic activity.
 ---
 
-<em><span style="font-size: 14px;text-transform: uppercase;">Words by Muhammad Zaid Gamieldien, edited by Sarah Evans. Photos and Visualisations by Muhammad Zaid Gamieldien</span></em>
+<div class="gentrification-subtitle">
+	What Woodstock's Gentrification Means for the Future of Salt River
+</div>
+
+<div class="gentrification-byline">
+	Words by Muhammad Zaid Gamieldien, edited by Sarah Evans. Photos and Visualisations by Muhammad Zaid Gamieldien
+</div>
 
 <br>
 
