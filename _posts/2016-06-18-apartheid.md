@@ -1,202 +1,160 @@
 ---
 layout: post
-title: Long Commute To Freedom
-subtitle: 
-wordsby: "Daniela Q Lepiz, Sipho Masondo, Avantika Seeth, and Kim Harrisberg"
-databy: "Daniela Q Lepiz and Julia Renouprez"
-photographer: "Tebogo Letsie, Video by Avantika Seeth and Kim Harrisberg"
+title: Those who lived, those who died and those who were left behind
+subtitle: Revisiting South Africa’s Aids plague
+wordsby: "Raymond Joseph and Roxanne Joseph"
+databy: "Daniela Q Lepiz"
+photographer: "Fanie Jason"
 devby:	"Lailah Ryklief"
-author: Daniela Q Lepiz
+author: Raymond Joseph
 excerpt: |
-    Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities.
+    On the eve of the International Aids conference in Durban and 12 years after the first private ARV pilot programme was launched in 2001, Raymond Joseph looks back at South Africa's rocky road to HIV-freedom, and revisits some of the families destroyed by Mbeki's Aids denialism
 ---
 
-Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities. DANIELA LÉPIZ and SIPHO MASONDO report:
+On the eve of the International Aids conference in Durban and 12 years after the first private ARV pilot programme was launched in 2001, RAYMOND JOSEPH looks back at South Africa's rocky road to HIV-freedom, and revisits some of the families destroyed by Mbeki's Aids denialism.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160618/Spatial package 1.jpg" alt="PICTURE PERFECT? USome say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub. PHOTO: TEBOGO LETSIE" title="PICTURE PERFECT?" />
-	<figcaption><strong>PICTURE PERFECT?</strong>: Some say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub. <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160803/img-intro.jpg" alt="HEARTBREAKING: Aids positive Ithumaleng Letsatsi, then three, with his father Goodrich who was also infected by the virus, in 2001. His mother, Cheryl-Anne, had just died of an Aids-related illness and his father died soon after this photograph was taken. Today Ithumaleng who received ARV’s is alive and in good health. Photo: Fanie Jason" title="HEARTBREAKING" />
+	<figcaption><strong>HEARTBREAKING</strong>: Aids positive Ithumaleng Letsatsi, then three, with his father Goodrich who was also infected by the virus, in 2001. His mother, Cheryl-Anne, had just died of an Aids-related illness and his father died soon after this photograph was taken. Today Ithumaleng who received ARV’s is alive and in good health. <strong>PHOTO: FANIE JASON</strong></figcaption>
 </figure>
 
-Black people in particular bear the brunt of a decade-long focus on building houses instead of cities “at whatever cost”.
+ENDLESS ‘scientific’ studies that tried to prove there was no link between HIV and AIDS, and claims that the virus could be held at bay with a diet of fruit, vegetables and vitamins, marked South Africa’s decade of denialism under President Thabo Mbeki.
 
-This according to a data-driven investigation by City Press and Code for South Africa, which analysed the commuting time and access to public transport of commuters by race in the country’s largest cities.
-The data, which was obtained from the most recent National Household Travel Survey, conducted in 2013 and released in 2014, shows that race remains a strong predictor of time spent travelling to and from work.
+As the President pontificated, the virus claimed the lives of hundreds of thousands of lives as a plague of biblical proportions swept through South Africa’s townships and rural areas.
 
-In addition to the effects of apartheid spatial planning, the country was slow out of the blocks after 1994 to counter this legacy.
+From 1999, when he was elected President, to 2008, when his second term came to an abrupt end, Thabo Mbeki steadfastly denied that HIV causes AIDS. He even went as far as to institute policies that denied access to antiretrovirals (ARVs) for seriously ill people infected with the virus.
 
-Ndivhuwo Mabaya, the spokesperson for Human Settlements Minister Lindiwe Sisulu, says: “From 1994 to 2004, our focus was [on] eradicating the housing backlog, at whatever cost. Spatial planning was not taken into consideration. It is a challenge we identified when we did the 10-year review.”
+At the height of the pandemic life-saving ARVs were available, but only via very expensive, private treatment. Or for a lucky few, if they fell within the catchment areas of non-State, privately-funded pilot programmes.
 
-Despite a change of strategy after 2004 – to one that prioritises proximity to work and economic opportunities – the pace of change is slow.
+In newsletters penned late at night, Mbeki argued his theory that the risks of ARVs outweighed the benefits and were “poisonous”. At the same time his Minister of Health, Dr Manto Tshabalala-Msimimang, advocated vitamins, African potatoes, lemons, beetroot and garlic as a remedy.
 
-While Professor Karina Landman of the University of Pretoria acknowledges that spatial patterns “don’t change overnight”, Statistics SA boss Pali Lehohla points to data obtained from the 2001 and 2011 censuses, which reveal that population density in the major cities has remained the same.
+"Shall I repeat garlic, shall I talk about beetroot, shall I talk about lemon... these delay the development of HIV to Aids-defining conditions, and that's the truth," the minister, nicknamed Dr Beetroot, said in a debate on her department's budget vote in 2006.
 
-“Look at Cosmo City [established in 2005], the north of Pretoria and the east of Pretoria: the cities are sprawling outwards. That is exactly what apartheid’s fathers did. 
+The government was ordered by the Constitutional Court to provide ARV-nevirapine (which stops HIV from multiplying) in 2002. But it only began a slow rollout two years later, in 2004. By then, the virus had emerged as one of the biggest threats to post-apartheid reconstruction and development.
 
-What they are doing makes the cost of living and doing business ever more expensive,” Lehohla says. How expensive, exactly?
+During that time photographer Fanie Jason and I became obsessed with telling the story of the dead and the dying, and the stigma they faced, to give them them a voice.
 
-A nationwide analysis of the expenses of commuters shows that the 20% of the population with the lowest income spend on average R486 a month on public transport, while the 20% with the highest income report a cost of R585 a month – a much heavier burden for the poor considering the proportion the amount makes up of their household income.
+I’m still haunted by the image of one woman we spoke to. She was in her 30s but made prematurely old by the disease. Her body was wasted and covered in sores and her dignity gone as she struggled to control her bowels. But her neighbours refused to let her use the communal public toilets because they believed she would infect them.
 
-Discussing Cape Town’s Transport Development Index, councillor Brett Herron, mayoral committee member for transport in the city, says: “We discovered that [within] our public transport system, 95% of the users are from the low- and low-to-middle income group, and perhaps what is most shocking is the cost of transport. In the low-income category of people, they are spending 45% of their household income on transport. In some parts of the city, like in Atlantis, it is almost 60%.”
+This is what people in townships and rural areas around South Africa were seeing on a daily basis.
 
-<p class="viz-caption">Click on the names of South Africa's largest metros to see the distribution of races across the cities. Hover or click on individual suburbs for more information.</p>
+The virus, in the guise of opportunistic infections like TB and pneumonia that took advantage of victims’ suppressed immune systems, was killing the young in ever-growing numbers.
 
-<p class="embed-Map"><script type="text/javascript" src="https://static.code4sa.org/apartheid/embed.js"></script></p>
+A priest once told me after the burial of a schoolgirl: “Before this thing young people buried the old … now it is the old burying the children.”
+
+But many people survived after they were put on to ARVs and, Phoenix-like, they “came back from the dead”.
+
+Today antiretroviral therapy (ART) has transformed HIV infection from a progressive, typically fatal infection to a chronic disease that can persist for many decades. A typical young adult who acquires HIV is expected to be on therapy for up to 50 years, according to a recent article in the Lancet medical journal.
+
+Yet despite irrefutable data that proves how ARVs helped arrest the spiraling deaths once the government rollout began, Mbeki is still sticking to his guns.
+
+From the most powerful office in the land he preached denialism - and today, from a leafy Joburg suburb, he’s still doing the same thing.
+
+In a newsletter in March this year he once again reiterated his controversial views. Back in 2006 he said that, according to Statistics South Africa, tuberculosis was the country’s leading cause of deaths, while HIV and Aids were “the ninth”. He also questioned why a spotlight was being shone on HIV/Aids while, he claimed, less was being said and done about TB.
+
+In his March 2016 newsletter he wrote: “Did this have to do with the fact that South Africa could be a lucrative market for the sale of ARVs, as it now is?”
 
 <figure>
-	<figcaption>VISUALISATION: LAILAH RYKLIEF</figcaption>
+	<img src="/newsroom-stories/img/stories/20160803/infographic-optimizedx500.jpg" alt="INFOGRAPHIC: ROXANNE JOSEPH" title="INFOGRAPHIC" />
+	<figcaption><strong>TITLE????</strong>: caption. <strong>INFOGRAPHIC: ROXANNE JOSEPH</strong></figcaption>
 </figure>
 
-## Workers Also Sacrifice Valuable Time
+## Those who lived
 
-In the eight cities analysed for this investigation, including Johannesburg, Pretoria, Durban, Cape Town and Port Elizabeth, African and coloured people have the least access to public transport – measured by time spent walking to transport – and are forced to take longer journeys to work. For black residents of these cities, the average daily one-way commute lasts up to two and a half times that of white residents.
+ANTHONY LEWU - SURVIVOR
 
-If you break down the data by household income, the difference remains. Among those who belong to a household earning less than R21 000 a month, black commuters spend on average 50 minutes travelling to and from work, while white people spend 36 minutes.In the eight cities analysed, black commuters in Pretoria are the worst off.
+SONABILE Lewu was the first member of her family to die. She was only four.
 
-Makgorometje Makgata, the City of Tshwane’s strategic executive director for city planning and development, says in an effort to achieve spatial justice, a decision has been made that no major development will take place if it is more than 25km from the city. The city, he says, has approved two major high-density residential nodes towards Pretoria north and east.
+A year later in 2004 she was followed by her two aunts, Phumla and Thandiswe. All three were victims of the deadly Aids pandemic sweeping South Africa’s cities, townships and rural areas.
 
-“We are doing all this in an effort to bring people closer to the city.”
+Finally, in 2005, as the death toll mounted and the pandemic raged on, Sonabile’s mother, Pandova Zesti, also died.
+
+More than a decade has passed since then, but Anthony Lewu’s eyes mist up as he remembers the dark and deadly days of the early 2000s when ever-present death stalked the community of Gugulethu in Cape Town.
+
+The memories are still raw and painful and close to the surface for Lewu, 43, who is consumed and angered by survivor's guilt.
+
+Lewu, who managed to access antiretroviral drugs (ARVs) in 2006 through a privately-funded pilot programme, is determined to bear witness to those dark days when HIV and Aids claimed hundreds of thousands of lives in South Africa.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lewux500.jpg" alt="SURVIVOR: Anthony Lewu's child, girlfriend and three sisters died from Aids-related illnesses. He got ARV's and lived. PHOTO: FANIE JASON" title="SURVIVOR" />
+	<figcaption><strong>SURVIVOR</strong>: Anthony Lewu's child, girlfriend and three sisters died from Aids-related illnesses. He got ARV's and lived. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+Sonabile died a few months before Mbeki was about to start his second term as president of South Africa.
+
+By a fluke of geography, Lewu and his girlfriend lived within the catchment area of a Gugulethu clinic where a limited, privately-funded ARV pilot programme had begun in 2001.
+
+His girlfriend qualified for the pilot programme, a partnership between the provincial government and non-governmental organisation Médecins Sans Frontières. Lewu did not, as his illness had not progressed to the stage where he could be accepted in the trials.
+
+“Pandova was put on ARVs, but by then it was too late for her. There was nothing for our baby and she died. Both my sisters died because they did not have access to ARVs. I survived because, when I got sicker, I received ARVS,” he says.
+
+“We were all very ill and survived on Padova’s government disability grant. It was a very hard time for us. It was also a highly politicised issue … people were dying because of politics.”
+
+Anthony, who takes a daily dose of ARVs and lives a normal life, says he found out that he had HIV when he was tested for TB.
+
+“Other people were scared to be tested … they were living in denial. They were also afraid of the stigma and for others to find out they were infected. When it became known that someone had the virus, they were isolated by the community. It makes me angry. A lot of lives would have been saved if the government had not politicised the issue. People would have gone to clinics to be tested and would not have been afraid for people to know their status.”
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HJXw8oUx4Mk"></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1jwe7Chxgbo"></iframe>
 </div>
 <figure>
-	<figcaption>People who reside in townships are still subjected to inflated travelling costs in order to reach their places of employment which are more often than not located in the cities. We follow the journey of one such commuter who stays in Soshanguve but works in Silverton, Pretoria, and explore the after-effects that Apartheid spatial planning has had on her life. <strong>VIDEO: AVANTIKA SEETH</strong></figcaption>
+	<figcaption><strong>SURVIVOR</strong>: Anthony Lewu recalls the story of his survival and reflects on the loss of those close to him. <strong>VIDEO: LAILAH RYKLIEF & ROXANNE JOSEPH</strong></figcaption>
 </figure>
 
-The National Household Travel Survey also measures how long it takes for commuters to reach the first available mode of transport, indicating how far they live from these services. In this instance, the worst city for black commuters is Cape Town, where black residents from households that earn less than R45 000 a month reported that it takes them 12 minutes to walk to their first available mode of transport, while for white residents, the average walking time is just three minutes. The same pattern can be observed in Pretoria, Johannesburg, Durban and Port Elizabeth.
+MUSA "QUEEN" NJOKO - SURVIVOR
+by SHELLEY SEID
 
-Herron says the city has adopted a transit-oriented development strategy that is aimed at “ensuring that the development is aligned to our public transport network so we can start reducing travel time and cost. So [commuters] don’t use cars and can use public transport.”
+At the end of 1998, just more than a year before the first International Aids Conference was hosted in Durban, Aids activist Gugu Dlamini was stoned, stabbed and beaten to death by a mob of men. Her crime? Disclosing her HIV-positive status.Eighteen years on and Durban is ready to host its second International Aids Conference. This time, on the final night of the conference, delegates from around the world will flock to the majestic Playhouse theatre to watch the world premiere of the musical In My Own Voice.
 
-However, the city’s plan to build new routes for its bus rapid transit (BRT) system is on a 20-year timeline.
+It is a story of hope and courage, written and performed by Musa "Queen" Njoko. She is South Africa's only recording artist living openly with HIV. She is one of the country's earliest Aids activists and lived down the road from Dlamini in KwaMashu.
 
-“We have identified 10 new routes and we have planned BRT. In the public transport network plan, they want a new rail corridor that needs to be built. We are working with Prasa [the Passenger Rail Agency of SA], which already has a managing and planning team designing the route. We have 10 new BRT routes and one new rail route,” he said.
+The story of these two women began in the same way. Both were told they would die from Aids; neither had access to treatment; both were single parents; both became activists. Most significantly, both revealed their status when it was dangerous to do so.
 
-The National Household Travel Survey is conducted for the purposes of getting an “in-depth understanding of how and why people travel”
+Njoko told her story to the local Zulu paper, Ilanga. It made the front page, and led to her boyfriend chasing her and threatening to shoot her.
 
-## Getting To Work ‘Is A Great Risk’
-by KIM HARRISBERG
-
-Pelican Park in Strandfontein, Cape Town, feels like a ghost town at 7am. Identical low-cost government houses sit alongside one another like matchboxes. The occasional dog barks in the distance. The quiet streets are badly lit and darkness hangs like a heavy cloak over them.
-
-Yushra Adams (41), an activist involved in a handful of nongovernmental organisations, is dressed in a big leather coat with several layers underneath to ward off the winter cold. She has a hacking cough that breaks the silence every few minutes.
-
-As she says goodbye, one of her five children locks up behind her. There is a small tuck shop, run by a family member who has already begun setting up for the day, next to her home. It has a mesh window that shields the packets of chips and sweets that are on sale.
-
-Adams rents out a room to earn extra money.
-
-Heavy clouds gather. It is about to rain.
-
-The area is “part of the territory controlled by a gang”, she says.
-
-But Adams, who is outspoken against gender-based violence, says she will “never be attacked”.
-
-“They’ve got great respect for me, actually.”
-
-A field stretches out on either side of the road.
-
-“Many women have been robbed here ... One morning, we picked up a body here,” she says, pointing and out of breath as she walks briskly to the safety of the busier road ahead.
-
-“It’s a great risk for me, as a single woman and head of the house. I am providing for my family. Every day I work with that fear: will I [get there] safely?”
-
-She climbs into a taxi as the rain begins to fall. The other passengers are quiet; a sleepy haze lingers.
-
-After almost 40 minutes, covering a distance of only 10km, we arrive at the Wynberg train station.
-Commuters’ feet crunch over piles of rubbish that have accumulated beneath a bridge near the station. After buying a ticket, Adams waits as a series of train-delay announcements blare over a speaker.
-
-<div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CzSzYOuSdtY"></iframe>
-</div>
-<figure>
-	<figcaption>Yushra is an activist and civil servant. She fights for transport safety and women's rights. This video documents her dangerous journey form her home in Strandfontein to her work in Cape Town CBD. It takes Yushra 1h16 to cover 23 km. This is her travel story via minibus taxi and train. <strong>VIDEO: KIM HARRISBERG</strong></figcaption>
-</figure>
-
-“There are times when the trains are late. You have to be up early to be here on time ... and then the train is late. It makes you late for your work,” she says.
-
-“Sometimes you don’t have enough airtime to call your work. It jeopardises your work because sometimes the bosses don’t understand.”
-
-When the train to the city centre finally arrives, the waiting throng pushes to get on board. Inside, people rush to find a seat or an open spot to stand. Small pools of rainwater have gathered on the train floor.
-
-“I was lucky to find a seat today,” says Adams. “Usually, I have to stand. I think it is the weather.”
-She speaks about the vulnerability of women on the train. “You get touched by people, pushed by people. I have been pickpocketed. I have seen people getting beaten up here by police. The train is not safe, especially for women.
-
-After arriving at Cape Town station, Adams says this is the first time she has felt safe on the train, “because I had two journalists with me”.
-
-Her commute, she says, is usually “painful”.
-
-The 23km journey to the social development building (also known as the Standard Bank building) where Adams works part time as a data collector, took her an hour and 16 minutes by train and taxi.
-
-Monthly travel costs for herself and her children are R1 860 – 53% of her monthly salary. She wishes she could travel some other way but, as the breadwinner for her five children, Adams has no other option.
-
-## A Long Journey For My Darling
-by AVANTIKA SEETH and DANIELA LÉPIZ
-
-Every weekday, Rebotile Busang (33), a registry clerk from Soshanguve, travels to work in Silverton, Pretoria, on a Putco bus.
-
-Her workplace is 50km away, and she spends about 180 minutes daily on the bus.
-
-Black residents of Pretoria spent the greatest amount of time in the country on public transport, a daily average of 80 minutes to work, a data analysis conducted by Code for South Africa and City Press found. And with 403 162 residents living to the north of Pretoria, in Soshanguve, that’s a lot of minutes every day.
-
-It’s 4pm on a Friday afternoon and Busang knocks off work at the police logistics department in Silverton. Buses and taxis whizz past as we wait at the stop while the late-afternoon chill builds up.
-City Press joins Busang for the R20 ride home. We take our seats in a fairly empty bus as she sits next to a friend. “Everyone is friendly on the bus. We are all from Soshanguve and we travel the same route every morning and evening to and from work,” she says.
-
-“I buy a weekly bus ticket, which is R156. There is a monthly ticket, which can be bought, but I don’t trust the bus services because sometimes they don’t operate and then we are left stranded. It’s not as if we get that money back, so this is a safer way for me to plan my travel costs.”
-
-Busang stays in Block F West, Soshanguve, with her daughter, Keloabetse; her grandmother, who receives a monthly state pension; her aunt, who sells shoes and clothing; and her cousin, who is a mechanic. Apart from the day-to-day running of the household, she also has to see to the transport costs of Keloabetse (7), as she travels to school with a lift club.
-
-“For the two of us, I pay around R1 200 a month. That includes my bus tickets, and her transport to and from school,” she says. This equates to 10% of her monthly income.
+Dlamini told her story on radio and TV. She was beaten up by a neighbour and although she reported him to the police no action was taken. That night she was attacked by a mob of men and died in hospital the next day.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160618/Spatial package 10.jpg" alt="Rebotile Busang and her daughter, Keloabetse. PHOTO: TEBOGO LETSIE" title="Rebotile Busang and her daughter" />
-	<figcaption>Rebotile Busang and her daughter, Keloabetse. <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160803/lewux500.jpg" alt="SURVIVOR: Musa ‘Queen’ Njoko is living with HIV and wrote the musical to be performed in Durban. PHOTO: HARRY LOCK" title="SURVIVOR" />
+	<figcaption><strong>SURVIVOR</strong>: Musa ‘Queen’ Njoko is living with HIV and wrote the musical to be performed in Durban. <strong>PHOTO: HARRY LOCK</strong></figcaption>
 </figure>
 
-Aside from the cost, the travelling time eats away at Busang’s quality of life. “I am up every day at 3.30am because I have to make the lunches. My daughter wakes up at 4.30am. At first it was difficult for her to be up that early, but now she’s used to it.”
+Said Njoko: "I was acting provincial co-ordinator of the National Association of People living with HIV/Aids. Gugu was in our support group. She was one of us."
 
-A woman walks down the aisle of the bus, selling chips and frozen yogurt.
+Njoko says her faith took her through the worst of it. She was evicted from her church, ostracised by parts of the community and lived through four bouts of TB.
 
-“It’s going to be a long journey, my darling. You’ll get hungry and need to eat. These chips are only R1 a packet,” she says. Apart from her administration day job, she sells these snacks as a means to earn an extra income.
+"After Gugu's murder I felt scared. I couldn't believe that people could be that cruel. At the same time I found more strength. I said to myself, 'Even if it means dying I am not going to be silenced, I will not give in.'"
 
-“Everyone on this bus is like family. In the morning, we even pray together,” she adds before leading them in a gospel song.
+Today Njoko is a popular gospel performer and motivational speaker. Her musical, "the story of my 22 years of grace", boasts a five-piece band, a cast of 16 and is choreographed by her son Thami Njoko.
 
-All around us, passengers begin to shut their eyes, succumbing to the weariness brought about by an early start.
+Dlamini's daughter Mandisa was 13 when her mother was murdered. Today she is an Aids activist and founder of the Gugu Dlamini Foundation, in KwaMashu, which is committed to fighting the social stigma attached to people living with HIV.
 
-At around 5.30pm, after battling through traffic, the bus finally arrives in Soshanguve.
+If her mother could see the progress made, she would be proud. "She would probably say that her death was not in vain. I look at women who remind me of my mom, those from her generation like MaMusa, and I think, maybe she would be like her - strong and successful.
 
-Busang gets off at the third stop and walks the 10 minutes to her home.
+"She would be so proud to see the work of other activists, to see the changes - we talk openly, we have access to treatment and no one is being stoned."
 
-It’s dark when she arrives and she is greeted by seven-year-old Keloabetse, who excitedly tells her about her day at school.
+## Those who died
 
-Busang says: “You know, if I don’t use the bus, I have to take two or three taxis to get to work, and it’s just too expensive and time consuming.
+SUFFER THE LITTLE CHILDREN
+by ROXANNE JOSEPH
 
-“I wish the government would do something about implementing reliable public transport for us, then life wouldn’t be so difficult. I still have to cook supper now and we are usually all in bed by 8pm. It’s a long day and we repeat the same routine weekly. But we’re used to it,” she says.
+A section of the Gugulethu cemetery in Cape Town bears mute testimony to the deadly toll the disease took on the very young, many of them infected when the virus was transmitted to them by their HIV positive mothers at birth. Spanning a narrow, few hundred metre-long section of ground are the graves of babies and the very young.
 
-Keloabetse is eating a sandwich and drinking juice. “I don’t have any homework. I’m going to play with my cousin this weekend,” she says.
+There are very few tombstones in this section: it consists largely of tiny graves with broken, weatherworn wooden crosses.
 
-As her daughter eats, Busang busies herself with the evening tasks, seeing to her grandmother as she asks how her day was. She is about to cook supper for the family.
-
-To get back to the bus stop in Silverton, City Press tries Uber. But there aren’t available cars in Soshanguve. By chance, an Uber driver from the township is on his way to a shift in Pretoria and picks us up, surprised to see our request on his phone. “If you logged the call five minutes later, I would have been gone and you would have to take taxis back to Silverton,” he says.
-
-## The Joy Of Having Time For Family
-by AVANTIKA SEETH
+Where dates on the crosses are still legible, and on the few tombstones, it soon becomes clear that they date from the early 2000s to around 2007, when the virus was running rampant.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160618/Spatial package 6.jpg" alt="Edward Sadiki and his son, Rofhiwa (4). PHOTO: TEBOGO LETSIE" title="Edward Sadiki and his son, Rofhiwa (4)" />
-	<figcaption>Edward Sadiki and his son, Rofhiwa (4). <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160803/gugs-cemetery-4.jpg" alt="YOUNG VICTIMS: The section of Gugulethu cemetery where the graves of children who died of Aids-related illnesses in the early 70s is marked by broken, weatherworn wooden crosses. PHOTO: LAILAH RYKLIEF" title="YOUNG VICTIMS" />
+	<figcaption><strong>YOUNG VICTIMS</strong>: The section of Gugulethu cemetery where the graves of children who died of Aids-related illnesses in the early 70s is marked by broken, weatherworn wooden crosses. <strong>PHOTO: LAILAH RYKLIEF</strong></figcaption>
 </figure>
 
-On a good day, it takes Edward Sadiki (43) just 15 minutes to drive from his house in Fleurhof in the west of Johannesburg to his workplace 12km away in Auckland Park.
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/nazareth-house-2.jpg" alt="IN MEMORIAM: A simple plaque in the garden of remembrance at Nazareth House, Cape Town, where the ashes of babies and young children, is a grim reminder of those who died of Aids-related illnesses. PHOTO: ROXANNE JOSEPH" title="IN MEMORIAM" />
+	<figcaption><strong>IN MEMORIAM</strong>: A simple plaque in the garden of remembrance at Nazareth House, Cape Town, where the ashes of babies and young children, is a grim reminder of those who died of Aids-related illnesses. <strong>PHOTO: ROXANNE JOSEPH</strong></figcaption>
+</figure>
 
-Fleurhof is an integrated housing development, which is home to 9 600 fully subsidised RDP housing units.
+Across town, in the upmarket area of Vredehoek is Nazareth House, where babies and young children found love and comfort and a place to die with dignity among nuns and caring helpers.
 
-Sadiki has called Fleurhof home for almost a year, after managing to secure a bond for his two-bedroom house on Minerva Road. “I am from Limpopo and moved to Soweto in 1996 for work. I stayed in Dobsonville.”
+All that remains to remind of those heartbreaking times is a small plaque and a Garden of Remembrance where the ashes of the dead were scattered.
 
-Sadiki moved to Fleurhof in search of better housing and a shorter commute. Because of the traffic coming out of Soweto, it used to take him an hour to get to work.
-
-The bank administrator, who works for Absa, now saves up to 45 minutes per trip.
-
-Even if there is traffic, he gets home early enough to spend time with his wife and four children, using the extra time for gardening “and odds and ends” around the house.
-
-It’s Youth Day and City Press finds Sadiki painting his outside walls. “Before, I had to travel from Soweto to work and the travelling was horrible,” he says.
-
-“We are happier now.”
