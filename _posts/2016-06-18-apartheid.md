@@ -157,3 +157,23 @@ Where dates on the crosses are still legible, and on the few tombstones, it soon
 Across town, in the upmarket area of Vredehoek is Nazareth House, where babies and young children found love and comfort and a place to die with dignity among nuns and caring helpers.
 
 All that remains to remind of those heartbreaking times is a small plaque and a Garden of Remembrance where the ashes of the dead were scattered.
+
+## Those who were left behind
+
+ITHUMALENG LETSATSI - A STORY OF SURVIVAL
+
+IN 2001, when he was just three years old, Ithumaleng Letsatsi awoke one morning to find his mother, Cheryl-Anne, dead in the bed next to him.
+
+Now almost 19 and on a daily dose of ARVs, Ithumaleng, who lives in Khayelitsha, was infected with the virus at birth by his HIV positive mother.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="SURVIVOR: Ithumaleng Lestsatsi, 19, who takes a daily dose of ARV’s is able to live a normal healthy life. PHOTO: FANIE JASON" title="SURVIVOR" />
+	<figcaption><strong>SURVIVOR</strong>: Ithumaleng Lestsatsi, 19, who takes a daily dose of ARV’s is able to live a normal healthy life. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+As a child he was ostracised by the neighbourhood children in Philippi, where he lived with his HIV positive father Goodrich, because their parents feared they would contract the virus from him. And the crèche he was attending told his father he was no longer welcome after some parents objected and removed their children.
+
+A year after his mother’s death his father died from tuberculosis, one of the opportunistic diseases that often strike down Aids sufferers.
+
+But his tragic story also revealed another, kinder face of the Aids pandemic: the angels who without pay or recognition helped care for sick people, washing their diseased bodies and ensuring they had food.
+
