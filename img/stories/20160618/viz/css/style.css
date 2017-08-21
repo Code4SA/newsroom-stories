@@ -1,0 +1,171 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Lato);
+@import url(https://fonts.googleapis.com/css?family=Gudea|Playfair+Display|Suranna);
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: 'Gudea', sans-serif;
+    color:#555;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+/*body {position:absolute; top:0; bottom:0; right:0; left:0;}*/
+
+h1 {
+  font-family: 'Suranna', sans-serif;
+  font-size:2.5em;
+  text-align: left;
+  text-transform: capitalize;
+}
+.mapH1 {
+  text-align: center;
+}
+h2 {
+  font-family: 'Suranna', sans-serif;
+  font-size: 1.8em;
+  text-align:left;
+  text-transform: capitalize;
+}
+h3 {
+  font-family: 'Suranna', sans-serif;
+  font-size: 1.4em;
+  text-align:left;
+  text-transform: capitalize;
+}
+.headline {
+  padding: 0px 15px;
+  font-size:2em;
+  text-align: left;
+  text-transform: capitalize;
+}
+#map {
+    background-color: #fff;
+    border-bottom: 0px;
+    margin: 0px auto;
+    height: 480px;
+}
+.row {
+  margin-left:0px;
+  margin-right:0px;
+}
+.hidden {display: none;}
+
+#info {
+  border-top: 0px;
+  background-color:#fff;
+}
+#menu {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom:5px;
+}
+#text {
+  font-family: 'Gudea', sans-serif;
+  font-size: 13px;
+  padding: 0px 15px;
+  color:#555;
+  text-align: justify;
+}
+.btn {
+  font-size: 12px!important;
+}
+.btn-default {
+  border-radius: 30px!important;
+  border: 1px solid #e5e5e5!important;
+  background-color: transparent!important;
+  color:#999!important;
+}
+.byline {
+  font-size:14px;
+  text-align: justify;
+}
+div.cartodb-legend-stack { 
+/*change position, */
+bottom:0px!important;
+top:15px!important;
+border-radius: 0px!important;
+box-shadow: none!important;
+border: none!important;
+background-color: transparent!important;
+}
+div.cartodb-legend-stack div.cartodb-legend {
+  background-color:#fff!important;
+  border-radius: 0px!important;
+}
+div.cartodb-legend.category ul li {
+  color:#999!important;
+  font-family:'Gudea', sans-serif!important;
+}
+.leaflet-bar a, .leaflet-bar a:hover {
+  background-color: #fff!important;
+  color:#C5E8E3!important;
+  border-radius: 0px!important;
+  box-shadow: none!important;
+  border: 1px solid #C5E8E3!important;
+}
+.leaflet-left .leaflet-control {
+  margin-left: 30px!important;
+  box-shadow: none!important;
+}
+#credit {
+  font-family:'Gudea', sans-serif;
+  text-align:center;
+  padding:10px 0px;
+  background-color: #efefef;
+}
+#creditMap {
+  font-family:'Gudea', sans-serif;
+  text-align: center;
+  padding: 10px 0px;
+  text-transform: uppercase;
+  color: #379890;
+  font-size: 12px;
+}
+.leadImg {
+  padding-left:0px!important;
+  padding-right:0px!important;
+}
+.leadImg img {
+  width:100%;
+}
+.para {
+  text-align: justify;
+}
+.caption {
+  text-align:left;
+}
+.infoContext {
+  background-color:#efefef;
+  padding:20px;
+}
+.captionVid {
+  text-align:center;
+}
+.creditName {
+  color:#000;
+  font-weight:600;
+  text-transform: uppercase;
+  font-size:12px;
+}
+.imgCenter {
+  text-align: center;
+}
+#menuMobi {
+  display:none;
+  padding-bottom:5px;
+}
+#menuMobi .btn {
+background-color:#efefef;
+}
+.videoDesktop {text-align: center;}
+.videoMobi {display: none;}
+
+@media screen and (max-width: 560px) {
+  #menu {display:none;}
+  #menuMobi {display:inline;padding-bottom:5px;}
+  .videoDesktop {display:none;}
+  .videoMobi {display: inline;text-align: center;}
+}

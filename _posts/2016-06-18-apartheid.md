@@ -1,26 +1,26 @@
 ---
 layout: post
-title: Long commute to freedom
-subtitle: The legacy of Apartheid spatial planning
-wordsby: "Daniela Lepiz, Sipho Masondo, Kim Harrisberg, Avantika Seeth"
-databy: "Daniela Lepiz"
-photographer: "Tebogo Letsie"
+title: Long Commute To Freedom
+subtitle: 
+wordsby: "Daniela Q Lepiz, Sipho Masondo, Avantika Seeth, and Kim Harrisberg"
+databy: "Daniela Q Lepiz and Julia Renouprez"
+photographer: "Tebogo Letsie, Video by Avantika Seeth and Kim Harrisberg"
 devby:	"Lailah Ryklief"
-author: Daniela Lepiz
+author: Daniela Q Lepiz
 excerpt: |
     Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities.
 ---
 
-Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities. DANIELA LÉPIZ and SIPHO MASONDO report
+Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities. DANIELA LÉPIZ and SIPHO MASONDO report:
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="PICTURE PERFECT?: Some say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub. Photo: TEBOGO LETSIE" title="PICTURE PERFECT?" />
-	<figcaption><strong>PICTURE PERFECT?</strong>: Some say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160618/Spatial package 1.jpg" alt="PICTURE PERFECT? USome say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub. PHOTO: TEBOGO LETSIE" title="PICTURE PERFECT?" />
+	<figcaption><strong>PICTURE PERFECT?</strong>: Some say Cosmo City in the north of Johannesburg is an example of good spatial planning because it has developed into ‘a town of its own’, while others believe it’s too far from the economic hub. <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
 </figure>
 
 Black people in particular bear the brunt of a decade-long focus on building houses instead of cities “at whatever cost”.
-This according to a data-driven investigation by City Press and Code for South Africa, which analysed the commuting time and access to public transport of commuters by race in the country’s largest cities.
 
+This according to a data-driven investigation by City Press and Code for South Africa, which analysed the commuting time and access to public transport of commuters by race in the country’s largest cities.
 The data, which was obtained from the most recent National Household Travel Survey, conducted in 2013 and released in 2014, shows that race remains a strong predictor of time spent travelling to and from work.
 
 In addition to the effects of apartheid spatial planning, the country was slow out of the blocks after 1994 to counter this legacy.
@@ -31,17 +31,23 @@ Despite a change of strategy after 2004 – to one that prioritises proximity to
 
 While Professor Karina Landman of the University of Pretoria acknowledges that spatial patterns “don’t change overnight”, Statistics SA boss Pali Lehohla points to data obtained from the 2001 and 2011 censuses, which reveal that population density in the major cities has remained the same.
 
-“Look at Cosmo City [established in 2005], the north of Pretoria and the east of Pretoria: the cities are sprawling outwards. That is exactly what apartheid’s fathers did. What they are doing makes the cost of living and doing business ever more expensive,” Lehohla says. How expensive, exactly?
+“Look at Cosmo City [established in 2005], the north of Pretoria and the east of Pretoria: the cities are sprawling outwards. That is exactly what apartheid’s fathers did. 
+
+What they are doing makes the cost of living and doing business ever more expensive,” Lehohla says. How expensive, exactly?
 
 A nationwide analysis of the expenses of commuters shows that the 20% of the population with the lowest income spend on average R486 a month on public transport, while the 20% with the highest income report a cost of R585 a month – a much heavier burden for the poor considering the proportion the amount makes up of their household income.
 
 Discussing Cape Town’s Transport Development Index, councillor Brett Herron, mayoral committee member for transport in the city, says: “We discovered that [within] our public transport system, 95% of the users are from the low- and low-to-middle income group, and perhaps what is most shocking is the cost of transport. In the low-income category of people, they are spending 45% of their household income on transport. In some parts of the city, like in Atlantis, it is almost 60%.”
 
-**Click on the names of South Africa's largest metros to see the distribution of races across the cities. Hover or click on individual suburbs for more information.**
+<p class="viz-caption">Click on the names of South Africa's largest metros to see the distribution of races across the cities. Hover or click on individual suburbs for more information.</p>
 
-> add visualisation here
+<p class="embed-Map"><script type="text/javascript" src="https://static.code4sa.org/apartheid/embed.js"></script></p>
 
-## Workers also sacrifice valuable time
+<figure>
+	<figcaption>VISUALISATION: LAILAH RYKLIEF</figcaption>
+</figure>
+
+## Workers Also Sacrifice Valuable Time
 
 In the eight cities analysed for this investigation, including Johannesburg, Pretoria, Durban, Cape Town and Port Elizabeth, African and coloured people have the least access to public transport – measured by time spent walking to transport – and are forced to take longer journeys to work. For black residents of these cities, the average daily one-way commute lasts up to two and a half times that of white residents.
 
@@ -52,10 +58,10 @@ Makgorometje Makgata, the City of Tshwane’s strategic executive director for c
 “We are doing all this in an effort to bring people closer to the city.”
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6fPuFKVh1Bc"></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HJXw8oUx4Mk"></iframe>
 </div>
 <figure>
-	<figcaption><strong>VIDEO: AVANTIKA SEETH</strong></figcaption>
+	<figcaption>People who reside in townships are still subjected to inflated travelling costs in order to reach their places of employment which are more often than not located in the cities. City Press follows the journey of one such commuter who stays in Soshanguve but works in Silverton, Pretoria, and explores the after-effects that Apartheid spatial planning has had on her life. <strong>VIDEO: AVANTIKA SEETH</strong></figcaption>
 </figure>
 
 The National Household Travel Survey also measures how long it takes for commuters to reach the first available mode of transport, indicating how far they live from these services. In this instance, the worst city for black commuters is Cape Town, where black residents from households that earn less than R45 000 a month reported that it takes them 12 minutes to walk to their first available mode of transport, while for white residents, the average walking time is just three minutes. The same pattern can be observed in Pretoria, Johannesburg, Durban and Port Elizabeth.
@@ -63,12 +69,12 @@ The National Household Travel Survey also measures how long it takes for commute
 Herron says the city has adopted a transit-oriented development strategy that is aimed at “ensuring that the development is aligned to our public transport network so we can start reducing travel time and cost. So [commuters] don’t use cars and can use public transport.”
 
 However, the city’s plan to build new routes for its bus rapid transit (BRT) system is on a 20-year timeline.
+
 “We have identified 10 new routes and we have planned BRT. In the public transport network plan, they want a new rail corridor that needs to be built. We are working with Prasa [the Passenger Rail Agency of SA], which already has a managing and planning team designing the route. We have 10 new BRT routes and one new rail route,” he said.
 
 The National Household Travel Survey is conducted for the purposes of getting an “in-depth understanding of how and why people travel”
 
-## Getting to work 'is a great risk'
-
+## Getting To Work ‘Is A Great Risk’
 by KIM HARRISBERG
 
 Pelican Park in Strandfontein, Cape Town, feels like a ghost town at 7am. Identical low-cost government houses sit alongside one another like matchboxes. The occasional dog barks in the distance. The quiet streets are badly lit and darkness hangs like a heavy cloak over them.
@@ -84,6 +90,7 @@ Heavy clouds gather. It is about to rain.
 The area is “part of the territory controlled by a gang”, she says.
 
 But Adams, who is outspoken against gender-based violence, says she will “never be attacked”.
+
 “They’ve got great respect for me, actually.”
 
 A field stretches out on either side of the road.
@@ -93,15 +100,15 @@ A field stretches out on either side of the road.
 “It’s a great risk for me, as a single woman and head of the house. I am providing for my family. Every day I work with that fear: will I [get there] safely?”
 
 She climbs into a taxi as the rain begins to fall. The other passengers are quiet; a sleepy haze lingers.
-After almost 40 minutes, covering a distance of only 10km, we arrive at the Wynberg train station.
 
+After almost 40 minutes, covering a distance of only 10km, we arrive at the Wynberg train station.
 Commuters’ feet crunch over piles of rubbish that have accumulated beneath a bridge near the station. After buying a ticket, Adams waits as a series of train-delay announcements blare over a speaker.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6fPuFKVh1Bc"></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CzSzYOuSdtY"></iframe>
 </div>
 <figure>
-	<figcaption><strong>VIDEO: KIM HARRISBERG</strong></figcaption>
+	<figcaption>Yushra is an activist and civil servant. She fights for transport safety and women's rights. This video documents her dangerous journey form her home in Strandfontein to her work in Cape Town CBD. It takes Yushra 1h16 to cover 23 km. This is her travel story via minibus taxi and train. <strong>VIDEO: KIM HARRISBERG</strong></figcaption>
 </figure>
 
 “There are times when the trains are late. You have to be up early to be here on time ... and then the train is late. It makes you late for your work,” she says.
@@ -111,7 +118,6 @@ Commuters’ feet crunch over piles of rubbish that have accumulated beneath a b
 When the train to the city centre finally arrives, the waiting throng pushes to get on board. Inside, people rush to find a seat or an open spot to stand. Small pools of rainwater have gathered on the train floor.
 
 “I was lucky to find a seat today,” says Adams. “Usually, I have to stand. I think it is the weather.”
-
 She speaks about the vulnerability of women on the train. “You get touched by people, pushed by people. I have been pickpocketed. I have seen people getting beaten up here by police. The train is not safe, especially for women.
 
 After arriving at Cape Town station, Adams says this is the first time she has felt safe on the train, “because I had two journalists with me”.
@@ -122,8 +128,7 @@ The 23km journey to the social development building (also known as the Standard 
 
 Monthly travel costs for herself and her children are R1 860 – 53% of her monthly salary. She wishes she could travel some other way but, as the breadwinner for her five children, Adams has no other option.
 
-## A long journey for my darling
-
+## A Long Journey For My Darling
 by AVANTIKA SEETH and DANIELA LÉPIZ
 
 Every weekday, Rebotile Busang (33), a registry clerk from Soshanguve, travels to work in Silverton, Pretoria, on a Putco bus.
@@ -133,7 +138,6 @@ Her workplace is 50km away, and she spends about 180 minutes daily on the bus.
 Black residents of Pretoria spent the greatest amount of time in the country on public transport, a daily average of 80 minutes to work, a data analysis conducted by Code for South Africa and City Press found. And with 403 162 residents living to the north of Pretoria, in Soshanguve, that’s a lot of minutes every day.
 
 It’s 4pm on a Friday afternoon and Busang knocks off work at the police logistics department in Silverton. Buses and taxis whizz past as we wait at the stop while the late-afternoon chill builds up.
-
 City Press joins Busang for the R20 ride home. We take our seats in a fairly empty bus as she sits next to a friend. “Everyone is friendly on the bus. We are all from Soshanguve and we travel the same route every morning and evening to and from work,” she says.
 
 “I buy a weekly bus ticket, which is R156. There is a monthly ticket, which can be bought, but I don’t trust the bus services because sometimes they don’t operate and then we are left stranded. It’s not as if we get that money back, so this is a safer way for me to plan my travel costs.”
@@ -143,8 +147,8 @@ Busang stays in Block F West, Soshanguve, with her daughter, Keloabetse; her gra
 “For the two of us, I pay around R1 200 a month. That includes my bus tickets, and her transport to and from school,” she says. This equates to 10% of her monthly income.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="Rebotile Busang and her daughter, Keloabetse, PHOTO: TEBOGO LETSIE" title="Rebotile Busang and her daughter, Keloabetse" />
-	<figcaption>Rebotile Busang and her daughter, Keloabetse <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160618/Spatial package 10.jpg" alt="Rebotile Busang and her daughter, Keloabetse. PHOTO: TEBOGO LETSIE" title="Rebotile Busang and her daughter" />
+	<figcaption>Rebotile Busang and her daughter, Keloabetse. <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
 </figure>
 
 Aside from the cost, the travelling time eats away at Busang’s quality of life. “I am up every day at 3.30am because I have to make the lunches. My daughter wakes up at 4.30am. At first it was difficult for her to be up that early, but now she’s used to it.”
@@ -173,13 +177,12 @@ As her daughter eats, Busang busies herself with the evening tasks, seeing to he
 
 To get back to the bus stop in Silverton, City Press tries Uber. But there aren’t available cars in Soshanguve. By chance, an Uber driver from the township is on his way to a shift in Pretoria and picks us up, surprised to see our request on his phone. “If you logged the call five minutes later, I would have been gone and you would have to take taxis back to Silverton,” he says.
 
-## The joy of having time for family
-
+## The Joy Of Having Time For Family
 by AVANTIKA SEETH
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160816/unequal_scenes.jpg" alt="Edward Sadiki and his son, Rofhiwa (4), PHOTO: TEBOGO LETSIE" title="Edward Sadiki and his son, Rofhiwa (4)" />
-	<figcaption>Edward Sadiki and his son, Rofhiwa (4) <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
+	<img src="/newsroom-stories/img/stories/20160618/Spatial package 6.jpg" alt="Edward Sadiki and his son, Rofhiwa (4). PHOTO: TEBOGO LETSIE" title="Edward Sadiki and his son, Rofhiwa (4)" />
+	<figcaption>Edward Sadiki and his son, Rofhiwa (4). <strong>PHOTO: TEBOGO LETSIE</strong></figcaption>
 </figure>
 
 On a good day, it takes Edward Sadiki (43) just 15 minutes to drive from his house in Fleurhof in the west of Johannesburg to his workplace 12km away in Auckland Park.
