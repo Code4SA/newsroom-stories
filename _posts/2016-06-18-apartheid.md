@@ -177,18 +177,3 @@ A year after his mother’s death his father died from tuberculosis, one of the 
 
 But his tragic story also revealed another, kinder face of the Aids pandemic: the angels who without pay or recognition helped care for sick people, washing their diseased bodies and ensuring they had food.
 
-In this case it was an unemployed man, Patrick Titi, who took on the unpaid role as caregiver to young Ithumaleng and his father. Patrick was consumed by guilt because he had not been there for his own son, who was dying of Aids in Port Elizabeth. His son was cared for by a friend in his dying days.
-
-<figure>
-	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="ANGEL OF MERCY: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. PHOTO: FANIE JASON" title="ANGEL OF MERCY" />
-	<figcaption><strong>ANGEL OF MERCY</strong>: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. <strong>PHOTO: FANIE JASON</strong></figcaption>
-</figure>
-
-Speaking at the time, Patrick said: “These people with Aids are just like you and me…it is a terrible disease and anyone can get it. We must not turn our backs on these people who are suffering.”
-
-Today Ithumaleng, who has a learning disability, lives with his father’s brother, Eric Letsatsi, and his wife Edith, in Khayelitsha.
-
-“When Tumi came to us he was very sick. He was covered in blisters and the doctors said he wouldn’t live. He was put on ARVs when he was 11 and his face got full and he got his appetite back. Before ARVs he struggled and was sick a lot, but now it is different.”
-
-Remembering the dark, desperate days of the pandemic, Edith says: “It was terrible at that time. Lots of people were dying, family, friends, their children ... and there was nothing you could do. And there was the stigma that was attached, so no-one admitted it was Aids when someone got ill or died. They always came up with something else to explain it.”
-
