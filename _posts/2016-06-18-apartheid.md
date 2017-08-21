@@ -2,7 +2,7 @@
 layout: post
 title: Those who lived, those who died and those who were left behind
 subtitle: Revisiting South Africa’s Aids plague
-wordsby: "Raymond Joseph and Roxanne Joseph"
+wordsby: "Raymond Joseph, Roxanne Joseph and Daniela Q Lepiz"
 databy: "Daniela Q Lepiz"
 photographer: "Fanie Jason"
 devby:	"Lailah Ryklief"
@@ -158,3 +158,166 @@ Across town, in the upmarket area of Vredehoek is Nazareth House, where babies a
 
 All that remains to remind of those heartbreaking times is a small plaque and a Garden of Remembrance where the ashes of the dead were scattered.
 
+## Those who were left behind
+
+ITHUMALENG LETSATSI - A STORY OF SURVIVAL
+
+IN 2001, when he was just three years old, Ithumaleng Letsatsi awoke one morning to find his mother, Cheryl-Anne, dead in the bed next to him.
+
+Now almost 19 and on a daily dose of ARVs, Ithumaleng, who lives in Khayelitsha, was infected with the virus at birth by his HIV positive mother.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="SURVIVOR: Ithumaleng Lestsatsi, 19, who takes a daily dose of ARV’s is able to live a normal healthy life. PHOTO: FANIE JASON" title="SURVIVOR" />
+	<figcaption><strong>SURVIVOR</strong>: Ithumaleng Lestsatsi, 19, who takes a daily dose of ARV’s is able to live a normal healthy life. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+As a child he was ostracised by the neighbourhood children in Philippi, where he lived with his HIV positive father Goodrich, because their parents feared they would contract the virus from him. And the crèche he was attending told his father he was no longer welcome after some parents objected and removed their children.
+
+A year after his mother’s death his father died from tuberculosis, one of the opportunistic diseases that often strike down Aids sufferers.
+
+But his tragic story also revealed another, kinder face of the Aids pandemic: the angels who without pay or recognition helped care for sick people, washing their diseased bodies and ensuring they had food.
+
+In this case it was an unemployed man, Patrick Titi, who took on the unpaid role as caregiver to young Ithumaleng and his father. Patrick was consumed by guilt because he had not been there for his own son, who was dying of Aids in Port Elizabeth. His son was cared for by a friend in his dying days.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="ANGEL OF MERCY: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. PHOTO: FANIE JASON" title="ANGEL OF MERCY" />
+	<figcaption><strong>ANGEL OF MERCY</strong>: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+Speaking at the time, Patrick said: “These people with Aids are just like you and me…it is a terrible disease and anyone can get it. We must not turn our backs on these people who are suffering.”
+
+Today Ithumaleng, who has a learning disability, lives with his father’s brother, Eric Letsatsi, and his wife Edith, in Khayelitsha.
+
+“When Tumi came to us he was very sick. He was covered in blisters and the doctors said he wouldn’t live. He was put on ARVs when he was 11 and his face got full and he got his appetite back. Before ARVs he struggled and was sick a lot, but now it is different.”
+
+Remembering the dark, desperate days of the pandemic, Edith says: “It was terrible at that time. Lots of people were dying, family, friends, their children ... and there was nothing you could do. And there was the stigma that was attached, so no-one admitted it was Aids when someone got ill or died. They always came up with something else to explain it.”
+
+ANNASUENA MALEBO - LEFT BEHIND
+
+ANNASUENA Malebo was 10 years old when her mother died in August 2002. Anneline Malebo, a member of the all-woman group Joy, which had a hit with the iconic song Paradise Road, had refused to pay for ARVs because she wanted to leave some money to her daughter.
+
+The singer was infected with HIV after she was raped at a party in 2000. Although there was a limited ARV pilot underway in Gugulethu where she lived, she fell out of the catchment area and was unable to access the life-saving drugs.
+
+Bravely, and unlike most who were infected, Malebo decided to go public about her status. She believed that her one-time fame would help raise the debate about the virus and the lack of access to ARVs for the poor.
+
+All but forgotten by her friends and shunned by her community she slowly wasted away and died of an Aids-related illness.
+
+Annasuena, who mostly only saw her mother on weekends, said: “I could see she was frail, but she always acted strong and positive when I was around. My older brother, Linden, cleaned and washed her. When I was around I helped, gave her meds; I saw how sick she was, but I had to be strong, I could not cry in front of her.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="THEN: Annasuene Malebo, 19, with her mother Annaline. PHOTO: FANIE JASON" title="THEN" />
+	<figcaption><strong>THEN</strong>: Annasuene Malebo, 19, with her mother Annaline. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+“When I asked her what was wrong, she said it was high blood pressure. I grew up quicker than most kids of my age. That happens when you are a carer at the age of 10 to someone who is very sick.”
+
+When it became clear that Malebo would not be able to access the free ARV programme a benefit concert was held to raise money to pay for the medication. Top musicians donated their performances for free and thousands of rands were raised.
+
+But Malebo refused to use the money for ARVs and effectively signed her own death warrant by insisting it instead be used to support Annasuena and her younger sister Naledi, who was six. Shortly before she died Malebo, her health rapidly failing, was admitted to a private clinic.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/annasuene-malebox500.jpg" alt="NOW: Annasuene Malebo who helped nurse her Aids positive mother, Annaline. PHOTO: FANIE JASON" title="NOW" />
+	<figcaption><strong>NOW</strong>: Annasuene Malebo who helped nurse her Aids positive mother, Annaline. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+“The last time I saw her she was joking and singing to me and I hoped that she was getting better. Until then I hated visiting her in hospital, I was scared of losing her; that she was going to die.”
+
+Tears brimming in her eyes, Annasuena adds angrily: “If antiretrovirals were available for everyone then, it is possible she could still be alive. I have made peace with mom’s death. At least today, with ARVs available, people are living longer.”
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9wl8qezF8wk"></iframe>
+</div>
+<figure>
+	<figcaption><strong>SURVIVOR</strong>: Annasuene Malebo shares where she is now and recalls the loss of her mother during the AIDS epidemic. <strong>VIDEO: LAILAH RYKLIEF & ROXANNE JOSEPH</strong></figcaption>
+</figure>
+
+## What the data reveals?
+by DANIELA Q LÉPIZ
+
+WHILE people continue to die in South Africa of Aids-related illnesses, an analysis of data from 1997 to 2014 reveals a drastic decline in deaths of children aged birth to 10 since President Jacob Zuma came to power.
+
+There has been a 37% decrease in deaths in this age range, dropping from 898 in 2000 to 564 in 2014.
+
+And the number of babies under one year old who died in 2000 compared to 2014 has dropped by 55%, from 503 to 277.
+
+The difference between the Thabo Mbeki and Jacob Zuma administrations’ approach to the HIV/Aids epidemic is starkly illustrated by in statistics.
+
+div class="vizDesktop"><figure><script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 654px; height: 742px;margin-left: auto;margin-right: auto;'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mb&#47;Mbeki_range&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='742' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Mbeki_range&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mb&#47;Mbeki_range&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div><figcaption><i class="fa fa-hand-pointer-o fa-lg fa-fw" aria-hidden="true"></i>   Click on "age range” on the top right of this interactive visualisation to view the numbers and years of Aids-related deaths between 1997 and 2012 <strong>GRAPHIC: DANIELA Q LÉPIZ</strong></figcaption></figure></div>
+
+<div class="vizMobi"><figure><a href="https://public.tableau.com/views/Mbeki_range/Dashboard1?:embed=y&:loadOrderID=0&:display_count=yes&:showTabs=y" target="_blank"><img class="tabViz" src="img/HIV-visualisation-mobi.jpg" alt="HIV visualisation" title="HIV visualisation" /></a><figcaption><i class="fa fa-hand-pointer-o fa-lg fa-fw" aria-hidden="true"></i>   Click on "age range” on the top right of this interactive visualisation to view the numbers and years of Aids-related deaths between 1997 and 2012 <strong>GRAPHIC: DANIELA Q LÉPIZ</strong></figcaption></figure></div>
+
+The highest number of deaths in children aged between one and 10 during the Mbeki administration occurred in 2006, when 1154, died. The highest number of children to die in this age range during the Zuma administration was when deaths spiked 2010, when 883 children died. During this time period, there was a 48% decrease in recorded deaths of children.
+
+And between 2006 and 2014, the decrease in child deaths dropped by 51%, from 1154 to 564.
+
+It is far more difficult to track the deaths of adults, because the year in which they were infected is impossible to gauge from Stats SA data. But with children there is more certainty as it is possible to know the maximum time period they could have been infected.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/died-aids-family.jpg" alt="TRAGIC: The coffins of Lungiselelo Mhlana, 24, his wife, Nophathekile, 23, and their three-year-old daughter, Sindiswa, lie side by side during a ceremony in Cape Town after they all died of Aids-related illnesses in 2000, over a period of three days. PHOTO: FANIE JASON" title="TRAGIC" />
+	<figcaption><strong>TRAGIC</strong>: The coffins of Lungiselelo Mhlana, 24, his wife, Nophathekile, 23, and their three-year-old daughter, Sindiswa, lie side by side during a ceremony in Cape Town after they all died of Aids-related illnesses in 2000, over a period of three days. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+## Peddlars of false hope
+by ROXANNE JOSEPH
+
+With little or no access to ARVs, sick and dying people often turned to ‘alternative’ cures and sangomas and other traditional healers in their desperate search for a cure.
+
+And the Minister of Health Manto Tshabalala- Msimang recommended a bizarre diet of garlic, beetroot, African potatoes, lemons and vitamins, even people all over South Africa were dying of Aids-related illnesses.
+
+Peddlers of false hope also offered alternatives “cures” that were often dangerous and, in some cases, proved fatal.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/sangoma.jpg" alt="DESPERATE: Deprived of ARV’s, this desperately ill woman turned to a sangoma in her search for a cure. She died soon after this photograph was taken. PHOTO: FANIE JASON" title="DESPERATE" />
+	<figcaption><strong>DESPERATE</strong>: Deprived of ARV’s, this desperately ill woman turned to a sangoma in her search for a cure. She died soon after this photograph was taken. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+‘Oxytherapy’ using ozone, hyperthermia via high temperature baths and Virodene, a drug composed of the toxic industrial solventdimethylformamide, were just a few of the “cures” on offer in South Africa. There were also numerous cases of fraudulent traditional healers, while fake ARVs, often composed of toxic substances, caused illness and death.
+
+## The Church of hope
+
+EACH day, scores of schoolchildren line up for their plate of food at the JL Zwane Memorial Church in Gugulethu.
+
+The church is a beacon of hope for those struggling to survive, but a decade ago it was assisting a different kind of needy population - those afflicted with HIV and Aids.
+
+At a time when treatment was available only to a fortunate few, the church offered support, love and comfort and regular meals to those infected by the virus, no matter their religious denomination.
+
+“It was a terrible time, people were dying all the time,” says Reverend Siphiwo Xaphile. A lot of people in our community were at the point of dying; they’d given up hope. There was no support from government.”
+
+The church made a decision to do something rather than just sit by watching, he says. “The gift we gave people was the gift of presence, being there when they needed it.
+
+“Even the clinics, without access to ARVs, would refer people to our church. They knew that at least we would be able to give people food and support and a feeling of being loved and accepted.”
+
+But there was also a feeling of helplessness among those helping the sick and dying.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/church-rev.jpg" alt="OSTRACISED: Reverend Siphiwo Xaphile who was ostracised by the Presbyterian Church for his unorthodox way of dealing with the Aids pandemic. PHOTO: FANIE JASON" title="OSTRACISED" />
+	<figcaption><strong>OSTRACISED</strong>: Reverend Siphiwo Xaphile who was ostracised by the Presbyterian Church for his unorthodox way of dealing with the Aids pandemic. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+“It was the only time the church did not have what it claimed to have. We could not wait; people were dying so we got involved in education programmes that had to do with human sexuality. “But the church did not have a language to talk about that, so we had to take a risk,” he says.
+
+It was a brave decision, but it put Xaphile into direct conflict with the Presbyterian Church, which ostracised him. While the church advocates abstinence outside of marriage, the JL Zwane leadership recognised that the sexually transmitted virus was killing people.
+
+“Commitment leads you to spaces you thought you would never go to. We distributed condoms and some members of the congregation pretended they were seeing them for the first time.”
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZDcA4CughFo"></iframe>
+</div>
+<figure>
+	<figcaption><strong>SUPPORT</strong>: Reverend Siphiwo Xaphile of the JL Zwane Memorial Church describes the role of the Church during the height of the epidemic. <strong>VIDEO: LAILAH RYKLIEF & ROXANNE JOSEPH</strong></figcaption>
+</figure>
+
+When the Presbyterian Church ostracised him, support came from the most unlikely of places. The Open Arms Church in Minnesota in the US, which was ministering to gay people living with HIV and Aids, offered financial help to JL Zwane for its work.
+
+Ironically, as a result of this partnership, Presbyterian churches in the US reached out to Open Arms, even as the local church failed to support what was happening at the JL Zwane in Gugulethu.
+
+The JL Zwane Church did more than feed, educate and comfort people; it also embarked on a course of advocacy and joined the TAC (Treatment Action Campaign) on a march to Parliament “to bring pressure on the government to intervene and supply ARVs.
+
+Today, with ARVs and a better understanding of HIV and Aids, the feeding programme has ended and the church instead now feeds scores of schoolchildren every day.
+
+But the memories of those dark days linger on in the minds of those who fought the scourge and those who were helped and survived to tell their stories.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/church-exterior.jpg" alt="CHURCH OF HOPE: The JL Zwane Memorial Church which was a haven for HIV positive people at the height of the Aids pandemic. PHOTO: FANIE JASON" title="CHURCH OF HOPE" />
+	<figcaption><strong>CHURCH OF HOPE</strong>: The JL Zwane Memorial Church which was a haven for HIV positive people at the height of the Aids pandemic. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
