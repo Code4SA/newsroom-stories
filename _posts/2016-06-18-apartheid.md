@@ -61,7 +61,7 @@ Makgorometje Makgata, the City of Tshwane’s strategic executive director for c
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HJXw8oUx4Mk"></iframe>
 </div>
 <figure>
-	<figcaption>People who reside in townships are still subjected to inflated travelling costs in order to reach their places of employment which are more often than not located in the cities. City Press follows the journey of one such commuter who stays in Soshanguve but works in Silverton, Pretoria, and explores the after-effects that Apartheid spatial planning has had on her life. <strong>VIDEO: AVANTIKA SEETH</strong></figcaption>
+	<figcaption>People who reside in townships are still subjected to inflated travelling costs in order to reach their places of employment which are more often than not located in the cities. We follow the journey of one such commuter who stays in Soshanguve but works in Silverton, Pretoria, and explore the after-effects that Apartheid spatial planning has had on her life. <strong>VIDEO: AVANTIKA SEETH</strong></figcaption>
 </figure>
 
 The National Household Travel Survey also measures how long it takes for commuters to reach the first available mode of transport, indicating how far they live from these services. In this instance, the worst city for black commuters is Cape Town, where black residents from households that earn less than R45 000 a month reported that it takes them 12 minutes to walk to their first available mode of transport, while for white residents, the average walking time is just three minutes. The same pattern can be observed in Pretoria, Johannesburg, Durban and Port Elizabeth.
