@@ -115,7 +115,7 @@ Njoko told her story to the local Zulu paper, Ilanga. It made the front page, an
 Dlamini told her story on radio and TV. She was beaten up by a neighbour and although she reported him to the police no action was taken. That night she was attacked by a mob of men and died in hospital the next day.
 
 <figure>
-	<img src="/newsroom-stories/img/stories/20160803/lewux500.jpg" alt="SURVIVOR: Musa ‘Queen’ Njoko is living with HIV and wrote the musical to be performed in Durban. PHOTO: HARRY LOCK" title="SURVIVOR" />
+	<img src="/newsroom-stories/img/stories/20160803/survivor-musanjoko.jpg" alt="SURVIVOR: Musa ‘Queen’ Njoko is living with HIV and wrote the musical to be performed in Durban. PHOTO: HARRY LOCK" title="SURVIVOR" />
 	<figcaption><strong>SURVIVOR</strong>: Musa ‘Queen’ Njoko is living with HIV and wrote the musical to be performed in Durban. <strong>PHOTO: HARRY LOCK</strong></figcaption>
 </figure>
 
@@ -176,4 +176,19 @@ As a child he was ostracised by the neighbourhood children in Philippi, where he
 A year after his mother’s death his father died from tuberculosis, one of the opportunistic diseases that often strike down Aids sufferers.
 
 But his tragic story also revealed another, kinder face of the Aids pandemic: the angels who without pay or recognition helped care for sick people, washing their diseased bodies and ensuring they had food.
+
+In this case it was an unemployed man, Patrick Titi, who took on the unpaid role as caregiver to young Ithumaleng and his father. Patrick was consumed by guilt because he had not been there for his own son, who was dying of Aids in Port Elizabeth. His son was cared for by a friend in his dying days.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="ANGEL OF MERCY: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. PHOTO: FANIE JASON" title="ANGEL OF MERCY" />
+	<figcaption><strong>ANGEL OF MERCY</strong>: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+Speaking at the time, Patrick said: “These people with Aids are just like you and me…it is a terrible disease and anyone can get it. We must not turn our backs on these people who are suffering.”
+
+Today Ithumaleng, who has a learning disability, lives with his father’s brother, Eric Letsatsi, and his wife Edith, in Khayelitsha.
+
+“When Tumi came to us he was very sick. He was covered in blisters and the doctors said he wouldn’t live. He was put on ARVs when he was 11 and his face got full and he got his appetite back. Before ARVs he struggled and was sick a lot, but now it is different.”
+
+Remembering the dark, desperate days of the pandemic, Edith says: “It was terrible at that time. Lots of people were dying, family, friends, their children ... and there was nothing you could do. And there was the stigma that was attached, so no-one admitted it was Aids when someone got ill or died. They always came up with something else to explain it.”
 
