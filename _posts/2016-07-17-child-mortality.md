@@ -4,7 +4,7 @@ title: This is what is killing our children
 subtitle: Child mortality in South African Schools
 wordsby: "Daniela Q Lepiz, Roxanne Joseph and Lubabalo Ngcukana"
 databy: "Daniela Q Lepiz"
-photographer: "Fanie Jason"
+photographer: "Daniela Q Lepiz and Lubabalo Ngcukana"
 devby:	"Lailah Ryklief"
 author: Daniela Q Lepiz
 excerpt: |
