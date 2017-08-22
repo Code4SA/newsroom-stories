@@ -177,3 +177,29 @@ A year after his mother’s death his father died from tuberculosis, one of the 
 
 But his tragic story also revealed another, kinder face of the Aids pandemic: the angels who without pay or recognition helped care for sick people, washing their diseased bodies and ensuring they had food.
 
+In this case it was an unemployed man, Patrick Titi, who took on the unpaid role as caregiver to young Ithumaleng and his father. Patrick was consumed by guilt because he had not been there for his own son, who was dying of Aids in Port Elizabeth. His son was cared for by a friend in his dying days.
+
+<figure>
+	<img src="/newsroom-stories/img/stories/20160803/lived-itumeleng-present.jpg" alt="ANGEL OF MERCY: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. PHOTO: FANIE JASON" title="ANGEL OF MERCY" />
+	<figcaption><strong>ANGEL OF MERCY</strong>: Patrick Titi who cared for HIV positive Goodrich Letsatsi and his son Ithumaleng. <strong>PHOTO: FANIE JASON</strong></figcaption>
+</figure>
+
+Speaking at the time, Patrick said: “These people with Aids are just like you and me…it is a terrible disease and anyone can get it. We must not turn our backs on these people who are suffering.”
+
+Today Ithumaleng, who has a learning disability, lives with his father’s brother, Eric Letsatsi, and his wife Edith, in Khayelitsha.
+
+“When Tumi came to us he was very sick. He was covered in blisters and the doctors said he wouldn’t live. He was put on ARVs when he was 11 and his face got full and he got his appetite back. Before ARVs he struggled and was sick a lot, but now it is different.”
+
+Remembering the dark, desperate days of the pandemic, Edith says: “It was terrible at that time. Lots of people were dying, family, friends, their children ... and there was nothing you could do. And there was the stigma that was attached, so no-one admitted it was Aids when someone got ill or died. They always came up with something else to explain it.”
+
+ANNASUENA MALEBO - LEFT BEHIND
+
+ANNASUENA Malebo was 10 years old when her mother died in August 2002. Anneline Malebo, a member of the all-woman group Joy, which had a hit with the iconic song Paradise Road, had refused to pay for ARVs because she wanted to leave some money to her daughter.
+
+The singer was infected with HIV after she was raped at a party in 2000. Although there was a limited ARV pilot underway in Gugulethu where she lived, she fell out of the catchment area and was unable to access the life-saving drugs.
+
+Bravely, and unlike most who were infected, Malebo decided to go public about her status. She believed that her one-time fame would help raise the debate about the virus and the lack of access to ARVs for the poor.
+
+All but forgotten by her friends and shunned by her community she slowly wasted away and died of an Aids-related illness.
+
+Annasuena, who mostly only saw her mother on weekends, said: “I could see she was frail, but she always acted strong and positive when I was around. My older brother, Linden, cleaned and washed her. When I was around I helped, gave her meds; I saw how sick she was, but I had to be strong, I could not cry in front of her.
