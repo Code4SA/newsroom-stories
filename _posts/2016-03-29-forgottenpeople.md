@@ -7,6 +7,7 @@ databy: "Lailah Ryklief, Julia Renouprez"
 photographer: "Michael Walker"
 devby:	"Lailah Ryklief"
 author: Lailah Ryklief, Noloyiso Mtembu
+image: /newsroom-stories/img/stories/20160329/12339__settlements-numbers.jpg
 excerpt: |
     Thousands of people, who have been living in dire poverty for years, “forgotten” by the authorities because they are missing from census data. An investigation conducted by Code4SA Data Journalism Academy, based on data acquired from several sources has revealed that there are 97 informal settlements that were never counted in the last census conducted in 2011. In these settlements live thousands of “forgotten” people.
 ---

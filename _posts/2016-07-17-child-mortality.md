@@ -7,6 +7,7 @@ databy: "Daniela Q Lepiz"
 photographer: "Daniela Q Lepiz and Lubabalo Ngcukana"
 devby:	"Lailah Ryklief"
 author: Daniela Q Lepiz
+image: /newsroom-stories/img/stories/20160717/kids-2.jpg
 excerpt: |
     More than 20 000 pupils lost their lives between 2012 and 2014. Of these, close to two-thirds succumbed to illness. More than a quarter died because of accidents. One in 10 took their own lives or were victims of violence. Code for South Africa and City Press take a closer look.
 ---
