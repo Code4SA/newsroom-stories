@@ -2,23 +2,19 @@
 layout: post
 title: Long Commute To Freedom
 subtitle: 
-wordsby: "Raymond Joseph, Roxanne Joseph and Daniela Q Lepiz"
+wordsby: "Daniela Q Lepiz, Avantika Seeth and Kim Harrisberg"
 databy: "Daniela Q Lepiz"
-photographer: "Fanie Jason"
+photographer: "Tebogo Letsie"
 devby:	"Lailah Ryklief"
-author: Raymond Joseph
+author: Daniela Q Lepiz
 excerpt: |
     Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities
 ---
 
-<p class="subtitle">
-	...
-</p>
-
 Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities
 
 <p class="byline">
-	Words by Daniela Q Lepiz, Sipho Masondo, Avantika Seeth and Kim Harrisberg. Photographs & Visualisations by Fanie Jason, Roxanne Joseph, Daniela Q Lepiz and Lailah Ryklief. Data by Daniela Q Lepiz. Developer Lailah Ryklief.
+	Produced by Code for South Africa Data Journalism Academy in collaboration with City Press. Words by Daniela Q Lepiz, Avantika Seeth and Kim Harrisberg. Photographs & Visualisations by Tebogo Letsie. Video by Avantika Seeth and Kim Harrisberg. Data by Daniela Q Lepiz. Developer Lailah Ryklief.
 </p>
 
 <figure>
