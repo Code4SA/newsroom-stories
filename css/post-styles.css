@@ -21,9 +21,11 @@ p.post-meta {
 
 blockquote {
 	text-align: center;
-	font-size: 26px;
+	font-size: 20px;
 	font-family: 'Libre Baskerville', 'Playfair Display', serif;
-	margin: 50px 0px;
+	border: none;
+	background-color: transparent;
+	width:80%;
 }
 
 .dropcap {
