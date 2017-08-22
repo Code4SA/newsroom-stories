@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Libre+Franklin:300,400');
+
+h1 {
+	text-align: left;
+}
+
+p.post-meta {
+	text-align: left;
+}
+
+blockquote {
+	text-align: center;
+	font-size: 26px;
+	font-family: 'Libre Baskerville', 'Playfair Display', serif;
+	margin: 50px 0px;
+}
+
+.dropcap {
+	font-family: 'Libre Baskerville', 'Playfair Display', serif;
+	font-size: 55px;
+	font-weight: 700;
+	float: left;
+	padding-left: 0px;
+	padding-right: 10px;
+	padding-top: 11px;
+	padding-bottom: 5px;
+}
+
+h2 {
+	font-size: 32px;
+    font-family: 'Libre Baskerville', 'Playfair Display', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 300;
+}
+h2.subhead {
+    font-size: 24px;
+   	font-family: 'Libre Baskerville', 'Playfair Display', sans-serif;
+   	text-align: center;
+   	font-weight: 300;
+   	margin-top: 30px;
+   	margin-bottom: 30px;
+}
+p.subauthor {
+	margin-top:-15px;
+	margin-bottom:15px;
+	text-align: center;
+}
