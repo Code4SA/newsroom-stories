@@ -1,0 +1,57 @@
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <title>Apartheid Map</title>
+  <link rel="stylesheet" href="css/cartodb.css" />
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div id="mapContainer">
+
+  <div><h1 class="mapH1">The Legacy of Apartheid</h1></div>
+
+  <div id="menu"><button type="button" class="btn btn-default btnJoburg">Johannesburg</button><button type="button" class="btn btn-default btnCapeTown">Cape Town</button><button type="button" class="btn btn-default btnDurban">Durban</button><button type="button" class="btn btn-default btnEastLondon">East London</button><button type="button" class="btn btn-default btnPretoria">Pretoria</button></div>
+
+  <div id="menuMobi"><button type="button" class="btn btn-block btnJoburg">Johannesburg</button><button type="button" class="btn btn-block btnCapeTown">Cape Town</button><button type="button" class="btn btn-block btnDurban">Durban</button><button type="button" class="btn btn-block btnEastLondon">East London</button><button type="button" class="btn btn-block btnPretoria">Pretoria</button></div>
+
+  <div class="row">
+  
+    <div id="map" class="col-xs-12 col-md-8"></div>
+    
+    <div id="info" class="col-xs-12 col-md-4">
+
+    <!-- johannesburg --><div id="jb" class="hidden"><div class="headline" style="font-family:'Suranna',sans-serif;"><p>Johannesburg</p></div><div id="media"></div><div id="text"><p>Despite being the economic capital of the country, Johannesburg does not have the highest commuting times in the country. In Johannesburg, black commuters using public transport take, on average, 64 minutes to get to work, while white commuters take 47. The first available mode of public transport is about ten minutes away for the average black commuter, and two minutes for the average white commuter.</p></div><div id="chart"></div></div>
+
+    <!-- cape town --><div id="ct" class="hidden"><div class="headline" style="font-family:'Suranna',sans-serif;"><p>Cape Town</p></div><div id="media"></div><div id="text"><p>Cape Town is characterised by long commuting times and more difficult access to public transport on the outskirts of the city.The average time for a black commuter to reach the first available mode of public transport is almost 12 minutes, while white commuters need around two minutes to reach such transport, the latest Statistics South Africa National Household Travel Survey shows. White commuters, on average, take 40 minutes to get to work, while black commuters take 62 minutes.</p></div><div id="chart"></div></div>
+
+    <!-- durban --><div id="dbn" class="hidden"><div class="headline" style="font-family:'Suranna',sans-serif;"><p>Durban</p></div><div id="media"></div><div id="text"><p>In Durban, white people live the furthest from the nearest mode of public transport compared to other metros – about six minutes from home to the transport mode. But the nationwide disparity between black and white commuters is evident in this city, too: black commuters live about 10 minutes from the first mode of public transport. It takes black people far longer than white people to get to work: 58 minutes versus 36 minutes.</p></div><div id="chart"></div></div>
+
+    <!-- east london --><div id="el" class="hidden"><div class="headline" style="font-family:'Suranna',sans-serif;"><p>East London</p></div><div id="media"></div><div id="text"><p>East London is the city with the smallest gap in commuting times to work between black and white people: at 53 minutes (black) and 43 minutes (white) respectively.</p></div><div id="chart"></div></div>
+
+    <!-- pretoria --><div id="pt" class="hidden"><div class="headline" style="font-family:'Suranna',sans-serif;"><p>Pretoria</p></div><div id="media"></div><div id="text"><p>Among the eight metros analysed, black (African) commuters in Pretoria who used public transport had the longest average daily one-way commute to work. Black commuters spent 80 minutes on average whereas it took white commuters on average 44 minutes. The difference in access to public transport is also significant: black commuters needed 11 minutes to reach their first mode of public transport, while white commuters only needed two minutes.</p></div><div id="chart"></div></div>
+
+    </div>
+    
+    <div id="creditMap" class="col-xs-12 col-md-8 col-md-offset-2"><p>Produced by Code for South Africa Data Journalism Academy</p></div>
+
+  </div>
+
+    </div><!--end map container -->
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://cartodb-libs.global.ssl.fastly.net/cartodb.js/v3/3.15/cartodb.js"></script>
+  <script src="js/map-control.js"></script>
+  <script src="js/pym.js"></script>
+    <script>
+      var pymChild = new pym.Child({ id: 'code4sa-apartheid-index',
+      polling: 1000
+      });
+    </script>
+
+</body>
+  
+</html>
