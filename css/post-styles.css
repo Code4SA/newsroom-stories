@@ -8,6 +8,17 @@ p.post-meta {
 	text-align: left;
 }
 
+.subtitle {
+	font-size: 32px;
+}
+
+.byline {
+	font-size:14px;	
+	font-style: italic;
+	color: #777;
+	text-align: left;
+}
+
 blockquote {
 	text-align: center;
 	font-size: 26px;
