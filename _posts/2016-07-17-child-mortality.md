@@ -24,7 +24,7 @@ More than 20 000 pupils lost their lives between 2012 and 2014. Of these, close 
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160717/kids-2.jpg" alt="CAUGHT IN THE CROSSFIRE: Ten-year-old Matthew, right, who attends school in the Manenberg area, has been caught in gang crossfire four times. He has avoided being shot, but fears for his life. PHOTO: DANIELA Q LÉPIZ" title="CAUGHT IN THE CROSSFIRE" />
-	<figcaption><strong>CAUGHT IN THE CROSSFIRE</strong>: Ten-year-old Matthew, right, who attends school in the Manenberg area, has been caught in gang crossfire four times. He has avoided being shot, but fears for his life. <strong>PHOTO: DANIELA Q LÉPIZ</strong></figcaption>
+	<figcaption>CAUGHT IN THE CROSSFIRE: Ten-year-old Matthew, right, who attends school in the Manenberg area, has been caught in gang crossfire four times. He has avoided being shot, but fears for his life. PHOTO: DANIELA Q LÉPIZ</figcaption>
 </figure>
 
 <span class="dropcap">O</span>vercoming the difficulties of maths, science and languages is not the only challenge pupils face when they go to school each day.
@@ -57,7 +57,7 @@ He has just come from a soccer match, evident by the dust and dirt that covers h
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160717/map-mannenberg.jpg" alt="GANGLAND: The area highlighted is the Mannenberg area, where children have learnt to dive for cover when gangs start shooting and the bullets start flying" title="GANGLAND" />
-	<figcaption><strong>GANGLAND</strong>: The area highlighted is the Mannenberg area, where children have learnt to dive for cover when gangs start shooting and the bullets start flying. <strong>PHOTO: DANIELA Q LÉPIZ</strong></figcaption>
+	<figcaption>GANGLAND: The area highlighted is the Mannenberg area, where children have learnt to dive for cover when gangs start shooting and the bullets start flying. PHOTO: DANIELA Q LÉPIZ</figcaption>
 </figure>
 
 Manenberg is known as a  volatile and violent area, where different gangs “own” territory and where, to reach school, you first have to make it through the various ganglands.
@@ -78,7 +78,7 @@ In this same area in 2013, the police temporarily closed 14 schools because of t
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Tw4BBqUcZKc"></iframe>
 </div>
 <figure>
-	<figcaption>The community of Mannenberg speaks out on their experiences of gang violence in the area. <strong>VIDEO: LAILAH RYKLIEF & ROXANNE JOSEPH</strong></figcaption>
+	<figcaption>The community of Mannenberg speaks out on their experiences of gang violence in the area. VIDEO: LAILAH RYKLIEF & ROXANNE JOSEPH</figcaption>
 </figure>
 
 <h2>- II - <br><br>Violence-related deaths increase in Western Cape</h2>
@@ -139,7 +139,7 @@ Bonke, who was in Grade 10 at the time, was in the front seat with another pupil
 
 <figure>
 	<img src="/newsroom-stories/img/stories/20160717/luba/luba-1.jpg" alt="PAINFUL LOSS: Bonke Ntulu's mother, Nolungisile, and her daughter Buseka, who survived the accident in which Bonke was killed. PHOTO: LUBABALO NGCUKANA" title="PAINFUL LOSS" />
-	<figcaption><strong>PAINFUL LOSS</strong>: Bonke Ntulu's mother, Nolungisile, and her daughter Buseka, who survived the accident in which Bonke was killed. <strong>PHOTO: LUBABALO NGCUKANA</strong></figcaption>
+	<figcaption>PAINFUL LOSS: Bonke Ntulu's mother, Nolungisile, and her daughter Buseka, who survived the accident in which Bonke was killed. PHOTO: LUBABALO NGCUKANA</figcaption>
 </figure>
 
 Nolungisile says the accident happened about 10km from their home, on the way to the school in the neighbouring village of Coza, about 40km away. “Bonke was passionate about school, even though he started schooling at an older age. He wanted to be better than most rural children.
