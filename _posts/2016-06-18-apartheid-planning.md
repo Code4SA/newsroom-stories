@@ -7,6 +7,7 @@ databy: "Daniela Q Lepiz"
 photographer: "Tebogo Letsie"
 devby:	"Lailah Ryklief"
 author: Daniela Q Lepiz
+image: /newsroom-stories/img/stories/20160618/Spatial package 1.jpg
 excerpt: |
     Apartheid city planning hasn’t ended quickly enough, which means black South Africans still spend too much time and money travelling to work because they live on the outskirts of cities
 ---

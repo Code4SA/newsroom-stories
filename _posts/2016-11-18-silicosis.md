@@ -7,6 +7,7 @@ databy: "Daniela Q. Lépiz"
 photographer: "Johanna Chisholm"
 devby:	"Lailah Ryklief"
 author: Johanna Chisholm and Daniela Q. Lépiz
+image: /newsroom-stories/img/stories/20161118/silicosis-dust-band.jpg
 excerpt: |
     The dust never really settles in the South African gold mining town of Virginia. The small Free State municipality is surrounded by some of the world’s largest gold mines, and the dust deposits that have been left behind to shoulder the town’s borders often blow low over the ground, giving the depressingly flat horizon a foggy glow.
 ---
